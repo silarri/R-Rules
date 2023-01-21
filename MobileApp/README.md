@@ -3,6 +3,7 @@
 
 Autor: Manuel Herrero
 
+## Notas viejas
 ### Procedimiento de configuración e instalación
 
 Para instalar la aplicación en un dispositvo Android real o simulado es necesario instalar [Android Studio](https://developer.android.com/studio/?hl=es-419) y [Node](https://nodejs.org/es/).
