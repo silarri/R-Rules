@@ -1,0 +1,89 @@
+{
+    "default": [{
+        "id": "1_1",
+        "authorId": "1",
+        "author": "DemoEM",
+        "title": "South Korea v. Germany",
+        "type": "Sport",
+        "description": "Sorry Germany :(",
+        "img": "http://e0.365dm.com/18/06/16-9/20/skysports-mesut-ozil-germany_4347232.jpg?20180627172446",           
+        "begin": "2018/08/05/00/00", 
+        "end": "2018/08/05/23/59",
+        "longitude": 0,
+        "latitude": 0
+    }, {
+        "id": "1_2",
+        "authorId": "1",
+        "author": "DemoEM",
+        "title": "Bayatabo Expo",
+        "type": "Culture",
+        "description": "En el marco de la XXXVII semana de la cultura mineña, a celebrarse del 20 al 26 de noviembre, el Museo Municipal del territorio propone un amplio programa de actividades.",
+        "img": "https://vozbayatabominas.files.wordpress.com/2016/11/culturasub.jpg",           
+        "begin": "2018/08/05/00/00",
+        "end": "2018/08/18/00/00",
+        "longitude": 0,
+        "latitude": 0
+    }, {
+        "id": "1_3",
+        "authorId": "1",
+        "author": "DemoEM",
+        "title": "Arenal Sound 2018",
+        "type": "Party",
+        "description": "Arenal Sound 2018 ft. Crystal Fighters and Steve Aoki",
+        "img": "https://indiespot.es/wp-content/uploads/2016/07/Arenal.jpg",           
+        "begin": "2018/08/02/00/00",
+        "end": "2018/08/09/00/00",
+        "longitude": 0,
+        "latitude": 0
+    }, {
+        "id": "3_3",
+        "authorId": "1",
+        "author": "DemoEM3",
+        "title": "Red Dirt by E.M. Reapy",
+        "type": "Culture",
+        "description": "Turns the modern Irish immigrant experience into a thought-provoking vibrant novel.",
+        "img": "",           
+        "begin": 0,
+        "end": 0,
+        "longitude": 0,
+        "latitude": 0
+    }, {
+        "id": "3_1",
+        "authorId": "1",
+        "author": "DemoEM3",
+        "title": "Visit Zaragoza",
+        "type": "Culture",
+        "description": "Zaragoza es la capital de Aragón, una de las comunidades autónomas del noreste de España. En el centro de la ciudad se encuentra la basílica barroca de Nuestra Señora del Pilar, orientada hacia el río Ebro. Es un lugar de peregrinación popular con varias cúpulas y un sagrario dedicado a la Virgen María. La ciudad cuenta con monumentos emblemáticos de estilo mudéjar (donde se fusionan la arquitectura islámica y gótica) como la Aljafería, un palacio árabe del siglo XI, y la catedral del Salvador en su Epifanía, que se empezó a construir en el siglo XII.",
+        "img": "http://www.moobit.es/visitaundia/imagenesvisita1dia/aljaferiamuralla.jpg",           
+        "begin": 0,
+        "end": 0,
+        "longitude": -0.8765,
+        "latitude": 41.6563
+    }],
+    "saved":[{
+        "id": "1_4",
+        "authorId": "1",
+        "author": "DemoEM",
+        "title": "MadCool Festival",
+        "type": "Music",
+        "description": "La buena relación entre Mad Cool y NOS Alive, el festival celebrado en Lisboa durante los días 12, 13 y 14 de julio, ha propiciado que un año más, ofrezcamos la posibilidad de disfrutar de los conciertos que tres de nuestros headliners, Pearl Jam, Arctic Monkeys y Queens Of The Stone Age ofrecerán tanto en Madrid como en la ciudad portuguesa.      Esta venta especial de tickets, cuyo precio unitario es de 130 euros (más gastos para los dos días), hace posible que los fans de las tres bandas puedan conseguir entradas para verlos en la cita madrileña y, además, viajen al país vecino para disfrutar de un segundo concierto.  El número de entradas es muy limitado. Tan sólo salen a la venta 100 unidades para disfrutar de cada uno de los grupos. Se podrán conseguir a partir de hoy día 27 de julio a las 12:00 de la mañana a través de la web de Mad Cool Festival. ",
+        "img": "https://www.dodmagazine.es/wp-content/uploads/2017/05/mad-cool-2018.jpg",
+        "begin": "2018/08/12/00/00",
+        "end": "2018/08/14/00/00",
+        "longitude": -3.703790,
+        "latitude": 40.416775
+    }],
+    "historic": [{
+        "id": "2_1",
+        "authorId": "2",
+        "author": "DemoEM2",
+        "title": "Festival Pirineo Sur",
+        "type": "Music",
+        "description": "El festival tiene lugar en el termino municipal de Sallent de Gállego (Huesca), en el Valle de Tena, situado estratégicamente en el centro del Pirineo Aragonés, pudiéndose acceder al Valle, por España o por Francia, y gran parte del recorrido desde las principales ciudades españolas se realiza por autopistas o autovías.",
+        "img": "http://www.huescalamagia.es/blog/wp-content/uploads/2013/05/Auditorio-horiz-©-DPH_Marta-Marco.jpg",
+        "begin": "2018/08/13/00/00",
+        "end": "2018/09/01/00/00",
+        "longitude": -0.316493,
+        "latitude": 42.757898
+    }]
+}

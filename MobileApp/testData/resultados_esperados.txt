@@ -1,0 +1,107 @@
+-------------------------VIERNES----------------------------------------------------	
+CONTEXTO 1: (Viernes por la mañana)
+	- Siddhi: Leisure 
+	- Exclusion sets: Leisure
+
+CONTEXTO 2: (Viernes por la mañana)
+	- Siddhi: Leisure, Museums
+	- Exclusion sets: Leisure, Museums
+
+CONTEXTO 3: (Viernes por la mañana) -> El usuario desactiva la recomedación de Leisure
+	- Siddhi:  Museums
+	- Exclusion sets: Museums
+
+CONTEXTO 4: (Viernes por la mañana)
+	- Siddhi:  Restaurants, PlacesOfInterest
+	- Exclusion sets: Restaurants
+	
+CONTEXTO 5: (Viernes por la tarde)
+	- Siddhi:  NADA
+	- Exclusion sets: NADA
+
+CONTEXTO 6: (Viernes por la tarde) -> El usuario ANTES activa la recomendación de Leisure
+	- Siddhi:  Leisure
+	- Exclusion sets: Leisure
+	
+CONTEXTO 7: (Viernes por la tarde) 
+	- Siddhi:  Leisure, PlacesOfInterest
+	- Exclusion sets: PlacesOfInterest
+	
+CONTEXTO 8: (Viernes por la noche) 
+	- Siddhi:  Leisure, EntertainmentEstablishments
+	- Exclusion sets: Leisure, EntertainmentEstablishments
+	
+
+-------------------------SÁBADO----------------------------------------------------
+
+
+
+CONTEXTO 9: (Sábado por la mañana) -> ANTES ACTIVA Exclusion Set ShowsBetter
+	- Siddhi:  ShowsHalls, Leisure
+	- Exclusion sets: ShowsHalls
+
+CONTEXTO 10: (Sábado por la mañana) 
+	- Siddhi:  Leisure
+	- Exclusion sets: Leisure
+
+CONTEXTO 11: (Sábado por la mañana) 
+	- Siddhi:  Leisure, Shops, Museums
+	- Exclusion sets: Leisure, Museums
+	
+CONTEXTO 12: (Sábado por la mañana)
+	- Siddhi:  Restaurants, Shops
+	- Exclusion sets: Restaurants, Shops
+
+CONTEXTO 13: (Sábado por la tarde) -> desactivar LeisureActivities
+	- Siddhi:   Shops
+	- Exclusion sets: Shops
+	
+CONTEXTO 14: (Sábado por la tarde) -> desactivar GoShopping f
+	- Siddhi:   NADA
+	- Exclusion sets: NADA
+
+CONTEXTO 15: (Sábado por la tarde) -> desactivar GoShopping
+	- Siddhi:   NADA
+	- Exclusion sets: NADA
+
+CONTEXTO 16: (Sábado por la noche) -> ACTIVAR GoShopping
+	- Siddhi:   Shops, EnterteinmentEstablishments
+	- Exclusion sets: Shops, EnterteinmentEstablishments
+
+-------------------------DOMINGO----------------------------------------------------
+Todas las TR activadas + EDITAR TRIGGERING RULE MUSEUMS
+	
+CONTEXTO 17: (Domingo por la mañana) 
+	- Siddhi:   Leisure, Museums
+	- Exclusion sets: Museums, leisure
+
+CONTEXTO 18: (Domingo por la mañana) 
+	- Siddhi:   Leisure, Museums, PlacesOfInterest
+	- Exclusion sets: Museums, places, leisure
+	
+CONTEXTO 19: (Domingo por la tarde) 
+- Siddhi:   Restaurants, PlacesOfInterest
+- Exclusion sets: Restaurants
+
+Desactiva todas las reglas menos "GoShopping"
+
+CONTEXTO 20: (Domingo por la tarde) 
+- Siddhi:   Nada
+- Exclusion sets: Nada
+
+
+CONTEXTO 21: (Domingo por la tarde) 
+- Siddhi:   Shops
+- Exclusion sets: Shops
+
+
+Desactiva todas las reglas
+CONTEXTO 22: (Domingo por la tarde) 
+- Siddhi:   NADA
+- Exclusion sets: NADA
+
+Desactiva todas las reglas
+CONTEXTO 23: (Domingo por la tarde) 
+- Siddhi:   NADA
+- Exclusion sets: NADA
+

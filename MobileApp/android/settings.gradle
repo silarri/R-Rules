@@ -1,0 +1,23 @@
+rootProject.name = 'CARSProject'
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+include ':react-native-maps'
+project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-maps/lib/android')
+include ':realm'
+project(':realm').projectDir = new File(rootProject.projectDir, '../node_modules/realm/android')
+include ':react-native-calendar-events'
+project(':react-native-calendar-events').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-calendar-events/android')
+include ':react-native-fbsdk'
+project(':react-native-fbsdk').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fbsdk/android')
+// Maps 16.06.2018
+include ':react-native-maps'
+project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-maps/lib/android')
+// End of maps
+// Notifications 12.07.2018
+// include ':react-native-push-notification'
+// project(':react-native-push-notification').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-push-notification/android')
+include ':react-native-push-notification-ce'
+project(':react-native-push-notification-ce').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-push-notification-ce/android')
+// End of Notifications
+
+include ':app'

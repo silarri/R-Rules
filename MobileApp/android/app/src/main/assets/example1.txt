@@ -1,0 +1,259 @@
+@App:name("test")
+
+@App:description("Description of the plan")
+
+
+
+--@sink(type = 'log', prefix = 'LOGGER_Context')
+define stream Context (json string);
+
+-- @sink(type = 'log', prefix = 'LOGGER_UserContext')
+define stream UserContext(hasId string, date string, time string, status string, atHome string);
+
+-- @sink(type = 'log', prefix = 'LOGGER_Observations')
+define stream Observations(observedBy string, featureOfInterest string, observedProperty string, observationValue string,timeOfMeasurement  string, hasId string, date string, time string, status string, atHome string);
+
+-- @sink(type = 'log', prefix = 'LOGGER_Preferences')
+define stream Preferences(typeOf string, where string, hasId string, date string, time string, status string, atHome string);
+
+
+--@sink(type = 'log', prefix = 'LOGGER_season')
+define stream Season(contextId string, season string);
+
+--@sink(type = 'log', prefix = 'LOGGER_partOfTheDay')
+define stream PartsOfTheDay(contextId string, partOfTheDay string);
+
+--@sink(type = 'log', prefix = 'LOGGER_daysOfWeek')
+define stream DaysOfWeek (contextId string, dayOfWeek string);
+
+--@sink(type = 'log', prefix = 'LOGGER_weatherStatus')
+define stream WeatherStatus (contextId string, weatherStatus string);
+
+
+@sink(type = 'log', prefix = 'LOGGER_Results')
+define stream Results(contextId string, recommendation string);
+
+--@sink(type = 'log', prefix = 'LOGGER_Recommendations')
+define stream Recommendations(contextId string, recommendation string);
+
+@sink(type = 'log', prefix = 'LOGGER_FinalResult')
+define stream FinalResults(contextId string, recommendation string);
+
+
+
+-- Get UserContext data from JSON Context
+@info(name='getUserContext')
+from Context
+select  json:getString(json,'$.UserContext.hasId') as hasId,
+        json:getString(json,'$.UserContext.date') as date,
+        json:getString(json,'$.UserContext.time') as time,
+        json:getString(json,'$.UserContext.status') as status,
+        json:getString(json,'$.UserContext.atHome') as atHome
+insert into UserContext;
+
+-- Get each element from Observations Array in JSON Context
+@info(name='getObservations')
+from Context#json:tokenizeAsObject(json, '$.Observations')
+select  json:getString(jsonElement, '$.observedBy') as observedBy,
+        json:getString(jsonElement, '$.featureOfInterest') as featureOfInterest,
+        json:getString(jsonElement, '$.observedProperty') as observedProperty,
+        json:getString(jsonElement, '$.observationValue') as observationValue,
+        json:getString(jsonElement, '$.timeOfMeasurement') as timeOfMeasurement,
+        json:getString(json,'$.UserContext.hasId') as hasId,
+        json:getString(json,'$.UserContext.date') as date,
+        json:getString(json,'$.UserContext.time') as time,
+        json:getString(json,'$.UserContext.status') as status,
+        json:getString(json,'$.UserContext.atHome') as atHome
+insert into Observations;
+
+-- Get each element from Preferences Array in JSON Context
+@info(name = 'getPreferences')
+from Context#json:tokenizeAsObject(json, '$.Preferences')
+select  json:getString(jsonElement, '$.typeOf') as typeOf,
+        json:getString(jsonElement, '$.where') as where,
+        json:getString(json,'$.UserContext.hasId') as hasId,
+        json:getString(json,'$.UserContext.date') as date,
+        json:getString(json,'$.UserContext.time') as time,
+        json:getString(json,'$.UserContext.status') as status,
+        json:getString(json,'$.UserContext.atHome') as atHome
+insert into Preferences;
+
+-- DAYS OF WEEK
+@info(name = 'getDayOfWeek')
+from UserContext
+select hasId as contextId, time:dayOfWeek(date, 'yyyy/MM/dd') as dayOfWeek
+insert into DaysOfWeek;
+
+
+-- SEASONS
+-- isWinter
+@info(name = 'isWinter')
+from UserContext[(time:extract('MONTH', date, 'yyyy/MM/dd') == 12) or (time:extract('MONTH', date, 'yyyy/MM/dd') == 1) or (time:extract('MONTH', date, 'yyyy/MM/dd') == 2)]
+select hasId as contextId, 'winter' as season
+insert into Season;
+
+-- isSpring
+@info(name = 'isSpring')
+from UserContext[(time:extract('MONTH', date, 'yyyy/MM/dd') == 3) or (time:extract('MONTH', date, 'yyyy/MM/dd') == 4) or (time:extract('MONTH', date, 'yyyy/MM/dd') == 5)]
+select hasId as contextId, 'spring' as season
+insert into Season;
+
+-- isSummer
+@info(name = 'isSummer')
+from UserContext[(time:extract('MONTH', date, 'yyyy/MM/dd') == 6) or (time:extract('MONTH', date, 'yyyy/MM/dd') == 7) or (time:extract('MONTH', date, 'yyyy/MM/dd') == 8)]
+select hasId as contextId, 'summer' as season
+insert into Season;
+
+-- isAutumn
+@info(name = 'isAutumn')
+from UserContext[(time:extract('MONTH', date, 'yyyy/MM/dd') == 9) or (time:extract('MONTH', date, 'yyyy/MM/dd') == 10) or (time:extract('MONTH', date, 'yyyy/MM/dd') == 11)]
+select hasId as contextId, 'autumn' as season
+insert into Season;
+
+
+-- PARTS OF THE DAY
+-- isEarlyMorning
+@info(name='isEarlyMorning')
+from UserContext[((time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('00:00:00', 'HH:mm:ss')) >= 0) and ((time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('06:30:00', 'HH:mm:ss')) < 0)]
+select hasId as contextId, 'earlyMorning' as partOfTheDay
+insert into PartsOfTheDay;
+
+@info(name='isMorning')
+from UserContext[((time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('06:30:00', 'HH:mm:ss')) >= 0) and ((time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('12:00:00', 'HH:mm:ss')) < 0)]
+select hasId as contextId, 'morning' as partOfTheDay
+insert into PartsOfTheDay;
+
+@info(name='isAfternoon')
+from UserContext[((time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('12:00:00', 'HH:mm:ss')) >= 0) and ((time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('19:00:00', 'HH:mm:ss')) < 0)]
+select hasId as contextId, 'afternoon' as partOfTheDay
+insert into PartsOfTheDay;
+
+@info(name='isNight')
+from UserContext[((time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('19:00:00', 'HH:mm:ss')) >= 0)]
+select hasId as contextId, 'night' as partOfTheDay
+insert into PartsOfTheDay;
+
+
+-- WEATHER STATUS
+@info(name = 'getWeatherStatus')
+from Observations[observedProperty == 'WeatherStatus']
+select hasId as contextId, observationValue as weatherStatus
+insert into WeatherStatus;
+
+
+
+
+-- Recommedations
+
+-- 1
+-- RecommendRestaurant: not at home AND lunch time AND food preference
+@info(name = 'getRestaurantForLunch')
+from Preferences[typeOf == 'Food' and atHome == 'no' and status != 'onHolidays' and (time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('12:30:00', 'HH:mm:ss')) >= 0 and (time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('15:30:00', 'HH:mm:ss')) < 0]
+select hasId as contextId, 'triggerRestaurantRecommendation' as recommendation
+insert into Results;
+
+-- 2
+-- RecommendRestaurant: not at home AND not on holidays AND dinner time AND food preference
+@info(name = 'getRestaurantForDinner')
+from Preferences[typeOf == 'Food' and atHome == 'no' and status != 'onHolidays'  and (time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('20:30:00', 'HH:mm:ss')) >= 0 and (time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('23:30:00', 'HH:mm:ss')) < 0]
+select hasId as contextId, 'triggerRestaurantRecommendation' as recommendation
+insert into Results;
+
+
+-- 3
+-- RecommendRestaurant: on Holidays AND lunch time AND food preference
+@info(name = 'getRestaurantForLunchHolidays')
+from Preferences[typeOf == 'Food' and status == 'onHolidays' and (time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('12:30:00', 'HH:mm:ss')) >= 0 and (time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('15:30:00', 'HH:mm:ss')) < 0]
+select hasId as contextId, 'triggerRestaurantRecommendation' as recommendation
+insert into Results;
+
+-- 4
+-- RecommendRestaurant: on Holidays AND dinner time AND food preference
+@info(name = 'getRestaurantForDinnerHolidays')
+from Preferences[typeOf == 'Food' and status == 'onHolidays' and (time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('20:30:00', 'HH:mm:ss')) >= 0 and (time:timestampInMilliseconds(time, 'HH:mm:ss') - time:timestampInMilliseconds('23:30:00', 'HH:mm:ss')) < 0]
+select hasId as contextId, 'triggerRestaurantRecommendation' as recommendation
+insert into Results;
+
+
+-- 5
+-- RecommendSaturdayNightParty: saturday AND night/earlyMorning AND Party preferene AND not at Home AND not on Holidays
+@info(name = 'getPartyRecommedationSaturdayNight')
+from every e1 = DaysOfWeek[(dayOfWeek == 'sábado')] -> every e2 = PartsOfTheDay[(e1.contextId == contextId) and ((partOfTheDay == 'night') or (partOfTheDay == 'earlyMorning'))] -> every e3 = Preferences[(e2.contextId == hasId) and (typeOf == 'Party') and (atHome == 'no') and (status != 'onHolidays')]
+select e1.contextId as contextId, 'triggerPartyRecommendation' as recommendation
+insert into Results;
+
+
+-- 6
+-- RecommendSaturdayNightParty: night/earlyMorning AND Party preference  AND on Holidays
+@info(name = 'getPartyRecommedationSaturdayNightHolidays')
+from every e1 = PartsOfTheDay[(partOfTheDay == 'night') or (partOfTheDay == 'earlyMorning')] -> every e2 = Preferences[(e1.contextId == hasId) and (typeOf == 'Party') and (status == 'onHolidays')]
+select e1.contextId as contextId, 'triggerPartyRecommendation' as recommendation
+insert into Results;
+
+
+-- OPEN-AIR / INDOOR / BOTH
+
+-- 7
+-- RecommendSaturdayNightShowsMusic - Good Weather AND night AND Shows/Music preference AND on Holidays
+@info(name = 'getShowsOrMusicRecommedationSaturdayNightHolidays')
+from every e1 = PartsOfTheDay[partOfTheDay == 'night'] -> every e2 = WeatherStatus[(contextId == e1.contextId) and (weatherStatus == 'Clear' or weatherStatus == 'Clouds' or weatherStatus == 'Atmosphere')] -> every e3 = Preferences[(e2.contextId == hasId) and ((typeOf == 'Shows') or (typeOf == 'Music')) and (status == 'onHolidays')]
+select e1.contextId as contextId, str:concat('trigger',e3.where, e3.typeOf,'Recommendation') as recommendation
+insert into Results;
+
+-- 8
+-- RecommendSaturdayNightShowsMusic - Bad Weather AND night AND Shows/Music preference AND on Holidays
+@info(name = 'getShowsOrMusicRecommedationSaturdayNightHolidays2')
+from every e1 = PartsOfTheDay[partOfTheDay == 'night'] -> every e2 = WeatherStatus[(contextId == e1.contextId) and (weatherStatus == 'Rain' or weatherStatus == 'Drizzle' or weatherStatus == 'Thunderstorm' or weatherStatus == 'Snow')] -> every e3 = Preferences[(e2.contextId == hasId) and ((typeOf == 'Shows') or (typeOf == 'Music')) and (where != 'Open-Air') and (status == 'onHolidays')]
+select e1.contextId as contextId, str:concat('triggerIndoor', e3.typeOf,'Recommendation') as recommendation
+insert into Results;
+
+-- 9
+-- RecommendOpenAirSport: not weekend AND afternoon/morning AND good Weather AND Sport preference and not on Holidays
+@info(name = 'getOpenAirSportNotWeekend')
+from every e1 = DaysOfWeek[(dayOfWeek != 'sábado') and (dayOfWeek != 'domingo')] -> every e2 = PartsOfTheDay[(e1.contextId == contextId) and ((partOfTheDay == 'afternoon') or (partOfTheDay == 'morning'))] -> every e3 = WeatherStatus[(e2.contextId == contextId) and ((weatherStatus == 'Clear') or (weatherStatus == 'Clouds') or (weatherStatus == 'Atmosphere'))] -> every e4 = Preferences[(e3.contextId == hasId) and (typeOf == 'Sport') and status != 'onHolidays']
+select e1.contextId as contextId, str:concat('trigger', e4.where , e4.typeOf,'Recommendation') as recommendation
+insert into Results;
+
+-- 10
+-- RecommendIndoorSport:  not weekend AND afternoon/morning AND bad Weather AND Sport preference and not on Holidays
+@info(name = 'getIndoorSportNotWeekend')
+from every e1 = DaysOfWeek[(dayOfWeek != 'sábado') and (dayOfWeek != 'domingo')] -> every e2 = PartsOfTheDay[(e1.contextId == contextId) and (partOfTheDay == 'afternoon')] -> every e3 = WeatherStatus[(e2.contextId == contextId) and ((weatherStatus == 'Snow') or (weatherStatus == 'Drizzle') or (weatherStatus == 'Rain') or (weatherStatus == 'Thunderstorm'))] -> every e4 = Preferences[(e3.contextId == hasId) and (typeOf == 'Sport') and (where != 'Open-Air') and status == 'notOnHolidays']
+select e1.contextId as contextId, 'triggerIndoorSportRecommendation' as recommendation
+insert into Results;
+
+
+-- 11
+-- Recommend Open-Air/Both: morning/afternoon AND good Weather AND on holidays AND Education/Culture/Shows/Music/Sport
+@info(name = 'getIndoorHolidays')
+from every e1 = PartsOfTheDay[partOfTheDay == 'morning' or partOfTheDay == 'afternoon'] -> every e2 = WeatherStatus[contextId == e1.contextId and ((weatherStatus == 'Clear') or (weatherStatus == 'Clouds') or (weatherStatus == 'Atmosphere'))] -> every e3 = Preferences[hasId == e2.contextId and status == 'onHolidays' and ((typeOf != 'Food') and (typeOf != 'Party'))]
+select e1.contextId, str:concat('trigger', e3.where, e3.typeOf, 'Recommendation') as recommendation
+insert into Results;
+
+--12
+-- Recommend Indoor: morning/afternoon AND bad Weather AND on holidays AND Education/Culture/Shows/Music/Sport
+@info(name='getOpenAirBothHolidays')
+from every e1 = PartsOfTheDay[partOfTheDay == 'morning' or partOfTheDay == 'afternoon'] -> every e2 = WeatherStatus[contextId == e1.contextId and ((weatherStatus == 'Snow') or (weatherStatus == 'Drizzle') or (weatherStatus == 'Rain') or (weatherStatus == 'ThunderStorm'))] -> every e3 = Preferences[hasId == e2.contextId and status == 'onHolidays' and ((typeOf != 'Food') and (typeOf != 'Party')) and where != 'Open-Air']
+select e1.contextId, str:concat('triggerIndoor', e3.typeOf, 'Recommendation') as recommendation
+insert into Results;
+
+--13
+-- RecommendShows/Music: afternoon/night AND not on holidays AND good Weather
+@info(name = 'getShowsMusicNotHoliday')
+from every e1 = PartsOfTheDay[partOfTheDay == 'afternoon' or partOfTheDay == 'night'] -> every e2 = WeatherStatus[contextId == e1.contextId and ((weatherStatus == 'Clear') or (weatherStatus == 'Clouds') or (weatherStatus == 'Atmosphere'))] -> every e3 = Preferences[hasId == e2.contextId and status == 'notOnHolidays' and (typeOf == 'Music' or typeOf == 'Shows' or typeOf == 'Culture')]
+select e1.contextId, str:concat('trigger', e3.where, e3.typeOf, 'Recommendation') as recommendation
+insert into Results;
+
+--14
+-- RecommendShows/Music: afternoon/night AND not on holidays AND bad Weather
+@info(name = 'getShowsMusicNotHoliday2')
+from every e1 = PartsOfTheDay[partOfTheDay == 'afternoon' or partOfTheDay == 'night'] -> every e2 = WeatherStatus[contextId == e1.contextId and  ((weatherStatus == 'Snow') or (weatherStatus == 'Drizzle') or (weatherStatus == 'Rain') or (weatherStatus == 'Thunderstorm'))] -> every e3 = Preferences[hasId == e2.contextId and status == 'notOnHolidays' and (typeOf == 'Music' or typeOf == 'Shows' or typeOf == 'Culture') and where != 'Open-Air']
+select e1.contextId, str:concat('triggerIndoor', e3.typeOf, 'Recommendation') as recommendation
+insert into Results;
+
+
+-- Recommendations
+@info(name = 'finalResults')
+from Results#window.timeBatch(2 sec)
+select contextId, str:groupConcat(recommendation) as recommendation
+group by contextId
+insert into FinalResults;

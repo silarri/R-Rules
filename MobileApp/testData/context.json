@@ -1,0 +1,458 @@
+{
+    "contexts" : [
+        {"UserContext":{
+            "contextId":"0",
+            "date":"26/11/2021",
+            "time":"08:00:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 13.12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.703659143791355,
+               "latitude": 40.42501849011055 } }
+        },
+        {"UserContext":{
+            "contextId":"1",
+            "date":"26/11/2021",
+            "time":"09:00:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 13.12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.703659143791355,
+               "latitude": 40.42501849011055 } }
+        },
+        {"UserContext":{
+            "contextId":"2",
+            "date":"26/11/2021",
+            "time":"10:00:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 14.30
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.703659143791355,
+               "latitude": 40.42501849011055 } }
+        },
+        {"UserContext":{
+            "contextId":"3",
+            "date":"26/11/2021",
+            "time":"10:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 15.12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.703659143791355,
+               "latitude": 40.42501849011055 } }
+        },
+        {"UserContext":{
+            "contextId":"4",
+            "date":"26/11/2021",
+            "time":"13:05:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clouds"
+                }
+              ],
+            "main": {
+                "temp": 16.12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.7131030482951135,
+               "latitude": 40.417697281874254 } }
+        },
+        {"UserContext":{
+            "contextId":"5",
+            "date":"26/11/2021",
+            "time":"15:05:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 16.12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.712985,
+               "latitude": 40.415312 } }
+        },
+        {"UserContext":{
+            "contextId":"6",
+            "date":"26/11/2021",
+            "time":"15:45:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 16.12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.712985,
+               "latitude": 40.415312 } }
+        },
+        {"UserContext":{
+            "contextId":"7",
+            "date":"26/11/2021",
+            "time":"17:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clouds"
+                }
+              ],
+            "main": {
+                "temp": 16.12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.714994171846892,
+               "latitude": 40.41683799682713 } }
+        }, {"UserContext":{
+            "contextId":"8",
+            "date":"26/11/2021",
+            "time":"22:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clouds"
+                }
+              ],
+            "main": {
+                "temp": 16.12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476} }
+        }, 
+        {"UserContext":{
+            "contextId":"9",
+            "date":"27/11/2021",
+            "time":"09:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clear"
+                }
+              ],
+            "main": {
+                "temp": 19.50
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude":  -3.703659143791355,
+                "latitude": 40.42501849011055}}
+        },
+        {"UserContext":{
+            "contextId":"10",
+            "date":"27/11/2021",
+            "time":"10:00:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clear"
+                }
+              ],
+            "main": {
+                "temp": 19.50
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.7020176298384286,
+                "latitude": 40.42733951266368}}
+        },
+        {"UserContext":{
+            "contextId":"11",
+            "date":"27/11/2021",
+            "time":"12:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 19.50
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}} 
+        },
+        {"UserContext":{
+            "contextId":"12",
+            "date":"27/11/2021",
+            "time":"13:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 19.50
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}} 
+        },
+        {"UserContext":{
+            "contextId":"13",
+            "date":"27/11/2021",
+            "time":"15:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 16.50
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}} 
+        },
+        {"UserContext":{
+            "contextId":"14",
+            "date":"27/11/2021",
+            "time":"16:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 10.50
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}} 
+        },{"UserContext":{
+            "contextId":"15",
+            "date":"27/11/2021",
+            "time":"17:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 9.50
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}} 
+        },
+        {"UserContext":{
+            "contextId":"16",
+            "date":"27/11/2021",
+            "time":"22:20:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clouds"
+                }
+              ],
+            "main": {
+                "temp": 6
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}} 
+        },
+        {"UserContext":{
+            "contextId":"17",
+            "date":"28/11/2021",
+            "time":"09:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clouds"
+                }
+              ],
+            "main": {
+                "temp": 12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.703659143791355,
+                "latitude": 40.42501849011055 }}
+        },
+        {"UserContext":{
+            "contextId":"18",
+            "date":"28/11/2021",
+            "time":"11:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clouds"
+                }
+              ],
+            "main": {
+                "temp": 12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.714994171846892,
+                "latitude": 40.41683799682713 }}
+        },
+        {"UserContext":{
+            "contextId":"19",
+            "date":"28/11/2021",
+            "time":"14:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clouds"
+                }
+              ],
+            "main": {
+                "temp": 12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.714994171846892,
+                "latitude": 40.41683799682713 }}
+        },
+        {"UserContext":{
+            "contextId":"20",
+            "date":"28/11/2021",
+            "time":"17:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clouds"
+                }
+              ],
+            "main": {
+                "temp": 12
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}}
+        },
+        {"UserContext":{
+            "contextId":"21",
+            "date":"28/11/2021",
+            "time":"18:30:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 10
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}}
+        },
+        {"UserContext":{
+            "contextId":"22",
+            "date":"28/11/2021",
+            "time":"18:45:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Rain"
+                }
+              ],
+            "main": {
+                "temp": 10
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}}
+        },
+        {"UserContext":{
+            "contextId":"23",
+            "date":"28/11/2021",
+            "time":"20:45:00"},
+        "Weather":{
+            "weather": [
+                {
+                  "main": "Clouds"
+                }
+              ],
+            "main": {
+                "temp": 9
+            }
+        },
+        "Location" : { 
+            "coords": 
+            { "longitude": -3.6978722221241935,
+                "latitude": 40.422494381998476}}
+        }
+    ] 
+}

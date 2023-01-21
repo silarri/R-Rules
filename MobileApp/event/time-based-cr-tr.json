@@ -1,0 +1,154 @@
+{
+  "default": [
+    {
+      "UserContext": {
+        "contextId": "0",
+        "date": "06/09/2021",
+        "time": "17:00:00"
+      },
+      "Observations": [
+        {
+          "observedProperty": "Location",
+          "optionalField": "AtHome",
+          "observationValue": "50",
+          "timeOfMeasurement": "08:13:34"
+        },
+        {
+          "observedProperty": "Weather",
+          "optionalField": "20",
+          "observationValue": "Snow",
+          "timeOfMeasurement": "08:31:11"
+        }
+      ]
+    },
+    {
+      "UserContext": {
+        "contextId": "1",
+        "date": "07/09/2021",
+        "time": "17:00:00"
+      },
+      "Observations": [
+        {
+          "observedProperty": "Location",
+          "optionalField": "AtWork",
+          "observationValue": "60",
+          "timeOfMeasurement": "08:13:34"
+        },
+        {
+          "observedProperty": "Location",
+          "optionalField": "AtHome",
+          "observationValue": "50",
+          "timeOfMeasurement": "08:13:34"
+        },
+        {
+          "observedProperty": "Weather",
+          "optionalField": "0",
+          "observationValue": "Clear",
+          "timeOfMeasurement": "08:31:11"
+        }
+      ]
+    },
+    {
+      "UserContext": {
+        "contextId": "2",
+        "date": "11/09/2021",
+        "time": "21:00:00"
+      },
+      "Observations": [
+        {
+          "observedProperty": "Location",
+          "optionalField": "AtHome",
+          "observationValue": "10",
+          "timeOfMeasurement": "08:13:34"
+        },
+        {
+          "observedProperty": "Location",
+          "optionalField": "AtWork",
+          "observationValue": "40",
+          "timeOfMeasurement": "08:13:34"
+        },
+        {
+          "observedProperty": "Weather",
+          "optionalField": "20",
+          "observationValue": "Clear",
+          "timeOfMeasurement": "08:31:11"
+        }
+      ]
+    },
+    {
+      "UserContext": {
+        "contextId": "3",
+        "date": "07/09/2021",
+        "time": "13:30:00"
+      },
+      "Observations": [
+        
+        {
+          "observedProperty": "Location",
+          "optionalField": "AtWork",
+          "observationValue": "40",
+          "timeOfMeasurement": "08:13:34"
+        },
+        {
+          "observedProperty": "Weather",
+          "optionalField": "20",
+          "observationValue": "Clear",
+          "timeOfMeasurement": "08:31:11"
+        },{
+          "observedProperty": "Location",
+          "optionalField": "AtHome",
+          "observationValue": "50",
+          "timeOfMeasurement": "08:13:34"
+        }
+      ]
+    },
+    {
+      "UserContext": {
+        "contextId": "4",
+        "date": "07/09/2021",
+        "time": "17:00:00"
+      },
+      "Observations": [
+        {
+          "observedProperty": "Location",
+          "optionalField": "AtHome",
+          "observationValue": "10",
+          "timeOfMeasurement": "08:13:34"
+        },
+        {
+          "observedProperty": "Location",
+          "optionalField": "AtWork",
+          "observationValue": "40",
+          "timeOfMeasurement": "08:13:34"
+        },
+        {
+          "observedProperty": "Weather",
+          "optionalField": "20",
+          "observationValue": "Fog",
+          "timeOfMeasurement": "08:31:11"
+        }
+      ]
+    },
+    {
+      "UserContext": {
+        "contextId": "5",
+        "date": "07/09/2021",
+        "time": "12:00:00"
+      },
+      "Observations": [
+        {
+          "observedProperty": "Location",
+          "optionalField": "AtWork",
+          "observationValue": "20",
+          "timeOfMeasurement": "08:13:34"
+        },
+        {
+          "observedProperty": "Weather",
+          "optionalField": "35",
+          "observationValue": "Clear",
+          "timeOfMeasurement": "08:31:11"
+        }
+      ]
+    }
+  ]
+}
