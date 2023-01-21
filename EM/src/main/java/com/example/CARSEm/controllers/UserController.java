@@ -141,7 +141,14 @@ public class UserController {
             String password = body.getPassword();
             User u = userService.findUserByEmail(email);
             String encodedPassword = u.getPassword();
-            if(BCrypt.checkpw(password, encodedPassword)){
+            String pw_hash = BCrypt.hashpw(password, BCrypt.gensalt());
+            //System.out.println("Password encriptado: " + pw_hash);
+            //System.out.println("password: " + password);
+            //System.out.println("encodedPassword: " + encodedPassword);
+            //if(password == encodedPassword){
+            // silarri, 15/12/2022:
+            if(password.equals(encodedPassword)) {
+            //if(BCrypt.checkpw(password, encodedPassword)){
                 String token = email + ":" + password;
                 token = Base64.getEncoder().encodeToString(token.getBytes());
                 logger.log(Level.WARNING, "Token: " + token);

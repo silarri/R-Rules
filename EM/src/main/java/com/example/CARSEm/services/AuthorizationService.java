@@ -43,7 +43,9 @@ public class AuthorizationService {
         // Check if token is valid
         User u = userService.findUserByEmail(email);
 
-        if(u != null && BCrypt.checkpw(password, u.getPassword())){
+        /* silarri, 15/12/2022 */
+        if(u != null && password.equals(u.getPassword())){
+        //if(u != null && BCrypt.checkpw(password, u.getPassword())){
             logger.log(Level.WARNING, "TOKENISVALID TRUE");
             return true;
         }else{
