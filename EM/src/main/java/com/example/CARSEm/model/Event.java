@@ -13,7 +13,7 @@ import static javax.persistence.GenerationType.SEQUENCE;
 
 @Entity
 @Table(name = "event",schema = "public")
-public class Event implements Serializable {
+public class Event implements Serializable  {
     @Id
     @GeneratedValue(strategy = IDENTITY)
     private int idevent;

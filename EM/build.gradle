@@ -42,14 +42,14 @@ task stage(type: Copy, dependsOn: [clean, build]) {
 	from jar.archivePath
 	into project.rootDir
 	rename {
-		'CARS-Em.jar'
+		'EM.jar'
 	}
 }
 stage.mustRunAfter(clean)
 
 clean {
 	doLast{
-		project.file('CARS-Em.jar').delete()
+		project.file('EM.jar').delete()
 	}
 }
 

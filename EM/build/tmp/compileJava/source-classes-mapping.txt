@@ -1,0 +1,82 @@
+com/example/CARSEm/repository/ActivityRepository.java
+ com.example.CARSEm.repository.ActivityRepository
+com/example/CARSEm/security/OpenAPISecurityDocumentation.java
+ com.example.CARSEm.security.OpenAPISecurityDocumentation
+com/example/CARSEm/controllers/PingController.java
+ com.example.CARSEm.controllers.PingController
+com/example/CARSEm/requests/AppHelloRequest.java
+ com.example.CARSEm.requests.AppHelloRequest
+ com.example.CARSEm.requests.AppHelloRequest$Settings
+ com.example.CARSEm.requests.AppHelloRequest$Settings$Location
+com/example/CARSEm/requests/ActivitiesRequest.java
+ com.example.CARSEm.requests.ActivitiesRequest
+com/example/CARSEm/model/Share.java
+ com.example.CARSEm.model.Share
+ com.example.CARSEm.model.Share$SharePK
+com/example/CARSEm/model/Context.java
+ com.example.CARSEm.model.Context
+com/example/CARSEm/model/Feedback.java
+ com.example.CARSEm.model.Feedback
+ com.example.CARSEm.model.Feedback$FeedbackPK
+com/example/CARSEm/repository/WeatherRepository.java
+ com.example.CARSEm.repository.WeatherRepository
+com/example/CARSEm/model/Activity.java
+ com.example.CARSEm.model.Activity
+com/example/CARSEm/CarsEmApplication.java
+ com.example.CARSEm.CarsEmApplication
+com/example/CARSEm/services/ShareService.java
+ com.example.CARSEm.services.ShareService
+com/example/CARSEm/services/AuthorizationService.java
+ com.example.CARSEm.services.AuthorizationService
+com/example/CARSEm/services/LocationService.java
+ com.example.CARSEm.services.LocationService
+com/example/CARSEm/requests/RecommendationRequest.java
+ com.example.CARSEm.requests.RecommendationRequest
+com/example/CARSEm/repository/FeedbackRepository.java
+ com.example.CARSEm.repository.FeedbackRepository
+com/example/CARSEm/model/Weather.java
+ com.example.CARSEm.model.Weather
+com/example/CARSEm/requests/SessionLoginRequest.java
+ com.example.CARSEm.requests.SessionLoginRequest
+com/example/CARSEm/model/Location.java
+ com.example.CARSEm.model.Location
+com/example/CARSEm/services/FeedbackService.java
+ com.example.CARSEm.services.FeedbackService
+com/example/CARSEm/services/ActivityService.java
+ com.example.CARSEm.services.ActivityService
+com/example/CARSEm/responses/ActivityResponse.java
+ com.example.CARSEm.responses.ActivityResponse
+com/example/CARSEm/repository/ShareRepository.java
+ com.example.CARSEm.repository.ShareRepository
+com/example/CARSEm/requests/FeedbackRequest.java
+ com.example.CARSEm.requests.FeedbackRequest
+com/example/CARSEm/repository/EventRepository.java
+ com.example.CARSEm.repository.EventRepository
+com/example/CARSEm/repository/LocationRepository.java
+ com.example.CARSEm.repository.LocationRepository
+com/example/CARSEm/model/User.java
+ com.example.CARSEm.model.User
+com/example/CARSEm/requests/AppContextRequest.java
+ com.example.CARSEm.requests.AppContextRequest
+com/example/CARSEm/services/UserService.java
+ com.example.CARSEm.services.UserService
+com/example/CARSEm/controllers/AppController.java
+ com.example.CARSEm.controllers.AppController
+com/example/CARSEm/requests/LoginRequest.java
+ com.example.CARSEm.requests.LoginRequest
+com/example/CARSEm/controllers/ActivityController.java
+ com.example.CARSEm.controllers.ActivityController
+com/example/CARSEm/services/WeatherService.java
+ com.example.CARSEm.services.WeatherService
+com/example/CARSEm/repository/UserRepository.java
+ com.example.CARSEm.repository.UserRepository
+com/example/CARSEm/repository/ContextRepository.java
+ com.example.CARSEm.repository.ContextRepository
+com/example/CARSEm/controllers/UserController.java
+ com.example.CARSEm.controllers.UserController
+com/example/CARSEm/model/Event.java
+ com.example.CARSEm.model.Event
+com/example/CARSEm/services/ContextService.java
+ com.example.CARSEm.services.ContextService
+com/example/CARSEm/services/EventService.java
+ com.example.CARSEm.services.EventService

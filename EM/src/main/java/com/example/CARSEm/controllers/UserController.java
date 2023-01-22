@@ -136,6 +136,8 @@ public class UserController {
 
         String email = body.getEmail();
 
+        System.out.println("Login attempt");
+
         if(userService.existByEmail(email)){
             // Check if passwords coincide
             String password = body.getPassword();
@@ -148,9 +150,10 @@ public class UserController {
             //if(password == encodedPassword){
             // silarri, 15/12/2022:
             if(password.equals(encodedPassword)) {
-            //if(BCrypt.checkpw(password, encodedPassword)){
+                //if(BCrypt.checkpw(password, encodedPassword)){
                 String token = email + ":" + password;
                 token = Base64.getEncoder().encodeToString(token.getBytes());
+                //System.out.println("Token: " + token);
                 logger.log(Level.WARNING, "Token: " + token);
                 HttpHeaders headers = new HttpHeaders();
                 headers.add("Authorization", token);
