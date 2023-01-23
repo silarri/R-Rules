@@ -113,7 +113,8 @@ NOTA: tanto si se prueba en un dispositivo físico (no un emulador) como si se p
 2. Ejecutar: adb reverse tcp:8081 tcp:8081 (react-native).
 3. Ejecutar: adb reverse tcp:8080 tcp:8080 (para comunicación con el EM).
 
-##Resumen de pasos a ejecutar en la máquina virtual
+### Resumen de pasos a ejecutar en la máquina virtual
+
 ```
 ./EM.sh
 studio.sh
@@ -121,13 +122,11 @@ studio.sh
 ```
 
 Terminal 1:
----
 ```
 cd R-Rules/EM
 cd database
 sudo docker-compose up
 ```
-----
 You can test the connection with the DB as follows:
 ```
 psql postgresql://adminCARS@localhost:5432/CARSdb
@@ -137,18 +136,17 @@ You can see all the tables with:
 ```
 \dt
 ```
-----
 If you get this error when connecting to the DB:
+```
 Error: You must install at least one postgresql-client-<version> package
+```
 Then do this first:
 ```
 sudo apt-get install postgresql-client
 ```
-----
 If you have not created the database, first you have to create the tables:
 https://github.com/irefu/CARS-em/blob/main/database/createTables.sql
 Then in table "user", you need to create a user with email "test@gmail.com" and password "1234test5678". Careful: the password must be stored encrypted, in the Modular Crypt Format.
-----
 If you want to visualize the DB:
 ```
 datagrip.sh
@@ -172,7 +170,6 @@ Terminal 4:
 studio.sh
 ```
 Start emulator ("Tools" -> "AVD Manager")
----
 Click on "Logcat" in the status bar if you want to see the emulated device's console messages.
 
 Terminal 5:
