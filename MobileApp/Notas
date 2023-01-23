@@ -1,6 +1,0 @@
-===================
-=== 5 Noviembre ===
-En fase de postfiltrado se debe revisar el método existsActivity(activity)
-en él se deberán comprobar los ids locales, del EM y el usuario que tiene 
-asociada la actividad.
-===================
