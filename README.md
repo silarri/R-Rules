@@ -131,8 +131,8 @@ sudo docker-compose up
 You can test the connection with the DB as follows:
 ```
 psql postgresql://adminCARS@localhost:5432/CARSdb
-```
 (password: CARSdb123)
+```
 You can see all the tables with:
 ```
 \dt
