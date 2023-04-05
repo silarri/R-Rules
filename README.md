@@ -185,6 +185,10 @@ react-native run-android
 ### Notas adicionales
 - El login está deshabilitado (el login anterior funcionaba con Facebook, ya no está disponible para las características de este proyecto). Actualmente se crea un usuario con email "test@gmail.com" y contraseña: "1234test5678" (desde el código).
 
+# Proyecto
+
+"Next-gEnerATion dAta Management to foster suitable Behaviors and the resilience of cItizens against modErN ChallEnges (NEAT-AMBIENCE)", financiado por la Agencia Estatal de Investigación (PID2020-113037RB-I00 / AEI / 10.13039/501100011033). Investigador principal: Sergio Ilarri.
+
 # Financiación
 
 - Este trabajo se ha desarrollado como parte del proyecto de I+D+i PID2020-113037RB-I00, financiado por MCIN/AEI/ 10.13039/501100011033; investigador principal: Sergio Ilarri. 
