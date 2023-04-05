@@ -185,14 +185,15 @@ react-native run-android
 ### Notas adicionales
 - El login está deshabilitado (el login anterior funcionaba con Facebook, ya no está disponible para las características de este proyecto). Actualmente se crea un usuario con email "test@gmail.com" y contraseña: "1234test5678" (desde el código).
 
-# Página web
-
-[http://webdiis.unizar.es/~silarri/prot/RRules/](http://webdiis.unizar.es/~silarri/prot/RRules/)
-
 # Financiación
 
 - Este trabajo se ha desarrollado como parte del proyecto de I+D+i PID2020-113037RB-I00, financiado por MCIN/AEI/ 10.13039/501100011033; investigador principal: Sergio Ilarri. 
 - Además del proyecto previo (proyecto NEAT-AMBIENCE), se agradece también el apoyo del Departamento de Ciencia, Universidad y Sociedad del Conocimiento del Gobierno de Aragón (Gobierno de Aragón: grupo COSMOS; última referencia del grupo: T64_20R).
+
+# Página web
+
+[http://webdiis.unizar.es/~silarri/prot/RRules/](http://webdiis.unizar.es/~silarri/prot/RRules/)
+[http://webdiis.unizar.es/~silarri/NEAT-AMBIENCE/](http://webdiis.unizar.es/~silarri/NEAT-AMBIENCE/)
 
 # Contribuyentes
 
