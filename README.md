@@ -182,3 +182,25 @@ react-native run-android
 
 ## Notas adicionales
 - El login está deshabilitado (el login anterior funcionaba con Facebook, ya no está disponible para las características de este proyecto). Actualmente se crea un usuario con email "test@gmail.com" y contraseña: "1234test5678" (desde el código).
+
+# Página web
+
+[Duck Duck Go](http://webdiis.unizar.es/~silarri/prot/RRules/)] http://webdiis.unizar.es/~silarri/prot/RRules/
+
+# Financiación
+
+- Este trabajo se ha desarrollado como parte del proyecto de I+D+i PID2020-113037RB-I00, financiado por MCIN/AEI/ 10.13039/501100011033; investigador principal: Sergio Ilarri. 
+- Además del proyecto previo (proyecto NEAT-AMBIENCE), se agradece también el apoyo del Departamento de Ciencia, Universidad y Sociedad del Conocimiento del Gobierno de Aragón (Gobierno de Aragón: grupo COSMOS; última referencia del grupo: T64_20R).
+
+# Contribuyentes
+
+- Software de la Universidad de Zaragoza con número interno de registro PII-2021-0029 y título "Sistema de recomendación proactivo basado en reglas para dispositivos móviles". Inventores: Sergio Ilarri (UZ, miembro del equipo investigador del proyecto NEAT-AMBIENCE), Raquel Trillo-Lado (UZ, miembro del equipo investigador del proyecto NEAT-AMBIENCE), Irene Fumanal (UZ, estudiante), Manuel Herrero (UZ, estudiante).
+
+# Logos
+
+<img src="https://user-images.githubusercontent.com/68403519/230162739-e06e6ae7-7a16-4e66-b9db-adc491c8aaa6.png" width="30%"> <img src="https://user-images.githubusercontent.com/68403519/230163472-d46505c7-719a-4a37-a81e-7868d4cc30bf.png">
+
+<img src="https://user-images.githubusercontent.com/68403519/230162835-2e80d2f5-fc20-40b9-927a-c03ffad8eee6.png" width="30%">
+
+<img src="https://user-images.githubusercontent.com/68403519/230167346-5073bdf0-56b0-4d89-8bd3-3e41fa737332.png" width="20%">
+
