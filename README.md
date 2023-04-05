@@ -1,4 +1,4 @@
-#Resumen de pasos
+# Resumen de pasos
 
 ## 1) EM
 
