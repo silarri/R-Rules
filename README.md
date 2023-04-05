@@ -1,22 +1,24 @@
-# 1) EM
+#Resumen de pasos
+
+## 1) EM
 
 Para desarrollar y ejecutar el Environment Manager (EM) se ha utilizado IntelliJ IDEA.
 
 Ejecutar desde la herramienta y acceder a:
 http://localhost:8080/
 
-## API del EM
+### API del EM
 API con Swagger y Open API 3.0 disponible una vez lanzado el servidor  en:
 http://localhost:8080/swagger-ui.html
 
-## Base de datos del EM (PostgreSQL)
+### Base de datos del EM (PostgreSQL)
 Para lanzar la base de datos (local) se ha utilizado Docker.
 Ejecutamos lo siguiente:
 ```
 cd database
 docker-compose up
 ```
-### Acceso con herramientas extenas (por ejemplo DataGrip)
+#### Acceso con herramientas extenas (por ejemplo DataGrip)
 
 Una vez la base de datos esté lanzada, para visualizar el contenido de la BD accedemos a **http://localhost:8082** e introducimos lo siguiente:
 
@@ -26,25 +28,25 @@ Una vez la base de datos esté lanzada, para visualizar el contenido de la BD ac
 - Contraseña: CARSdb123
 - Base de datos: CARSdb
 
-### Acceso por terminal:
+#### Acceso por terminal:
 Ejecutar:
 ```
 psql postgresql://adminCARS@localhost:5432/CARSdb
 ```
 NOTA: instalar lo que pida (psql)
 
-### Datos de prueba utilizados
+#### Datos de prueba utilizados
 Los datos relacionados con las actividades han sido obtenidos del portal de datos abiertos de Madrid. 
 Los datos de valoraciones son datos falsos que hemos generado.
 Pueden accederse a ellos en el directorio /data del repositorio.
 
-### Notas viejas:
+#### Notas viejas:
 
 Con Heroku, conectarse desde Heroku y ver ahí las credenciales de la BD.
 
-# 2) Aplicación móvil
+## 2) Aplicación móvil
 
-## Procedimiento de configuración e instalación
+### Procedimiento de configuración e instalación
 
 Para instalar la aplicación en un dispositvo Android real o simulado es necesario instalar [Android Studio](https://developer.android.com/studio/?hl=es-419) y [Node](https://nodejs.org/es/).
 
@@ -69,13 +71,13 @@ react-native run-android
 ```
 Para completar la instalación de la aplicación es necesario realizar la instalación también desde Android Studio. Desde Android Studio seleccione la opción de abrir proyecto existente de la dirección `CARSProject/android`.
 
-## Configuración de _Gestores de Entorno_
+### Configuración de _Gestores de Entorno_
 
 Para configurar la dirección de los *Gestores de Entorno* del sistema será necesario modificar el fichero `CARSProject/em/ems.json` adaptando la información conforme a los gestores deseados. 
 
-## Prueba del prototipo
+### Prueba del prototipo
 
-### Versiones
+#### Versiones
 - Android Studio: 4.1.2
 - Node: 10.24.0
 - React-Native: 0.55.4
@@ -84,7 +86,7 @@ Para configurar la dirección de los *Gestores de Entorno* del sistema será nec
 
 Las dependencias de las librerías pueden consultarse en el fichero package.json 
 
-### Pasos
+#### Pasos
 
 1. Clonar el repositorio. 
 2. Instalar React Native CLI como se ha indicado antes
@@ -113,7 +115,7 @@ NOTA: tanto si se prueba en un dispositivo físico (no un emulador) como si se p
 2. Ejecutar: adb reverse tcp:8081 tcp:8081 (react-native).
 3. Ejecutar: adb reverse tcp:8080 tcp:8080 (para comunicación con el EM).
 
-### Resumen de pasos a ejecutar en la máquina virtual
+#### Resumen de pasos a ejecutar en la máquina virtual
 
 ```
 ./EM.sh
@@ -180,7 +182,7 @@ cd R-Rules/MobileApp
 react-native run-android
 ```
 
-## Notas adicionales
+### Notas adicionales
 - El login está deshabilitado (el login anterior funcionaba con Facebook, ya no está disponible para las características de este proyecto). Actualmente se crea un usuario con email "test@gmail.com" y contraseña: "1234test5678" (desde el código).
 
 # Página web
