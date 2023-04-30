@@ -211,4 +211,4 @@ react-native run-android
 <img src="/images/NEAT-AMBIENCE-logo.png" width="30%"> <img src="/images/NEAT-AMBIENCE-funder.png">
 
 <img src="/images/cosmos-logo.png" width="30%">
-<img src="/images/R-Rules.png" width="10%">
+<img src="/images/R-Rules.png" width="20%">
