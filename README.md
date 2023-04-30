@@ -1,3 +1,5 @@
+<img src="/images/R-Rules.png" alt="R-Rules" width="300"/>
+
 # Resumen de pasos
 
 ## 1) EM
@@ -206,9 +208,7 @@ react-native run-android
 
 # Logos
 
-<img src="https://user-images.githubusercontent.com/68403519/230162739-e06e6ae7-7a16-4e66-b9db-adc491c8aaa6.png" width="30%"> <img src="https://user-images.githubusercontent.com/68403519/230163472-d46505c7-719a-4a37-a81e-7868d4cc30bf.png">
+<img src="/images/NEAT-AMBIENCE-logo.png" width="30%"> <img src="/images/NEAT-AMBIENCE-funder.png">
 
-<img src="https://user-images.githubusercontent.com/68403519/230162835-2e80d2f5-fc20-40b9-927a-c03ffad8eee6.png" width="30%">
-
-<img src="https://user-images.githubusercontent.com/68403519/230167346-5073bdf0-56b0-4d89-8bd3-3e41fa737332.png" width="20%">
-
+<img src="/images/cosmos-logo.png" width="30%">
+<img src="/images/R-Rules.png" width="10%">
