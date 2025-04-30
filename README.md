@@ -186,6 +186,7 @@ react-native run-android
 
 ### Notas adicionales
 - El login está deshabilitado (el login anterior funcionaba con Facebook, ya no está disponible para las características de este proyecto). Actualmente se crea un usuario con email "test@gmail.com" y contraseña: "1234test5678" (desde el código).
+- En el directorio MobileApp, se debe incluir un fichero oauth.json con las claves de acceso a APIs (androidGoogle, facebookAppID, facebookClientID, accuweatherAPI, openweathermap, androidMaps).
 
 # Proyecto
 
