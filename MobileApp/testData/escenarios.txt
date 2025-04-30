@@ -1,0 +1,78 @@
+ESCENARIO 1: Viaje de vacaciones
+-------------------------------------------------------------------------------
+Alicia tiene fiesta y decide ir a pasar unos días a Madrid, dónde ya ha estado otras veces. 
+Con respecto a las categorías de elementos disponibles en la aplicación, Alicia tiene las siguientes características: 
+- Restaurantes: Vegano, Vegetariano, Tapas, Tabernas
+- PlacesOfInterest: Edificios y monumentos, Escuelas de cocina y catas de vinos y aceites
+- EntertainmentEstablishments: Coctelerías, Música directo
+- Shops: Artesanía, Regalo-Hogar-Decoración
+- Accommodation: Hostales, Apartahoteles
+- Museums: Museos
+- ShowsHalls: Auditoriums/ConcertHalls
+- Leisure: CineActividadesAudiovisuales, DanzaBaile, CircoMagia 
+
+
+El viaje lo ha programado del 26 de noviembre (viernes) al 29 de noviembre (lunes) de 2021.
+Ha decidido que quiere aprovechar el viaje para hacer algo de turismo y conocer nuevos sitios de Madrid.
+Se hospeda en un apartamento en Malasaña y espera moverse por los barrios de alrededor, aunque no le importa 
+coger el transporte público para desplazarse a otros lugares más lejanos.
+
+Alicia va a utilizar nuestra aplicación para obtener recomendaciones sobre qué hacer en Madrid, y para ello define varias
+context rules, triggering rules y exclusion sets.
+
+CONTEXT RULES:
+	- AtAparment (de tipo localización): donde introduce las coordenadas de su apartamento.
+	- AtChueca (de tipo localización): donde introduce las coordenadas del barrio Chueca de Madrid, al lado de Malasaña
+	- AtPalacioReal (de tipo localización): donde introduce las coordenadas del Palacio Real en Madrid
+	
+	- Time4Lunch (basada en tiempo): establece que su horario de comer es de 13:00 a 15:00.
+	- Time4Dinner (basada en tiempo): establece que su horario de cenar es de 21:00 a 22:30.
+	- Time4Party (basada en tiempo): establece que el horario que le gustaría salir de fiesta es de 22:00 a 23:59.
+	- InTheMorning (basada en tiempo): establece que las horas que quiere aprovechar por la 		mañana son de 9:30 a 14:00
+	
+	- IsMadridWeekend (basada en calendario): ha seleccionado el fin de semana que está en Madrid (27 y 28 noviembre)
+	- ShowDay (basada en calendario): ha seleccionado sábado como día de la semana en la que le gusta ver algún espectáculo.
+	
+	- Good4Tourism (basada en tiempo atmosférico): ha seleccionado las condiciones metereológicas en las que le gusta hacer turismo, 
+		siendo día despejado, nublado o con niebla y que la temperatura esté entre los 8 y los 30 ºC
+	- Good4Museums (basada en tiempo atmosférico): condiciones en las que prefire visitar museos, si está lloviendo, diluviando o hay
+		tormenta y la temperatura está entre los 0 y los 15 grados.
+
+TRIGGERING RULES:
+	- LunchOutside -> Restaurants: 
+		- no está en el apartamento (AtApartment negada) 
+		- es hora de comer (Time4Lunch), que recomiende restaurantes.
+	- GoToShow -> ShowsHalls: 
+		- está en el apartamento (AtApartment) 
+		- no es hora de comer (Time4Lunch negada) 
+		- no es hora de cenar (Time4Dinner negada)
+		- es sábado (ShowDay)
+	- GoShopping -> Shops:
+		- está en Chueca (AtChueca)
+		- es fin de semana (isMadridWeekend)
+		- no hace buen tiempo para hacer turismo (Good4Tourism negada)
+	- VisitMuseums -> Museums
+		- no hace muy buen tiempo y prefiere visitar museos (Good4Museums)
+		- no es horario de comer (Time4Lunch negada)
+		- es por la mañana (InTheMorning)
+	- VisitPlacesOfInterest -> PlacesOfInterest
+		- hace buen tiempo para hacer turismo (Good4Tourism)
+		- está por la zona del Palacio Real (AtPalacioReal)
+	- GoParty -> EnterteinmentEstablishments
+		- es hora de salir de fiesta (Time4Party)
+		- está en Chueca (AtChueca)
+	- LeisureActivities -> Leisure
+		- no es hora de comer (LunchTime negada)
+		- no es hora de cenar (DinnerTime negada)
+		
+EXCLUSION SETS:
+	- FirstEatThenTourism: Restaurantes > PlacesOfInterest
+	- MuseumsBetter: Museums > PlacesOfInterest > Shops
+	- PlacesOfInterestBetter > PlacesOfInterest > Leisure
+
+
+
+Alicia desactiará la triggering rule "LeisureTime" y después volverá a activar la triggering rule "LeisureActivities" porque no está interesada temporalmente.
+Alicia el domingo edita la regla "VisitMuseums" y decide eliminar la parte que condicona al tiempo atmosférico (Good4Museums)
+El domingo por la tarde solo deja activada la regla de "GoShopping", y a final de la tarde todas las reglas estarán desactivadas, ya que termina el viaje y no quiere que le llegue ninguna recomendación más.
+

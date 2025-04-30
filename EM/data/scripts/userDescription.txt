@@ -1,0 +1,9 @@
+Intereses del usuario:
+- Restaurantes: Vegano, Vegetariano, Tapas, Tabernas
+- PlacesOfInterest: Edificios y monumentos, Escuelas de cocina y catas de vinos y aceites
+- EntertainmentEstablishments: Coctelerías, Música directo
+- Shops: Artesanía, Regalo-Hogar-Decoración
+- Accommodation: Hostales, Apartahoteles
+- Museums: Museos
+- ShowsHalls: Auditoriums/ConcertHalls
+- Leisure: CineActividadesAudiovisuales, DanzaBaile, CircoMagia

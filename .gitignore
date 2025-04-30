@@ -1,0 +1,4 @@
+oauth.json
+MobileApp/oauth.json
+**/oauth.json
+.DS_Store

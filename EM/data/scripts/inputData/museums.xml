@@ -1,0 +1,2214 @@
+<?xml version="1.0" encoding="UTF-8" ?><Contenidos>
+    <infoDataset>
+        <nombre>Museos de la ciudad de Madrid</nombre>
+        <id>201132-0</id>
+        <uri>https://datos.madrid.es/egob/catalogo/201132-0-museos</uri>
+        <descripcion> Datos de los Museos de la ciudad de Madrid. Localización, transportes, horarios, visitas, datos de contacto. 
+     </descripcion>
+    </infoDataset>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4847190</atributo>
+            <atributo nombre="NOMBRE">Casa Museo Lope de Vega</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA['Mi casilla, mi quietud, mi g&uuml;ertecillo y estudio'. Así define su casa Félix Lope de Vega (1562-1635) en una carta dirigida a un amigo. Situada en pleno centro histórico, en el Barrio de las Letras, la Casa Museo Lope de Vega se ubica en el edificio donde el escritor vivió sus últimos 25 años. La recreación de ambientes, cuyo objetivo es que se respire la presencia de Lope, evoca la vida cotidiana del Siglo de Oro y nos acerca a su intimidad. El equipamiento de la casa incorpora obras de arte, mobiliario, enseres y ediciones bibliográficas vinculadas al literato y su tiempo.  Visitas Guiadas: de nartres a domingo, para todos los públicos. Más información en web]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a domingo de 10 a 18 horas  Cerrado los lunes, días 1 y 6 de enero, 1 de mayo, 9 de noviembre y 24, 25 y 31 de diciembre.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Antón Martín (línea 1).  Bus: M1  Bicimad: Estación 27 (calle Jesús) / Estación 52 (Plaza de Santa Ana)  Cercanías Renfe: Sol (líneas C3 y C4)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=4eff8c46145e8110VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CERVANTES</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">11</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">CORTES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440825</atributo>
+                <atributo nombre="COORDENADA-Y">4473983</atributo>
+                <atributo nombre="LATITUD">40.414358466555235</atributo>
+                <atributo nombre="LONGITUD">-3.6974741545860015</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 299 216</atributo>
+                <atributo nombre="EMAIL">casamuseolopedevega@madrid.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4949641</atributo>
+            <atributo nombre="NOMBRE">Casita - Museo del Ratón Pérez</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[La residencia de la familia Pérez está situada en los sótanos de la confitería Prasi, en el número ocho de la calle del Arenal, según cita Luis Coloma.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Reserva y compra de entradas: de martes a sábado (excepto festivos), de 11 a 14 y de 17 a 20 horas.   Visitas: de martes a viernes, de 11 a 14 y de 17 a 20 horas. Sábados, de 11 a 20 horas. Domingos, de 11 a 18 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Sol (líneas: 1, 2 y 3), Ópera (línea 3, Ramal Ópera Príncipe Pío), Callao (línea 3, 5) Bus: 3 Bicimad:   Estación 31 (calle Mayor, 20) Estación 25 a y b (Plaza Celenque, 1)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Venta de entradas a través de whatsapp 634 297 294 Aforo limitado.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=990950e86d4ca110VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ARENAL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">8</atributo>
+                <atributo nombre="PLANTA">1.ª</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440144</atributo>
+                <atributo nombre="COORDENADA-Y">4474287</atributo>
+                <atributo nombre="LATITUD">40.41704834412296</atributo>
+                <atributo nombre="LONGITUD">-3.7055288844865233</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 226 968</atributo>
+                <atributo nombre="EMAIL">info@casamuseoratonperez.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5682031</atributo>
+            <atributo nombre="NOMBRE">Castillo de la Alameda</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El Castillo de la Alameda o de Barajas se trata de uno de los escasos vestigios de la arquitectura militar del pasado siglo XV y uno de los pocos castillos que ha sobrevivido al paso del tiempo. Bajo él y su entorno, existen restos de asentamientos antiguos desde la Edad del Bronce hasta la Época Romana.En el edificio se realizan talleres para escolares y actividades en verano.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Abierto solo en fin de semana (sábado y domingo) y festivos (lunes festivos incluidos)  Del 1 de abril al 15 de junio de 10 a 21 horas. Del 16 de junio al 15 de septiembre de 10 a 20 horas. Del 15 al 30 de septiembre de 10 a 21 horas. De octubre a marzo de 10 a 18 horas.  Cerrado: 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Alameda de Osuna y El Capricho (línea 5). Bus: 101, 105, 112, 114, 115 y 151.]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Accesibilidad   Rampas de acceso. Aseos adaptados para personas con movilidad reducida. Información en Braille para personas con discapacidad visual.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=fe43c4be8e688210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ANTONIO SANCHA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28042</atributo>
+                <atributo nombre="BARRIO">ALAMEDA DE OSUNA</atributo>
+                <atributo nombre="DISTRITO">BARAJAS</atributo>
+                <atributo nombre="COORDENADA-X">449698</atributo>
+                <atributo nombre="COORDENADA-Y">4478802</atributo>
+                <atributo nombre="LATITUD">40.45835460563491</atributo>
+                <atributo nombre="LONGITUD">-3.5932903820278788</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 667 415</atributo>
+                <atributo nombre="EMAIL">castilloalameda@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2064</atributo>
+            <atributo nombre="NOMBRE">Casón del Buen Retiro. Museo Nacional del Prado, Centro de Estudios</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Edificio que forma parte del Museo Nacional del Prado, donde pueden consultarse fondos de la Biblioteca, del Archivo y del Servicio de Documentación de la colección del Museo y de otras fuentes relativas a la historia del arte.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Estación del Arte (Atocha) (línea 1)  Bus: 19  Renfe: Atocha  Bicimad: Estación 65 (calle Antonio Maura, 15)  Parking: Montalbán (49), C/ Montalbán (entre C/ Alfonso XI y P&ordm; Prado)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Descripción monumental  El Casón o Salón de Baile es el único volumen que permanece del antiguo Palacio del buen Retiro, ejecutado en 1637 con un proyecto de Alonso Carbonel. Aún se conserva la bóveda de cañon con lunetas, pintada al fresco por Lucas Jordán en 1692 con la Alegoría del Toisón de Oro. Su fachada principal, a poniente, arrasada la primitiva en 1886 por un ciclón, es de Velázquez Bosco. La última rehabilitación ha sido realizada por Jaime Torruell.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=f0443d0b5e71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALFONSO XII</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">28</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441525</atributo>
+                <atributo nombre="COORDENADA-Y">4474078</atributo>
+                <atributo nombre="LATITUD">40.415263749471535</atributo>
+                <atributo nombre="LONGITUD">-3.689232811717636</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="EMAIL">biblioteca@museodelprado.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2069</atributo>
+            <atributo nombre="NOMBRE">Centro Cultural La Corrala. Museo de Artes y Tradiciones Populares</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Lunes a viernes de 12 a 20 horas. Sábados de 10 a 14 horas. Cerrado domingos, festivos y mes de agosto, 24 y 31 diciembre.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Reserva previa y obligatoria para grupos en el teléfono del Museo o en visitas.atp@uam.es. Las visitas individuales (inferiores a 7 personas) no necesitan reserva previa.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: La Latina (línea 5)  Bus: 17, 18, 23, 35, 60.  Bicimad: Estación 44 (calle Mesón de Paredes, 35).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=5c39ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CARLOS ARNICHES</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="ORIENTACION">y 5</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28005</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439899</atributo>
+                <atributo nombre="COORDENADA-Y">4473375</atributo>
+                <atributo nombre="LATITUD">40.40882397197274</atributo>
+                <atributo nombre="LONGITUD">-3.708330456274069</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 976 500</atributo>
+                <atributo nombre="EMAIL">museoatp@uam.es / lacorrala@uam.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">103331</atributo>
+            <atributo nombre="NOMBRE">Centro Social y Cultural La Casa Encendida</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Edificio de carácter monumental. De estilo neomudéjar, fue diseñado por el arquitecto Fernando Arbós e inaugurado en el año 1913. Cuenta con más de 6000 metros cuadrados de instalaciones divididas en 4 plantas y una azotea.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a domingo de 10 a 22 horas. Cierre de salas de exposiciones 21:45 horas.  Más horarios en la pestaña 'Servicios'.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Biblioteca:  de martes a domingos de 10 a 14 y de 16:30 a 21 horas. El servicio de mediateca los fines de semana es de 10 a 14 y de 17 a 21 horas.   Mediateca: de martes a domingo mañanas de 10 a 11:45 y de 12:15 a 14, tardes de17 a 18:45 y de 19:15 a 21 horas.  Espacio para el Voluntariado: de martes a jueves de 16 a 20, viernes de 10 a 14 horas.  Ecotienda solidaria:  De martes a jueves de 11 a 15 y de 17 a 21 horas. Viernes y sábados de 10 a 15 y de 17 a 22 horas. Domingos de 10 a 14 y de 17 a 21 horas.    Cafetería: de martes a domingo de 10 a 19:30 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Embajadores (línea 3).  Bus: 119, 27, 34, 36, 41, C03, C2, C1.  Cercanías Renfe: Embajadores (línea C5).  Bicimad: Estación 49 (ronda de Atocha, 34).  Aparcamiento: Garaje Amparo (75), calle Amparo.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=c27f8899fc81c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VALENCIA</atributo>
+                <atributo nombre="CLASE-VIAL">RONDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440622</atributo>
+                <atributo nombre="COORDENADA-Y">4473051</atributo>
+                <atributo nombre="LATITUD">40.40595710517701</atributo>
+                <atributo nombre="LONGITUD">-3.699779793558763</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 062 180</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6469186</atributo>
+            <atributo nombre="NOMBRE">Ermita de San Antonio de la Florida (Museo)</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Ermita dedicada a San Antonio de Padua y pequeño museo. Las pinturas murales que la decoran son de Francisco de Goya. Alberga los restos mortales del artista desde 1919. Para preservar sus pinturas, en 1929 se trasladó el culto a una ermita gemela construida a su lado, dejando el edificio original como museo.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[General   De martes a domingos de 9:30 a 20 horas.   Verano (del 15 de junio al 15 de septiembre)   De martes a domingos de 9:30 a 19 horas.   Cerrado:  lunes (incluidos festivos), 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre.  Último pase de visita: 20 minutos antes del cierre (el desalojo de las salas comenzará 10 minutos antes) Este horario y la apertura de salas pueden sufrir modificaciones.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Tienda, en la que se pueden adquirir las guías y publicaciones sobre la ermita editadas por el Museo y otros organismos públicos, así como catálogos y publicaciones de instituciones culturales del Ayuntamiento de Madrid.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Príncipe Pío (líneas 5, 10 y ramal Ópera - Príncipe Pío)  Bus: 41, 46 y 75 (Intercambiador Príncipe Pío)  Renfe: Príncipe Pío  BICIMAD: Estación 161 (Paseo de la Florida 8)]]></atributo>
+            <atributo nombre="DESCRIPCION"></atributo>
+            <atributo nombre="ACCESIBILIDAD">2,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=75950204770e7310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SAN ANTONIO DE LA FLORIDA</atributo>
+                <atributo nombre="CLASE-VIAL">GLORIETA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">5</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28008</atributo>
+                <atributo nombre="BARRIO">CASA DE CAMPO</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">438439</atributo>
+                <atributo nombre="COORDENADA-Y">4475212</atributo>
+                <atributo nombre="LATITUD">40.425256682855846</atributo>
+                <atributo nombre="LONGITUD">-3.725725718176111</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 420 722 o 683 429 760</atributo>
+                <atributo nombre="EMAIL">sanantonio@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">58353</atributo>
+            <atributo nombre="NOMBRE">Espacio Fundación Telefónica</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a domingo, de 10 a 20 horas. Cerrado al público todos los lunes y días 25 de diciembre, 1 y 6 de enero.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Reserva de entrada online   Visitas guiadas y talleres educativos: 91 522 66 45 actividades.espacio@fundaciontelefonica.com   Información general: 91 580 87 00 espacio@fundaciontelefonica.com]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Gran Vía (líneas 1, 5)  Bus: 002, 001, 1, 2, 46, 74, 146  Bicimad: Estación 211 (Desengaño, 1) / Estación 210 (Tres Cruces, 7)  Parking: BARCO 1 (88), Calle Barco]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=87748ed67151c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FUENCARRAL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">UNIVERSIDAD</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440480</atributo>
+                <atributo nombre="COORDENADA-Y">4474658</atributo>
+                <atributo nombre="LATITUD">40.42041458612889</atributo>
+                <atributo nombre="LONGITUD">-3.7016034186955076</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 808 700 (información general) / 915 226 645 (visitas guiadas y talleres)</atributo>
+                <atributo nombre="EMAIL">espacio@fundaciontelefonica.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6017808</atributo>
+            <atributo nombre="NOMBRE">Fundación AMYC (Arte Moderno y Contemporáneo). Casa Museo Fuente del Rey</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Martes a sábado, de 10 a 19 horas. Lunes, domingos y festivos cerrado. Visitas para grupos de hasta 25 personas dentro de los horarios de apertura. Pueden ser con guía propio o con guía de la Fundación, y la duración de la misma es de una hora, previa reserva telefónica o por email.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Bus: 161]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=5c1260101310f210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FUENTE DEL REY</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">11</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28023</atributo>
+                <atributo nombre="BARRIO">ARAVACA</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">434663</atributo>
+                <atributo nombre="COORDENADA-Y">4478596</atributo>
+                <atributo nombre="LATITUD">40.45546180290319</atributo>
+                <atributo nombre="LONGITUD">-3.7705836264842576</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 579 116</atributo>
+                <atributo nombre="EMAIL">info@fundacionamyc.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/FundacionesCulturales</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5873478</atributo>
+            <atributo nombre="NOMBRE">Museo ABC</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Centro de arte, dibujo e ilustración.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Consultar.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: San Bernardo (líneas 2, 4), Noviciado (línea 2), Ventura Rodríguez (línea 3), Plaza de España (líneas 3, 10)  Bus: M2, C1, C3, 1, 2, 3, 21, 44, 133, 147, 001, 002   Bicimad: Estación 13 (calle Conde Duque 22)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=f0103fee6537c210VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">AMANIEL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">29</atributo>
+                <atributo nombre="ORIENTACION">-31</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28015</atributo>
+                <atributo nombre="BARRIO">UNIVERSIDAD</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439813</atributo>
+                <atributo nombre="COORDENADA-Y">4475439</atributo>
+                <atributo nombre="LATITUD">40.42741121610518</atributo>
+                <atributo nombre="LONGITUD">-3.709539260414957</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 588 379</atributo>
+                <atributo nombre="EMAIL">info_museo@abc.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2067</atributo>
+            <atributo nombre="NOMBRE">Museo Africano Misioneros Combonianos</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Grupos con cita previa en el teléfono 914 152 412 o en la web: de lunes a viernes de 9:30 a 13:30 horas.  Individuales: Visitas guiadas sin cita previa los domingos a las 11:30 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Bus: 11, 70, 114, 122, 115, 200.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=6ab8ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ARTURO SORIA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">101</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28043</atributo>
+                <atributo nombre="BARRIO">SAN JUAN BAUTISTA</atributo>
+                <atributo nombre="DISTRITO">CIUDAD LINEAL</atributo>
+                <atributo nombre="COORDENADA-X">444755</atributo>
+                <atributo nombre="COORDENADA-Y">4477849</atributo>
+                <atributo nombre="LATITUD">40.449464654033605</atributo>
+                <atributo nombre="LONGITUD">-3.65149172790308</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 152 412</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2050</atributo>
+            <atributo nombre="NOMBRE">Museo Arqueológico Nacional</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Fundado en 1867, el MAN se inauguró en 1895 en su actual sede, en el Palacio de Biblioteca y Museos, edificio proyectado por Francisco Jareño y terminado por Antonio Ruiz de Salces.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a sábados de 9:30 a 20 horas. Domingos y festivos de 9:30 a 15 horas.   Cerrado   Todos los lunes del año. 1 y 6 de enero, 1 y 15 de mayo,  24, 25 y 31 de diciembre.  Más información horarios]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Serrano (línea 4)  Bus: 1, 9, 19, 51, 74, 5, 14, 27, 45, 53, 150  Cercanías Renfe: Recoletos (línea C1, C2, C7, C-10 y Regional)  Bicimad: Estación 95 (calle Claudio Coello 109)  Aparcamiento: Colón (2), Plaza de Colón s/n]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=8fd8ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SERRANO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">13</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441601</atributo>
+                <atributo nombre="COORDENADA-Y">4474966</atributo>
+                <atributo nombre="LATITUD">40.42327763947072</atributo>
+                <atributo nombre="LONGITUD">-3.688418705931963</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 777 912</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2072</atributo>
+            <atributo nombre="NOMBRE">Museo Casa de la Moneda</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a viernes ininterrumpidamente de 10 a 20. Sábados, domingos y festivos de 10 a 14:15 horas. Cerrado los lunes (incluidos festivos), y los días 1 de enero;  1 y 2 de mayo;  24, 25 y 31 de diciembre.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: O&acute;Donnell (línea 6), Goya (líneas 2, 4)  Bus: 143, 2, 30, 56, 71, C2, 28  Bicimad: Estación 101 (calle Jorge Juan, 131).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,4</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=12f8ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">DOCTOR ESQUERDO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">36</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28028</atributo>
+                <atributo nombre="BARRIO">GOYA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">443235</atributo>
+                <atributo nombre="COORDENADA-Y">4474878</atributo>
+                <atributo nombre="LATITUD">40.42259797372905</atributo>
+                <atributo nombre="LONGITUD">-3.6691502061733674</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 666 544</atributo>
+                <atributo nombre="FAX">915 666 809</atributo>
+                <atributo nombre="EMAIL">museocasadelamoneda@fnmt.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4112</atributo>
+            <atributo nombre="NOMBRE">Museo Cerralbo</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Este Palacio, construido entre 1883 y 1893, fue concebido como vivienda y como museo para sede de las obras de arte reunidas por los Marqueses de Cerralbo y sus hijos, los Marqueses de Villa Huerta, durante los numerosos viajes que realizaron por España y Europa.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a sábado de 9:30 a 15 horas. Jueves, apertura extraordinaria por la tarde, de 17 a 20 horas, excepto festivos. Entrada gratuita. Domingos y festivos de 10 a 15 horas. Cerrado: todos los lunes, 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre, una fiesta local.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Plaza de España (líneas 3, 10), Príncipe Pío (líneas 6 y 10)  Bus: 62, 74.  Cercanías Renfe: Príncipe Pio (líneas C1, C7 Y C10).  Bicimad: Estación 14 (calle Ventura Rodríguez, 2).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">2,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=a4efb0c40971c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VENTURA RODRIGUEZ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">17</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28008</atributo>
+                <atributo nombre="BARRIO">ARGUELLES</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">439380</atributo>
+                <atributo nombre="COORDENADA-Y">4475039</atributo>
+                <atributo nombre="LATITUD">40.42376732078657</atributo>
+                <atributo nombre="LONGITUD">-3.7146170388153497</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 473 646 / 915 473 647</atributo>
+                <atributo nombre="FAX">915 591 171</atributo>
+                <atributo nombre="EMAIL">museo.cerralbo@cultura.gob.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">10091450</atributo>
+            <atributo nombre="NOMBRE">Museo EMT</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El Museo de la EMT se ha convertido en realidad tras una década de duro trabajo de recuperación, restauración y reparación del patrimonio histórico de la Empresa Municipal de Transportes de Madrid, especialmente, material móvil, mobiliario, piezas mecánicas, maquinaria y otros elementos inherentes a la actividad de la EMT en sus 70 años de historia.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Visitas (con cita previa)  Apertura estacional durante seis meses al año: todos los sábados de abril, mayo, junio, julio, septiembre y octubre), a las 10, a las 11:30 y a las 13 horas. Por ser un centro de trabajo únicamente pueden realizarse de forma organizada, previamente concertadas y limitadas a un máximo de 40 personas por turno. Duración: 60 minutos aproximadamente. Compra de entradas y reserva de horarios a través de la web: http://tienda.emtmadrid.es (a partir del 1 de marzo de 2018).]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Si tiene una discapacidad física o sensorial, contacta con el Museo antes de reservar la visita y le informarán de la accesibilidad a la instalación.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Begoña (línea 10). Bus: 66, 173, 174, 176, 191, 193, 194, 195, 196, 197, 712, 713, 714, 716, L171.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=d56ad05b2a255510VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MAURICIO LEGENDRE</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">40</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28046</atributo>
+                <atributo nombre="BARRIO">CASTILLA</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">442096</atributo>
+                <atributo nombre="COORDENADA-Y">4481278</atributo>
+                <atributo nombre="LATITUD">40.480173612860305</atributo>
+                <atributo nombre="LONGITUD">-3.6831595451893273</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 068 810</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/AyuntamientoMadrid/OrganismosEmpresasMunicipales</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">10237457</atributo>
+            <atributo nombre="NOMBRE">Museo Félix Cañada</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Una selección de más de quinientas obras de arte de entre las cerca de mil de la donación original, constituyen la Colección Permanente que se puede visitar en las salas del Museo Félix Cañada de la Fundación Gómez Pardo, adscrita a la Escuela Técnica Superior de Ingenieros de Minas y Energía de la Universidad Politécnica de Madrid. Donada por el ingeniero de minas Doctor Félix Cañada Guerrero a la Fundación Gómez Pardo, reúne una amplia representación de trabajos de destacados artistas, pintores, escultores, ilustradores, grabadores, orfebres, ceramistas, etc. abarcando diferentes periodos desde el siglo XI hasta nuestros días.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Lunes, miércoles y viernes, de 10 a 13 horas, previa solicitud descargando el impreso en formato PDF y enviarlo cumplimentado a museo@fgomezpardo.es o bien mediante fax al 91 442 95 29. .]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Rios Rosas (línea 1).  Bus: 45, 12, 149, 3, 37.  Bicimad: Estación 130 (calle Santa Engracia, 127).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=cb22820a52799510VgnVCM1000001d4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALENZA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28003</atributo>
+                <atributo nombre="BARRIO">RIOS ROSAS</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">440568</atributo>
+                <atributo nombre="COORDENADA-Y">4477117</atributo>
+                <atributo nombre="LATITUD">40.442581673356834</atributo>
+                <atributo nombre="LONGITUD">-3.700796192332983</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 417 921</atributo>
+                <atributo nombre="FAX">914 729 529</atributo>
+                <atributo nombre="EMAIL">museo@fgomezpardo.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2074</atributo>
+            <atributo nombre="NOMBRE">Museo Geominero</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Los objetivos del Museo Geominero son conservar, investigar y difundir la riqueza y diversidad del patrimonio geológico, paleontológico y mineralógico a través de las importantes colecciones de minerales, rocas y fósiles procedentes de todas las regiones españolas y de antiguos territorios coloniales, así como de yacimientos significados del registro mundial]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a domingo y festivos de 9 a 14 horas. Cerrado los días 1 y 6 de enero y 24, 25 y 31 de diciembre.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ríos Rosas (línea 1) y Alonso Cano (línea 7).  Bus: 45, 12, 149, 3, 37, 5.  Bicimad: Estación 130 (calle Santa Engracia, 127).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=ff0bef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RIOS ROSAS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28003</atributo>
+                <atributo nombre="BARRIO">RIOS ROSAS</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">440663</atributo>
+                <atributo nombre="COORDENADA-Y">4477057</atributo>
+                <atributo nombre="LATITUD">40.442047952073665</atributo>
+                <atributo nombre="LONGITUD">-3.699670468881422</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 495 759</atributo>
+                <atributo nombre="EMAIL">m.geominero@igme.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2075</atributo>
+            <atributo nombre="NOMBRE">Museo Histórico Minero Don Felipe de Borbón y Grecia</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Ubicado en la Escuela Técnica Superior de Ingenieros de Minas de Madrid]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes, de 9 a 14 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ríos Rosas (línea 1)  Bus: 3, 12, 37, 45, 149  Bicimad: Estación 130 (calle Santa Engracia, 127)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=822bef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RIOS ROSAS</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">21</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28003</atributo>
+                <atributo nombre="BARRIO">RIOS ROSAS</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">440603</atributo>
+                <atributo nombre="COORDENADA-Y">4477062</atributo>
+                <atributo nombre="LATITUD">40.44207963042673</atributo>
+                <atributo nombre="LONGITUD">-3.7003900716027776</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 367 017</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">18176</atributo>
+            <atributo nombre="NOMBRE">Museo ICO</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a sábados: de 11 a 20 horas.   Domingos y festivos: de 10 a 14 horas.    Cerrado: Todos los lunes del año.   Horarios especiales: 24 y 31 de diciembre de 10 a 14 horas. 1 de mayo y 25 de diciembre cerrado.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Sevilla (línea 2).  Bus: 53, 15, 20, M1, 150, 5, 46, 52.  BICIMAD: estación 28 (calle Alcalá, 27).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=2886444a2951c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ZORRILLA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">CORTES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440806</atributo>
+                <atributo nombre="COORDENADA-Y">4474249</atributo>
+                <atributo nombre="LATITUD">40.41675330128869</atributo>
+                <atributo nombre="LONGITUD">-3.6977346235068373</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 201 242</atributo>
+                <atributo nombre="EMAIL">museoico@ico.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6019032</atributo>
+            <atributo nombre="NOMBRE">Museo Los Caños del Peral. Estación de Metro Ópera</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[La estación de Ópera cuenta con el mayor museo arqueológico bajo tierra de Madrid, un espacio de 200 m2 donde se pueden ver restos arqueológicos de los siglos XVI y XVII pertenecientes a la Fuente de los Caños del Peral, el Acueducto de Amaniel y la Alcantarilla del Arenal.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Previa reserva en la página museosmetromadrid.es.  Viernes: de 16:00 a 20:00 horas. Sábados: de 10:00 a 14:00 horas y de 16:00 a 20:00 horas. Domingos: de 10:00 a 14:00 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ópera (líneas 2, 5 y Ramal).   Bicimad: Estación 24 (calle Carlos III, 1).    Aparcamiento: Descalzas (20), plaza Descalzas y plaza San Martín.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=435950262d50f210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ISABEL II</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439834</atributo>
+                <atributo nombre="COORDENADA-Y">4474367</atributo>
+                <atributo nombre="LATITUD">40.41775560280743</atributo>
+                <atributo nombre="LONGITUD">-3.709202070089538</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2053</atributo>
+            <atributo nombre="NOMBRE">Museo Lázaro Galdiano</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Martes a domingo, de 9:30 a 15 horas. Lunes cerrado.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Gregorio Marañón (línea 7 y 10)  Bus: 12, 16, 9, 19, 51, 61]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=7d1aef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SERRANO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">122</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441802</atributo>
+                <atributo nombre="COORDENADA-Y">4476460</atributo>
+                <atributo nombre="LATITUD">40.436750328725985</atributo>
+                <atributo nombre="LONGITUD">-3.6861980129207894</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 616 084</atributo>
+                <atributo nombre="FAX">915 617 793</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5349304</atributo>
+            <atributo nombre="NOMBRE">Museo Nacional Centro de Arte Reina Sofía (MNCARS)</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Edificio Sabatini: calle Santa Isabel 52.  Edificio Nouvel (ampliación): ronda de Atocha, esquina a plaza del Emperador Carlos V.  Espacios en el parque del Retiro: Palacio de Velázquez y Palacio de Cristal.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Lunes y de miércoles a sábado, de 10 a 20 horas. Martes cerrado (incluso festivos). Domingos de 10 a 14:30 horas.  Cerrado: 1 y 6 enero, 1 y 15 mayo, 9 noviembre, 24, 25 y 31 diciembre.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Estación del Arte (Atocha) (línea 1)  Bus: 27, 34, C03, C1, 26, 32, 6, 59, 85, E1, C2, 119, 36, 41, 001, 10, 14, 37, 45  Cercanías Renfe: Atocha (líneas C1, C2, C3, C4, C5, C7, C8, C10)  Bicimad: Estación 50 (calle Santa Isabel, 57) / Estación 51 (Ronda de Atocha, 2)  Parking: Sánchez Bustillo (37), C/ Sánchez Bustillo]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=69d8275bad5a1210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SANTA ISABEL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">52</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">441112</atributo>
+                <atributo nombre="COORDENADA-Y">4473334</atributo>
+                <atributo nombre="LATITUD">40.40854131574014</atributo>
+                <atributo nombre="LONGITUD">-3.6940316511856017</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 741 000 / 917 911 330 (Centro atención visitante)</atributo>
+                <atributo nombre="EMAIL">museoreinasofia@clorian.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2099</atributo>
+            <atributo nombre="NOMBRE">Museo Nacional Thyssen-Bornemisza</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El palacio donde se ubica la colección fue el antiguo palacio del duque de Villahermosa. Edificación neoclásica. Posteriormente se adapta como entidad bancaria perdiento sus espacios interiores. Más tarde, pasó a formar parte de los edificios del Museo del Prado. Desde principios de los 90 alberga la Colección Thyssen. El museo ofrece un recorrido por la historia de la pintura europea desde sus inicios en el siglo XIII, hasta finales del siglo XX.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Colecciones permanentes:  lunes de 12 a 16 horas (acceso gratuito gracias al patrocinio de MasterCard). Martes a domingos de 10 a 19 horas.   Exposiciones temporales: consultar horario específico en Museo.  Avisos y aperturas extraordinarias: los días 1 de enero, 1 de mayo y 25 de diciembre el Museo permanecerá cerrado. El 24 y el 31 de diciembre el horario de apertura del Museo será de 10 a 15 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Banco de España (línea 2)  Bus: 10, 14, 27, 34, 37, 45, C03  Cercanías Renfe: Recoletos  Bicimad: Estación 27 (calle Jesús, 1) / Estación 29 (calle Marqués de Cubas, 25)  Parking: Cortes (46), Plaza de las Cortes]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Arquitecto: Antonio López Aguado (1805 - 1806)  Adecuación: Rafael Moneo (1989 - 1992)  Ampliación: BOPBAA (1999 - 2004)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=0b8079262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PRADO</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">8</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">CORTES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">441058</atributo>
+                <atributo nombre="COORDENADA-Y">4474164</atributo>
+                <atributo nombre="LATITUD">40.41600553697803</atributo>
+                <atributo nombre="LONGITUD">-3.694744831131079</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 911 370</atributo>
+                <atributo nombre="EMAIL">cav@museothyssen.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2057</atributo>
+            <atributo nombre="NOMBRE">Museo Nacional de Antropología</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El Museo está instalado en el edificio de estilo clasicista construido por el Marqués de Cubas en 1875 por encargo del Doctor González Velasco, fundador de la institución.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a sábado de 9:30 a 20 horas. Domingos: de 10 a 15 horas. Cerrado todos los lunes del año y los días 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre y un festivo local. La taquilla se cerrará 15 minutos antes del cierre.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Estación del Arte (línea 1).  Bus: 19,  C1, 10, 14, 26, 32, 102, 37, 59, 001, C2, 203, 85, 141.  Cercanías Renfe: Atocha (líneas C1, C2, C3, C4, C5, C7, C8, C10).  Bicimad: Estación 80 a y b (paseo Infanta Isabel, 3).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=456079262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALFONSO XII</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">68</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441550</atributo>
+                <atributo nombre="COORDENADA-Y">4473258</atributo>
+                <atributo nombre="LATITUD">40.407887537677716</atributo>
+                <atributo nombre="LONGITUD">-3.688862923660605</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 306 418 / 915 395 995</atributo>
+                <atributo nombre="FAX">914 677 098</atributo>
+                <atributo nombre="EMAIL">antropologico@cultura.gob.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2055</atributo>
+            <atributo nombre="NOMBRE">Museo Nacional de Artes Decorativas</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Inaugurado en 1912, su sede es un típico palacete madrileño del último tercio del siglo XIX. El museo posee muebles, cerámicas, vidrios, joyas, tejidos, arte oriental, y hasta 30 000 objetos distintos que a lo largo de la historia han servido para embellecer las casas, palacios y los monumentos de distintas culturas. El museo posee muestras como el Jarrón de Sevres regalo de Napoleón III, la Cocina Valenciana del siglo XVIII compuesta por más de 1500 azulejos de Manises, la Mesa de plata del siglo XVI o la colección de alfombras españolas de los siglos XV al XVII.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Martes a sábados de 9:30 a 15 horas. Domingo y festivos: de 10 a 15 horas. Jueves tarde de 17 a 20 horas (excepto julio y agosto).  Cerrado:  todos los lunes, 1 y 6 de enero, 1 y 15 de mayo, 24, 25 y 31 de diciembre.    La venta de entradas finalizará 30 minutos antes del cierre.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Retiro (línea 2).  Bus: 19, 1, 146, 15, 2, 20, 51, 52, 74, 9, E1, 203, 14, 27, 37, 45.  Cercanías Renfe: Recoletos (líneas C1, C2, C7, C8 Y C10).  Bicimad: Estaciones 65 (calle Antonio Maura, 15) y 60 (plaza de la Independencia, 6).  Parking: Montalbán (49), C/ Montalbán (entre C/ Alfonso XI y P&ordm; Prado)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[El Museo dispone de una rampa de acceso al edificio en la calle Montalbán. Para su uso, es necesario avisar con antelación al personal del Museo.El acceso a las diferentes plantas, puede realizarse mediante ascensor. Debido a las dimensiones del mismo, es necesario emplear en él las sillas de ruedas que el Museo pone a su disposición, previa solicitud.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">2,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=287079262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MONTALBAN</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">12</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441483</atributo>
+                <atributo nombre="COORDENADA-Y">4474369</atributo>
+                <atributo nombre="LATITUD">40.417891279015194</atributo>
+                <atributo nombre="LONGITUD">-3.689754685481908</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 326 499 / 915 326 845 / 910 505 755 (Reserva actividades infantiles) / 910 505 768 (Biblioteca) / 910 505 763 (Atención a investigadores)</atributo>
+                <atributo nombre="FAX">915 232 086</atributo>
+                <atributo nombre="EMAIL">mnad@cultura.gob.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2056</atributo>
+            <atributo nombre="NOMBRE">Museo Nacional de Ciencias Naturales</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a viernes de 10 a 17 horas. Sábados, domingos y festivos de 10 a 20 horas. Agosto,de 10 a 15 horas. Cerrado los lunes (excepto los festivos). Cerrado el 1 y 6 de enero, el 1 de mayo y el 25 de diciembre. Los días 24 y 31 de diciembre el museo permanecerá abierto de 10 a 15 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Gregorio Marañón (líneas 7, 10).  Bus: 12, 45, 14, 147, 150, 27, 40, 7.  Bicimad: Estación 139 (Calle José Gutiérrez Abascal, 2).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=8edbef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">JOSE GUTIERREZ ABASCAL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">EL VISO</atributo>
+                <atributo nombre="DISTRITO">CHAMARTIN</atributo>
+                <atributo nombre="COORDENADA-X">441463</atributo>
+                <atributo nombre="COORDENADA-Y">4476870</atributo>
+                <atributo nombre="LATITUD">40.44042007613476</atributo>
+                <atributo nombre="LONGITUD">-3.690220716379925</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2076</atributo>
+            <atributo nombre="NOMBRE">Museo Naval</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Temática: Historia de la navegación española.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a domingo de 10 a 19 horas. Durante el mes de agosto, horario reducido de 10 a 15 horas. El desalojo del museo se hará entre 15 y 30 min antes del cierre, dependiendo de las personas que haya en las salas y de las normas en vigor por la COVID-19. El museo en su totalidad o alguna de sus salas podrán cerrarse de manera excepcional fuera de estas fechas, comunicándose al público con la debida antelación.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Banco de España (línea 2).  Bus: E1, 14, 27, 37, 45, C03, 203, 001, 34, 1, 146, 15, 2, 20, 51, 52, 74, 9.  Bicimad: Estación 86 (plaza de Cibeles).    Aparcamiento: Montalbán (49), calle Montalbán entre calle Alfonso XI y paseo del Prado.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=a30cef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PRADO</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">5</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441227</atributo>
+                <atributo nombre="COORDENADA-Y">4474329</atributo>
+                <atributo nombre="LATITUD">40.41751289873052</atributo>
+                <atributo nombre="LONGITUD">-3.692768317427539</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 238 516 (lunes a viernes, de 9 a 14 horas)</atributo>
+                <atributo nombre="EMAIL">museonavalmadrid@fn.mde.es y reservas_museonaval@fn.mde.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2085</atributo>
+            <atributo nombre="NOMBRE">Museo Postal y Telegráfico</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El  Museo Postal y Telegráfico ofrece al visitante un recorrido temático y cronológico a través  de la historia de las comunicaciones, desde la más tradicional, la carta, hasta las comunicaciones por satélite. En este museo se conservan y exhiben los fondos postales y de telecomunicación desde los primeros hitos conocidos hasta nuestros días.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a viernes de 9 a 14 y de 16 a 18 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Bus: 161.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=c82cef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">TAPIA DE CASARIEGO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">6</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28023</atributo>
+                <atributo nombre="BARRIO">VALDEMARIN</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">434802</atributo>
+                <atributo nombre="COORDENADA-Y">4479955</atributo>
+                <atributo nombre="LATITUD">40.467706026917405</atributo>
+                <atributo nombre="LONGITUD">-3.7690721403206724</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 401 440 / 917 400 668</atributo>
+                <atributo nombre="EMAIL">info@museopostalytelegrafico.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4997114</atributo>
+            <atributo nombre="NOMBRE">Museo Sorolla</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a sábado: de 9:30 a 20 horas  Domingos y festivos: de 10 a 15 horas Cerrado: todos los lunes del año, 1 de enero, 6 de enero, 1 de mayo, 9 noviembre, 24, 25 y 31 de diciembre]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Rubén Darío (línea 5), Gregorio Marañón (líneas 7, 10), Iglesia (línea 1)  Bus: 16, 5, 61, 147, 40, 7]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=6dd05e93aad9c110VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">GENERAL MARTINEZ CAMPOS</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">37</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28010</atributo>
+                <atributo nombre="BARRIO">ALMAGRO</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">441281</atributo>
+                <atributo nombre="COORDENADA-Y">4476335</atributo>
+                <atributo nombre="LATITUD">40.43557863874977</atributo>
+                <atributo nombre="LONGITUD">-3.6923288211390055</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 101 584</atributo>
+                <atributo nombre="EMAIL">museo.sorolla@cultura.gob.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2077</atributo>
+            <atributo nombre="NOMBRE">Museo Taurino de la Comunidad de Madrid</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Situado en el Patio de Caballos, ofrece a sus visitantes un atractivo recorrido por la historia del toreo, demostrando la relevancia de la Tauromaquia en la historia y la cultura de España. De acceso gratuito, octavo monumento más visitado en la Comunidad de Madrid, en este espacio se pueden contemplar grabados de Goya, vestidos, monteras y capotes de paseo de grandes toreros del siglo XX o un rincón dedicado a la figura de Manolete.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a domingo, de 10 a 15 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ventas (líneas 2, 5).  Bus: 106, 110, 146, 21, 210, 38, 53.  Bicimad: Estación 187 (calle Alejandro González, 1).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=958cef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALCALA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">237</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28028</atributo>
+                <atributo nombre="BARRIO">GUINDALERA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">443775</atributo>
+                <atributo nombre="COORDENADA-Y">4475871</atributo>
+                <atributo nombre="LATITUD">40.43157110306013</atributo>
+                <atributo nombre="LONGITUD">-3.662872780933851</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">912 761 287</atributo>
+                <atributo nombre="EMAIL">museotaurinolasventas@madrid.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2101</atributo>
+            <atributo nombre="NOMBRE">Museo Tiflológico</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Edificio con una superficie de 1.500 m2 dividido en tres zonas con maquetas de monumentos nacionales e internacionales realizadas por invidentes e instrumentos utilizados por los invidentes desde hace 200 años. Es un espacio concebido para que sus visitantes puedan ver y tocar las piezas expuestas.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Martes a viernes, de 10 a 15 horas y de 16 a 19 horas. Sábados de 10 a 14 horas. Cerrado: lunes, domingos y festivos. Consultar cierres especiales en http://museo.once.es]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Estrecho (línea 1)  Bus: 66, 124, 126]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=baacef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">LA CORUÑA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">18</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28020</atributo>
+                <atributo nombre="BARRIO">CUATRO CAMINOS</atributo>
+                <atributo nombre="DISTRITO">TETUAN</atributo>
+                <atributo nombre="COORDENADA-X">440631</atributo>
+                <atributo nombre="COORDENADA-Y">4478517</atributo>
+                <atributo nombre="LATITUD">40.45519790204094</atributo>
+                <atributo nombre="LONGITUD">-3.7001960485997545</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 894 219</atributo>
+                <atributo nombre="EMAIL">museo@once.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2068</atributo>
+            <atributo nombre="NOMBRE">Museo de Aeronáutica y Astronáutica</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El museo tiene por finalidad la adquisición, conservación y exposición de los bienes que constituyen el Patrimonio Histórico de la Aeronáutica Española. Dispone de una exposición exterior y siete hangares que albergan aeronaves, uniformes, condecoraciones, motores, maquetas y otros fondos relacionados con la aviación. Terminada la Guerra Civil y una vez creado el Ejército del Aire, se concibe la idea de crear un museo que reflejara la evolución e historia de nuestra aeronáutica. Desde 1975 el Museo está en Cuatro Vientos y se han sucedido varias ampliaciones que le convierten en un referente europeo de la aeronáutica.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a domingo de 10 a 14 horas.  El aforo está actualmente limitado, siendo obligatoria la reserva online a través de la página de Reserva de visita al Museo.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Aparcamiento: gratuito, de 10 a 14 horas Cafetería: de 10 a 13:30 horas Punto de venta: de 10 a 13:30 horas  Visitas guiadas para grupos: de martes a domingo de 10 a 14 horas, previa petición de autorización por carta o correo electrónico (museodelaire@ea.mde.es). Se recomienda anticipar las peticiones por teléfono de lunes a viernes. Grupo mínimo de 10 personas.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=90aaef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">A-5</atributo>
+                <atributo nombre="CLASE-VIAL">AUTOVIA</atributo>
+                <atributo nombre="TIPO-NUM">T</atributo>
+                <atributo nombre="NUM">10.700</atributo>
+                <atributo nombre="ORIENTACION">Km. 10,5</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28024</atributo>
+                <atributo nombre="BARRIO">CUATRO VIENTOS</atributo>
+                <atributo nombre="DISTRITO">LATINA</atributo>
+                <atributo nombre="COORDENADA-X">432238</atributo>
+                <atributo nombre="COORDENADA-Y">4469498</atributo>
+                <atributo nombre="LATITUD">40.37362</atributo>
+                <atributo nombre="LONGITUD">-3.80843</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 091 690</atributo>
+                <atributo nombre="EMAIL">museodelaire@ea.mde.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2091</atributo>
+            <atributo nombre="NOMBRE">Museo de América</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Horario:   De martes a sábado, de 9:30 a 15 horas. Jueves, apertura continuada de 9:30 a 19 horas. Domingos y festivos de 10 a 15 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Moncloa (líneas 3, 6), Islas Filipinas (línea 7)  Autobús: 138, 62, 1, 132, 44, 82, C2, C1  Bicimad: Estación 128 (calle Cea Bermúdez, 59)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=c929ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">REYES CATOLICOS</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">6</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28040</atributo>
+                <atributo nombre="BARRIO">CIUDAD UNIVERSITARIA</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">438777</atributo>
+                <atributo nombre="COORDENADA-Y">4476615</atributo>
+                <atributo nombre="LATITUD">40.43792950973577</atributo>
+                <atributo nombre="LONGITUD">-3.72186494128936</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 492 641 / 915 439 437</atributo>
+                <atributo nombre="FAX">915 446 742</atributo>
+                <atributo nombre="EMAIL">museo.america@mecd.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">83922</atributo>
+            <atributo nombre="NOMBRE">Museo de Arte Contemporáneo de Madrid</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Al igual que otros museos de arte contemporáneo, nacionales o extranjeros, se ha utilizado un edificio histórico para albergar las colecciones: el Cuartel del Conde Duque. El Museo de Arte Contemporáneo recupera para los madrileños el despacho del escritor vanguardista Ramón Gómez de la Serna, como parte de su colección permanente.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a viernes / Tuesday to Friday:  mañanas de 10 a 14 horas tardes de 15 a 21:00 horas    Sábados/ Saturday   mañanas de 10 a 14 horas tardes de 17:30 a 21:00 horas   Domingos y festivos/ Sunday &amp; Holidays: 10:30 a 14:30 horas       Cierres: Todos los lunes /Every Monday, 1 y 6 de enero/January, 1 de mayo/ May, 24, 25 y 31 de diciembre/ December. Las salas se desalojan 15 minutos antes del cierre/ Gallery will be clear 15 minutes before closing.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ventura Rodríguez, Plaza de España, San Bernardo, Noviciado.  Bus: 1, 2, 21, 44, 74, 133, C, M2  Bicimad: Estación 13, Calle Conde Duque n&ordm;22.  Parking:  Plaza de España]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=84a55c2cdc41c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CONDE DUQUE</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">9</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28015</atributo>
+                <atributo nombre="BARRIO">CENTRO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439723</atributo>
+                <atributo nombre="COORDENADA-Y">4475437</atributo>
+                <atributo nombre="LATITUD">40.42737760210632</atributo>
+                <atributo nombre="LONGITUD">-3.7106116887809817</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">Teléfono de sala: 914 801 766</atributo>
+                <atributo nombre="EMAIL">mmacmdifusion@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2092</atributo>
+            <atributo nombre="NOMBRE">Museo de Astronomía y Geodesia</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El museo de Astronomía y Geodesia, situado en la Facultad de Ciencias Matemáticas de la Universidad Complutense de Madrid, agrupa una importante colección de instrumentos de Astronomía, Geodesia y Topografía, reunidos con el afán didáctico de dar a conocer la evolución de los métodos utilizados en estas disciplinas durante los últimos 150 años.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Visita con cita previa.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Bus: 132, F, 82, G, U.  Bicimad: Estación 260 (calle José Antonio Novais, frente al número 12).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=ee49ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CIENCIAS</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28040</atributo>
+                <atributo nombre="BARRIO">CIUDAD UNIVERSITARIA</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">438419</atributo>
+                <atributo nombre="COORDENADA-Y">4477894</atributo>
+                <atributo nombre="LATITUD">40.44942472705852</atributo>
+                <atributo nombre="LONGITUD">-3.7262214898219117</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 944 615 / 913 944 583</atributo>
+                <atributo nombre="EMAIL">astronomia_geodesia@mat.ucm.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">5727435</atributo>
+            <atributo nombre="NOMBRE">Museo de Bomberos de Madrid</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Visitas Guiadas   Debido al cierre por obras de esta instalación, quedan suspendidas las visitas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Exposición fotográfica Un recorrido por toda su historia: grandes incendios, construcción de los primeros parques, bomberos fallecidos en acto de servicio...  Vehículos Una amplia gama de los vehículos utilizados en los últimos 400 años: Las primeras bombas brazales, clásicos de los años veinte y vehículos adaptados de la II Guerra Mundial.  Herramientas y equipos Diferentes escalas de gancho, extintores primitivos o las primeras lonas de salvamento nos dan una idea de cómo han trabajado los bomberos en los últimos siglos así como herramientas de distintas épocas que nos muestran el avance tecnológico en la lucha contra el fuego y salvamento.  Cascos Amplia exposición en la que se muestra la evolución de los cascos en Madrid. Además se expone una colección internacional en la que se aprecia, en su diseño, la mezcla de protección, materiales y comodidad en los diferentes países del mundo.  Uniformes De época, trajes de gala, así como varios modelos que fueron utilizados en sucesos destacados de la historia de Madrid. Completan esta colección varios trajes de aproximación al fuego y protección química especial entre otros.  Comunicaciones Antiguamente los bomberos se comunicaban mediante toques de corneta. Esta exposición muestra las partituras con sus particulares comandas. Además, la exposición incluye la evolución de los equipos de comunicaciones.  Sanitario Una cámara de recuperación respiratoria para los bomberos intoxicados por el humo en los fuegos es uno de los mayores atractivos de este área.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: L1- Buenos Aires Bus: 141 y 143]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Abierto al público en 1982, reúne todos los instrumentos usados por los bomberos durante más de cuatro siglos.    Accesible                           Entrada gratuita     Visita para grupos            Apropiado para niños y niñas]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=9f0966a8bba49210VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BOADA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">4</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28038</atributo>
+                <atributo nombre="BARRIO">NUMANCIA</atributo>
+                <atributo nombre="DISTRITO">PUENTE DE VALLECAS</atributo>
+                <atributo nombre="COORDENADA-X">444504</atributo>
+                <atributo nombre="COORDENADA-Y">4471753</atributo>
+                <atributo nombre="LATITUD">40.39453171263195</atributo>
+                <atributo nombre="LONGITUD">-3.6539313207612207</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="EMAIL">jcbomberos@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2090</atributo>
+            <atributo nombre="NOMBRE">Museo de Calcografía Nacional</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Reúne un extraordinario conjunto de planchas grabadas por los más significados artistas españoles, hasta conformar una de las mayores y mejores colecciones de matrices calcográficas del mundo. Su principal tesoro son las planchas de cobre grabadas al aguafuerte por Francisco de Goya, obras cumbres de la historia universal del grabado.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Abierto con el mismo horario que la exposición temporal. En ausencia de exposiciones temporales, consultar en la taquilla del museo, telefónicamente o en la web.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Sala de exposiciones temporales, Gabinete de Francisco de Goya y biblioteca de referencia.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Sol (líneas 1, 2, 3), Sevilla (línea 2).  Bus: 002, 15, 150, 20, 5, 53, M1, 51, 46, 146.  Cercanías Renfe: Sol (líneas C3 y C4).  Bicimad: Estaciones 1a y 1b (Puerta del Sol, 1) y 28 (calle Alcalá, 27).  Aparcamiento: Sevilla (41), calle Sevilla y calle Alcalá.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=7169ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALCALA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">13</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440667</atributo>
+                <atributo nombre="COORDENADA-Y">4474557</atributo>
+                <atributo nombre="LATITUD">40.41764548040709</atributo>
+                <atributo nombre="LONGITUD">-3.700667044636178</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 240 864</atributo>
+                <atributo nombre="FAX">915 240 977</atributo>
+                <atributo nombre="EMAIL">calcografianacional.archivo@rabasf.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2084</atributo>
+            <atributo nombre="NOMBRE">Museo de Cera</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Horario de verano (Mayo a Septiembre)  Taquilla: 11 a 20 horas Público:  11 a 20:30 horas  Horario de invierno (Octubre a Abril)  Taquilla: de 11 a 18:30 horas Público: de 11 a 19 horas]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Colón (línea 4)  Bus: 14, 150, 27, 45, 5, 53, 21, 37  Cercanías Renfe: Recoletos (líneas C1, C2, C7, C10)  Bicimad: Estación 10 (Calle Marqués de la Ensenada, 16)  Parking: Colón (2), Plaza de Colón s/n]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">2</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=9689ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RECOLETOS</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">41</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">JUSTICIA</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">441347</atributo>
+                <atributo nombre="COORDENADA-Y">4475094</atributo>
+                <atributo nombre="LATITUD">40.424403779665376</atributo>
+                <atributo nombre="LONGITUD">-3.6914362030084815</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 199 330</atributo>
+                <atributo nombre="EMAIL">info@museoceramadrid.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2071</atributo>
+            <atributo nombre="NOMBRE">Museo de Escultura al Aire Libre de la Castellana</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El Museo de Escultura al Aire Libre de La Castellana, está situado bajo el paso elevado que une las calles de Juan Bravo y Eduardo Dato, contiene una excelente colección de escultura abstracta española.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Entrada libre. Espacio urbano abierto Abierto 24 horas al día los 365 días del año.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Transporte público más próximo   Metro: Rubén Darío (línea 5)  Bus: 5, 14, 27, 45, 150  BICIMAD: Estación 142 (Paseo de la Castellana n&ordm;42)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=eca9ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">CASTELLANA</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">40</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28046</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441678</atributo>
+                <atributo nombre="COORDENADA-Y">4476070</atributo>
+                <atributo nombre="LATITUD">40.433219398671156</atributo>
+                <atributo nombre="LONGITUD">-3.6876122680805956</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 885 921</atributo>
+                <atributo nombre="EMAIL">mmacmdifusion@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2054</atributo>
+            <atributo nombre="NOMBRE">Museo de Historia de Madrid</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Fue creado como museo municipal en 1929 y rebautizado como Museo de Historia de Madrid en 2007. En el año 2014 se hace una profunda remodelación y reabre sus puertas con un montaje moderno y una puesta al día de sus colecciones.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a domingos de 10 a 20 horas.  Verano: de martes a domingos de 10 a 19 horas.  Cerrado: lunes y los días 1 y 6 de enero, 1 de mayo,  24, 25 y 31 de diciembre.   El desalojo de las salas se hará diez minutos antes del cierre.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Biblioteca de investigación Servicio de documentación Guardarropa Zona wifi]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Tribunal, Bilbao y Alonso Martínez. Bus: 3, 21, 37, 40, 147 y 149. BICIMAD: Estación 54 (Calle Barceló 7) Aparcamiento público: Barceló.]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Accesibilidad física:   Rampa de acceso a la entrada. Ascensores. Aseos adaptados. Silla de ruedas.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=8f3079262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FUENCARRAL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">78</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">JUSTICIA</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440550</atributo>
+                <atributo nombre="COORDENADA-Y">4475251</atributo>
+                <atributo nombre="LATITUD">40.42577054821346</atributo>
+                <atributo nombre="LONGITUD">-3.700845660719608</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">917 011 863</atributo>
+                <atributo nombre="EMAIL">smuseosm@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4545827</atributo>
+            <atributo nombre="NOMBRE">Museo de Historia de la Comunidad Judía de Madrid</atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Visitas guiadas   Para realizar las  visitas tiene que solicitarse previamente en el correo electrónico info@cjmadrid.org, aportando nombre, apellidos y Documento Nacional de Identidad.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Iglesia (línea 1).  Bus: 16, 61, 3, 37, 149.  Bicimad: Estación 246 (calle Santa Engracia, 87).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=8f2a4a659ee71110VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BALMES</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28010</atributo>
+                <atributo nombre="BARRIO">TRAFALGAR</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">440629</atributo>
+                <atributo nombre="COORDENADA-Y">4476313</atributo>
+                <atributo nombre="LATITUD">40.43534317115623</atributo>
+                <atributo nombre="LONGITUD">-3.700013620203689</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 913 131</atributo>
+                <atributo nombre="EMAIL">info@cjmadrid.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2095</atributo>
+            <atributo nombre="NOMBRE">Museo de Mineralogía</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Presenta colecciones de minerales clasificados por su composición química y vitrinas murales con ejemplares de exhibición procedentes de todo el mundo.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Martes, miércoles y jueves, de 12:30 a 14:30 horas Visitas guiadas o a otras horas, concertando previamente en el teléfono 913 974 132.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Renfe: Cantoblanco Universidad]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=255aef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FRANCISCO TOMAS Y VALIENTE</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">7</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28049</atributo>
+                <atributo nombre="BARRIO">EL GOLOSO</atributo>
+                <atributo nombre="DISTRITO">FUENCARRAL-EL PARDO</atributo>
+                <atributo nombre="COORDENADA-X">441133</atributo>
+                <atributo nombre="COORDENADA-Y">4488524</atributo>
+                <atributo nombre="LATITUD">40.54537941407227</atributo>
+                <atributo nombre="LONGITUD">-3.6951833197962536</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 974 132 / 914 974 800</atributo>
+                <atributo nombre="FAX">914 974 900</atributo>
+                <atributo nombre="EMAIL">museo.mineralogia@uam.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2112</atributo>
+            <atributo nombre="NOMBRE">Museo de San Isidro. Los Orígenes de Madrid</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Este espacio museográfico propone un viaje por la historia de la ciudad de Madrid desde la Prehistoria hasta el establecimiento de la Corte, a través de distintas salas como la de San Isidro, el Patio renacentista, el Jardín arqueobotánico o el Almacén visitable.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a domingo y festivos de 10 a 20 horas.  Último pase de visita 15 minutos antes del cierre.    Verano, del 16 de junio al 15 de septiembre: de martes a domingo de 10 a 19 horas.  Cerrado todos los lunes, el 1 y 6 de enero, el 1 de mayo y los días 24, 25 y 31 de diciembre.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Sala de investigadores. Biblioteca especializada en arqueología e historia madrileña. Archivo documental. Almacén visitable con más de 600 piezas arqueológicas. Jardín arqueobotánico, con información documentada sobre las especies de la ciudad.  Investigadores: los fondos del Museo están a disposición de la comunidad científica y los investigadores podrán acceder tramitando su correspondiente solicitud. Visitas guiadas por voluntarios culturales. Talleres didácticos para grupos escolares. Zona wifi (Almacén visitable y salón de actos)]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Latina , Tirso de Molina Bus: 3 , 17 , 18 , 23 , 35 , 60 , 65 , 148 BICIMAD: Estación 38 (Carrera de San Francisco 1)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">2,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=7b7aef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SAN ANDRES</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28005</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439691</atributo>
+                <atributo nombre="COORDENADA-Y">4473738</atributo>
+                <atributo nombre="LATITUD">40.41207900253883</atributo>
+                <atributo nombre="LONGITUD">-3.7108161027466378</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 667 415</atributo>
+                <atributo nombre="EMAIL">museosanisidro@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">85301</atributo>
+            <atributo nombre="NOMBRE">Museo de Sanidad e Higiene Pública</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Con sede en el Instituto de Salud Carlos III, ocupa las antiguas dependencias del Laboratorio de Microbiología del Hospital del Rey. 300 m2 conservados tal cual su antiguo uso, con fondos de mobiliario, instrumental y bibliografía de los antiguos hospitales para enfermos infecciosos del complejo. Se resaltan hitos históricos relevantes en salud pública mediante láminas enmarcadas.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Sólo visitas de grupo con cita previa: de lunes a viernes laborables, de 10 a 14 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Solicitud cita previa en teléfono 918 222 414 o museodesanidad@isciii.es]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Chamartín (líneas 1, 10), Plaza de Castilla (1, 9, 10)  Bus: 134, 137  Renfe: Chamartín]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=3e755c2cdc41c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MONFORTE DE LEMOS</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">5</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28029</atributo>
+                <atributo nombre="BARRIO">LA PAZ</atributo>
+                <atributo nombre="DISTRITO">FUENCARRAL-EL PARDO</atributo>
+                <atributo nombre="COORDENADA-X">441508</atributo>
+                <atributo nombre="COORDENADA-Y">4480761</atributo>
+                <atributo nombre="LATITUD">40.47546597881768</atributo>
+                <atributo nombre="LONGITUD">-3.6900603941123107</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">918 222 414</atributo>
+                <atributo nombre="EMAIL">museodesanidad@iscii.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4591873</atributo>
+            <atributo nombre="NOMBRE">Museo de la Biblioteca Nacional de España</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El Museo de la Biblioteca Nacional de España, antiguo Museo del Libro, es responsable de la oferta educativa, formativa, cultural y de ocio de la institución y divulga las colecciones, funcionamiento e historia de la Biblioteca para todos los públicos.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Temporalmente cerrado. Consultar calendario de cierre.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Colón, (línea 4), Retiro (Línea 2)  Bus: 14, 150, 27, 37, 45, 5, 53, C03.  Cercanías Renfe: Recoletos (líneas C1, C2, C7, C8  y C10).  Bicimad: Estación 94 (Paseo Recoletos, 20)  Aparcamiento: Colón (2), plaza de Colón.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=05920d3b4c503110VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RECOLETOS</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">20</atributo>
+                <atributo nombre="ORIENTACION">y 22</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28001</atributo>
+                <atributo nombre="BARRIO">RECOLETOS</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441395</atributo>
+                <atributo nombre="COORDENADA-Y">4474937</atributo>
+                <atributo nombre="LATITUD">40.423001908945956</atributo>
+                <atributo nombre="LONGITUD">-3.69084423390357</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 168 967 / 915 807 759 de lunes a viernes de 9 a 14 horas.</atributo>
+                <atributo nombre="EMAIL">museo@bne.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4566286</atributo>
+            <atributo nombre="NOMBRE">Museo de la Catedral de la Almudena</atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a sábado de 10 a 14:30 horas. Cerrado los domingos, fiestas de precepto y días de actos de culto especiales en la Catedral.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Bus: 3.  Metro: Ópera (Líneas 2, 5 y Ramal Ópera Príncipe Pío).  Bicimad: Estación 36 (plaza Ramales, 1).]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Imprescindible reserva previa en  reservasmuseo@catedraldelaalmudena.es o teléfono 915 592 874]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=82cb8d0e78d22110VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BAILEN</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">10</atributo>
+                <atributo nombre="ORIENTACION">Entrada por un costado de la entrada principal de la catedral</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439450</atributo>
+                <atributo nombre="COORDENADA-Y">4474125</atributo>
+                <atributo nombre="LATITUD">40.415538770017406</atributo>
+                <atributo nombre="LONGITUD">-3.7136931154460564</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 592 874</atributo>
+                <atributo nombre="EMAIL">reservasmuseo@catedraldelaalmudena.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2073</atributo>
+            <atributo nombre="NOMBRE">Museo de la Farmacia Hispana</atributo>
+            <atributo nombre="HORARIO"><![CDATA[El Museo de la Farmacia Hispana solo puede visitarse realizando una reserva con antelación.La visita es gratuita, guiada y tiene una duración aproximada de 1 hora y media. Se realizan durante el curso lectivo, de lunes a viernes y en horario de mañana. El grupo no debe superar las 22 personas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ciudad Universitaria (línea 6).  Bus: 132, 82, G, U.  Bicimad: Estaciones 258 y 259 (avenida de la Complutense (Metro Ciudad Universitaria).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">2</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=58f9ef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RAMON Y CAJAL</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">0</atributo>
+                <atributo nombre="ORIENTACION">Facultad de Farmacia</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28040</atributo>
+                <atributo nombre="BARRIO">CIUDAD UNIVERSITARIA</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">438415</atributo>
+                <atributo nombre="COORDENADA-Y">4477352</atributo>
+                <atributo nombre="LATITUD">40.4445328804645</atributo>
+                <atributo nombre="LONGITUD">-3.7262160043788155</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 941 797</atributo>
+                <atributo nombre="EMAIL">museofar@ucm.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2107</atributo>
+            <atributo nombre="NOMBRE">Museo de la Guardia Civil</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Horario: de lunes a viernes de 9 a 14 horas. Cerrado, sábados, domingos y festivos.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Guzmán el Bueno (líneas 6, 7). Bus: 2, 45, 44. Bicimad: Estaciones 256 (calle Beatriz de Bobadilla, 2) y 203 (calle General Ampudia, 2).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=003aef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">GUZMAN EL BUENO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">110</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28003</atributo>
+                <atributo nombre="BARRIO">VALLEHERMOSO</atributo>
+                <atributo nombre="DISTRITO">CHAMBERI</atributo>
+                <atributo nombre="COORDENADA-X">439594</atributo>
+                <atributo nombre="COORDENADA-Y">4477325</atributo>
+                <atributo nombre="LATITUD">40.44438523242585</atributo>
+                <atributo nombre="LONGITUD">-3.712300118990835</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 146 000, extensiones 48495 (Oficina Museo), 48477 (Salas Museo)</atributo>
+                <atributo nombre="EMAIL">dg-estuhistoricos-registro@guardiacivil.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2114</atributo>
+            <atributo nombre="NOMBRE">Museo de la Real Academia de Bellas Artes de San Fernando</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Construido inicialmente para palacio de Don Juan de Goyeneche, el edificio fue adquirido por la Academia de Bellas Artes en 1773 y reformado bajo la dirección de Fernando Chueca Goitia en 1973 y la fachada por Diego de Villanueva en 1774.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Colección permanente:  De martes a domingos y festivos de 10 a 14 horas.  Cerrado: todos los lunes y el mes de agosto.   Exposiciones temporales: consultar el apartado específico de la exposición temporal. Días cerrados: 1 y 6 de enero; 1 y 30 de mayo; 9 de noviembre; 24, 25 y 31 de diciembre.  En periodos vacacionales pueden sufrir cambios.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Sala de exposiciones - Accesible a personas con minusvalía (física).]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Sol (líneas 1, 2, 3), Sevilla (línea 2).  Bus: 002, 15, 150, 20, 5, 53, M1, 51, 46, 146.  Cercanías Renfe: Sol (líneas C3 y C4).  Bicimad: Estaciones 1a y 1b (Puerta del Sol, 1) y 28 (calle Alcalá, 27).  Aparcamiento: Sevilla (41), calle Sevilla y calle Alcalá.]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Visitas guiadas (no grupos): 25 personas máximo (suspendidas temporalmente).  Martes, jueves y viernes no festivos a las 11 horas, excepto Navidad, Semana Santa y agosto.   Visitas para grupos a otras instalaciones diferentes del Museo: jueves no festivos a las 11:30 horas.  Gratuitas y guiadas a los centros escolares y asociaciones a cargo de voluntarios culturales del Museo.   Previa solicitud:   Visitas de grupo: museo.visitas@rabasf.org. Visitas privadas a museo cerrado:  actos.culturales@rabasf.org.  Cumplimentando formulario de petición de reservas en la web.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=924aef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ALCALA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">13</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440558</atributo>
+                <atributo nombre="COORDENADA-Y">4474350</atributo>
+                <atributo nombre="LATITUD">40.41765456031193</atributo>
+                <atributo nombre="LONGITUD">-3.7006553517170633</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 240 864 (Centralita)</atributo>
+                <atributo nombre="FAX">915 241 034</atributo>
+                <atributo nombre="EMAIL">museo@rabasf.org</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2066</atributo>
+            <atributo nombre="NOMBRE">Museo del Ferrocarril de Madrid</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Edificio de carácter monumental. Proyectada por el ingeniero francés Émile Cacheliévre e inaugurada el 30 de marzo de 1880, la estación de Delicias fue la primera gran estación con carácter definitivo de Madrid.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De octubre a mayo:   Lunes a viernes, de 09:30 a 15:00 horas. Sábados y festivos, de 10:00 a 19:00 horas. Domingo, de 10:00 a 15:00 horas.   De junio a septiembre:   Lunes a domingo, de 10 a 15 horas.   Cerrado: 25 de diciembre, 1 y 6 de enero.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Mercado de Motores : segundo sábado y domingo del mes, de 11 a 21 horas (excepto agosto). El Museo cierra en su actividad ordinaria y el acceso es gratuito (www.mercadodemotores.es).    Feria del coleccionismo: primeros sábados de cada mes (excepto agosto) de 10 horas a 15 horas.  Mercadillo de Modelismo: primer domingo de cada mes (excepto el mes de agosto) de 10 a 14 horas.  Tren de jardín: todos los sábados, de 11:30 a 13:30 horas (excepto julio y agosto).   Teatro familiar: sábados, domingos y festivos, a las 11:30 y 13 horas (excepto julio y agosto).]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Delicias (línea 3).  Bus: 19, 247, 45, 47, 59, 85, 86, 8, 55, 6.  Cercanías Renfe: Delicias (líneas C1, C7, C10 y Regional).  Bicimad: Estación 172 (Bustamante, 1).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=091c4291ae91f010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">DELICIAS</atributo>
+                <atributo nombre="CLASE-VIAL">PASEO</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">61</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28045</atributo>
+                <atributo nombre="BARRIO">DELICIAS</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+                <atributo nombre="COORDENADA-X">441124</atributo>
+                <atributo nombre="COORDENADA-Y">4472418</atributo>
+                <atributo nombre="LATITUD">40.400281290485566</atributo>
+                <atributo nombre="LONGITUD">-3.693817192160563</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 390 085</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2058</atributo>
+            <atributo nombre="NOMBRE">Museo del Prado</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Construido inicialmente como Museo de Ciencias Naturales, este edificio neoclásico fue transformado en pinacoteca de las Colecciones Reales en 1818 con colecciones de pintura, dibujos, grabados, monedas y medallas desde el Románico hasta el siglo XIX.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De lunes a sábado, de 10 a 20 horas Domingos y festivos, de 10 a 17 horas Cerrado los días 1 de enero, 1 de mayo y 25 de diciembre Horario reducido, de 10 a 14 horas, los días 6 de enero, 24 y 31 de diciembre Horario gratuito, de lunes a sábado, de 18 a 20 horas; domingos y festivos, de 15 a 17 horas]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Estación del Arte (Atocha) (línea 1), Banco de España (línea 2), Retiro (línea 2)  Bus: 10, 14, 27, 34, 37, 45  Renfe: Atocha  Bicimad: Estación 68 (calle Espalter, 1)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Arquitecto: Juan de Villanueva (1785 - 1808)  Adecuación: Antonio López Aguado (1818 - 1831)  Ampliación: Rafael Moneo (2000 - 2007)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,4,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=060079262ef5d010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">RUIZ DE ALARCON</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">23</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">LOS JERONIMOS</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">441346</atributo>
+                <atributo nombre="COORDENADA-Y">4473892</atributo>
+                <atributo nombre="LATITUD">40.41358458131178</atributo>
+                <atributo nombre="LONGITUD">-3.691325445518223</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 302 800 / 902 10 70 77</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2086</atributo>
+            <atributo nombre="NOMBRE">Museo del Reloj Grassy</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Arquitecto: Eladio Laredo Carranza (1916 - 1917). Fundado por el relojero francés Grassy en 1955, este museo narra la historia de este aparato de medición. Sus fondos, colección privada, consta de una amplia y variada colección de diferentes nacionalidades y los más variados estilos.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[El museo está temporalmente cerrado.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Banco de España (línea 2), Sevilla (línea 2), Gran Vía (Líneas 1 y 5).  Bus: 52, 9, 00, 1, 146, 2, 3, 46, 74, 15, 150, 20, 5, 53, 51.  Bicimad: Estación 28 (calle Alcalá, 27).  Aparcamiento: Plaza del Rey (54).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=daeaef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">GRAN VIA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">CORTES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440779</atributo>
+                <atributo nombre="COORDENADA-Y">4474514</atributo>
+                <atributo nombre="LATITUD">40.41914770731552</atributo>
+                <atributo nombre="LONGITUD">-3.69806583195521</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 321 007</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2059</atributo>
+            <atributo nombre="NOMBRE">Museo del Romanticismo</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Horario de invierno (de noviembre a abril) De martes a sábado: de 9:30 a 18:30. Domingos y festivos: de 10 a 15 horas  Horario de verano (de mayo a octubre) De martes a sábado: de 9:30 a 20:30. Domingos y festivos: de 10 a 15 horas  Cerrado: Todos los lunes, 1 y 6 enero, 1 mayo, 9 noviembre, 24, 25 y 31 diciembre]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Acceso para personas de movilidad reducida, audioguías, signoguías, bucle magnético, lupas de aumento]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Tribunal (líneas 1, 10), Alonso Martínez (líneas 4, 5, 10)  Bus: 37, 149, 42, 3  Renfe: Recoletos  Bicimad: Estación 7 (calle Hortaleza, 75) / Estación 54 (calle Barceló, 7)  Parking: Barceló (69), C/ Barceló, s/n]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[Descripción monumental  Construido para casa palacio del Marqués de Matallana por el arquitecto Manuel Rodríguez, dentro de unas líneas clasicistas, tiene algunas leves reminiscencias del barroco, como las molduras en forma de orejeras en los balcones. Las estancias nobles se organizan en torno a dos patios cuadrados. Conserva un interesante jardín romántico. A finales del siglo XVIII el inmueble pasó a estar habitado por los Condes de la Puebla del Maestre y después, desde junio de 1921, fue sede de la Comisaría Regia de Turismo, organismo creado por el II Marqués de la Vega-Inclán. En 1924 se convirtió en Museo Romántico y desde entonces ha sido restaurado e intervenido en diversas ocasiones con motivo de su funcionamiento como museo.  Desde 2001 a 2009 el Museo fue reformado y puesto a punto, en aplicación de un plan museológico consistente en su renovación, ampliando su ámbito temático desde lo meramente literario hasta lo histórico, político, artístico y decorativo, para dar una visión de conjunto de esta etapa de la vida española. Muestra la ambientación de una casa romántica. Posee obras de los pintores más importantes del siglo XIX (Goya, Madrazo y otros) junto a esculturas, muebles, porcelanas, abanicos y todo tipo de complementos decorativos que nos recuerdan la forma de vida de una familia burguesa del siglo XIX.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=706cef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SAN MATEO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">13</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">JUSTICIA</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440725</atributo>
+                <atributo nombre="COORDENADA-Y">4475259</atributo>
+                <atributo nombre="LATITUD">40.42585510296794</atributo>
+                <atributo nombre="LONGITUD">-3.6987835425963063</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 481 045 / 914 480 163</atributo>
+                <atributo nombre="FAX">914 456 940</atributo>
+                <atributo nombre="EMAIL">informacion.romanticismo@cultura.gob.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">6337393</atributo>
+            <atributo nombre="NOMBRE">Museo del Seguro. Fundación Mapfre</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Ubicado en el edificio de Fundación MAPFRE exhibe una amplia colección de piezas relacionadas con la historia de la actividad aseguradora desde el siglo XVIII hasta nuestros días. Ofrece visitas guiadas y gratuitas para grupos.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Visitas en grupo previa reserva en su web.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Colón (línea 4).  Bus: 37, 14, 150, 27, 45, 5, 53, C03.  Cercanías Renfe: Recoletos (Líneas C1, C2, C7, C8, C10).  Bicimad: Estaciones 26 (plaza de las Salesas, 7) y 94 (paseo Recoletos, 20).  Aparcamiento: Garaje Piamonte (96), calle Piamonte, 16.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=479b95f8c72d5310VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BARBARA DE BRAGANZA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">14</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28004</atributo>
+                <atributo nombre="BARRIO">JUSTICIA</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">441273</atributo>
+                <atributo nombre="COORDENADA-Y">4474967</atributo>
+                <atributo nombre="LATITUD">40.42326356132727</atributo>
+                <atributo nombre="LONGITUD">-3.6922850587679505</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2115</atributo>
+            <atributo nombre="NOMBRE">Museo del Traje. Centro de Investigación del Patrimonio Etnológico (CIPE)</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Edificio de carácter monumental, construido por Jaime López de Asiaín en 1969.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Salas de exposiciones   Martes a sábado, de 9:30 a 19:00 horas Domingos y festivos, de 10 a 15:00 horas  La taquilla finaliza su actividad de venta de entradas 15 minutos antes de la hora del cierre de la exposición.  Noches de verano - Verano en el Museo   Los jueves de julio y agosto, apertura extraordinaria: 9:30 - 22:30 horas  Cerrado: lunes, 1 enero, 1 y 15 mayo, 24, 25 y 31 diciembre]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ciudad Universitaria (línea 6)  Bus: 46, 160, 161, U, 82, G, 132, 83, 133, 162]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,4</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=053c4291ae91f010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">JUAN DE HERRERA</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28040</atributo>
+                <atributo nombre="BARRIO">CIUDAD UNIVERSITARIA</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">438273</atributo>
+                <atributo nombre="COORDENADA-Y">4476811</atributo>
+                <atributo nombre="LATITUD">40.439657822278555</atributo>
+                <atributo nombre="LONGITUD">-3.7278378564088275</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">915 504 700</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2061</atributo>
+            <atributo nombre="NOMBRE">Palacio Real de El Pardo</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Recinto en el que se conserva el Palacio, construido sobre el castillo del siglo XV, la Casita del Príncipe, del siglo XVIII y la Quinta del Duque de Arco (Palacete que fue Casa de Labor y sus tierras). Desde 1983 ha sido adecuado para residencia de Jefes de Estado extranjeros en visita oficial.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Consultar la  web  o telefónicamente.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Bus: 601 (Madrid - Colonia Mingorrubio).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=9f9def4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">MANUEL ALONSO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">8</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28048</atributo>
+                <atributo nombre="BARRIO">EL PARDO</atributo>
+                <atributo nombre="DISTRITO">FUENCARRAL-EL PARDO</atributo>
+                <atributo nombre="COORDENADA-X">434247</atributo>
+                <atributo nombre="COORDENADA-Y">4485823</atributo>
+                <atributo nombre="LATITUD">40.520522342970146</atributo>
+                <atributo nombre="LONGITUD">-3.7762390614462853</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 548 700 (Información general)</atributo>
+                <atributo nombre="EMAIL">info@patrimonionacional.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2062</atributo>
+            <atributo nombre="NOMBRE">Palacio Real de Madrid</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Construido sobre el solar del antiguo Alcázar tras un incendio en 1734. Proyectado por Juvara en 1735 y construido por Sachet de 1738 a 1764 bajo las influencias del clasicismo barroco. A partir de 1770, Sabatini añadió el ala sudeste y realizó la gran escalera. Es de destacar el gran patio que articula el edificio y la fachada principal que aloja el balcón y Escudo Real.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Lunes a sábado, de 10 a 18 horas. Domingos y festivos, de 10 a 16 horas.  Para cierres durante el año o motivados por la celebración de actos oficiales o festividad en el municipio consultar la web.  Jardines del Campo del Moro   Todos los días, de 10 a 18 horas.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Relevo solemne de la Guardia en el Palacio Real de Madrid  La Guardia Real realiza este relevo los primeros miércoles de cada mes, a las 12 horas (excepcionalmente puede haber cambios, consultar en http://www.guardiareal.org/. El acto tiene una duración aproximada de 50 minutos, y se desarrolla en la Plaza de la Armería, finalizando con un concierto de la Unidad de Música en la Puerta del Príncipe (calle Bailén). La entrada es libre y gratuita, hasta completar aforo. Se accede por el Arco de Santiago (calle Bailén esquina con Requena). No se celebra en enero, agosto y septiembre, ni cuando coincide con actos oficiales.   Relevo de la Guardia en la Puerta del Príncipe del Palacio Real de Madrid  El acto se lleva a cabo todos los miércoles y sábados del mes, desde las 11 hasta las 14 horas, exceptuando del 19 de junio al 18 de septiembre que será desde las 10 hasta las 12 horas, siempre y cuando los actos oficiales o la climatología lo permitan. Tiene lugar en la calle Bailén.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ópera (líneas 2, 5 y Ramal Ópera Norte).  Bus: 3, 25, 39, 148.  Cercanías: Príncipe Pío.  Bicimad: Estación 36 (Plaza de Ramales, 1).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=47ddef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">BAILEN</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">0</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439540</atributo>
+                <atributo nombre="COORDENADA-Y">4474703</atributo>
+                <atributo nombre="LATITUD">40.42075212551193</atributo>
+                <atributo nombre="LONGITUD">-3.712699107286406</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 548 700 (Información general)</atributo>
+                <atributo nombre="EMAIL">info@patrimonionacional.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2079</atributo>
+            <atributo nombre="NOMBRE">Panteón de Hombres Ilustres</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[La construcción de este edificio responde a dos de las constantes de fines de siglo: la arquitectura historicista y la escultura funeraria. En él reposan trece personajes ilustres de la historia política y militar española.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[De martes a sábado de 10 a 14 y de 16 a 18:30 horas Domingos y festivos de 10 a 15 horas Cerrado todos los lunes del año]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Estación del Arte (Atocha) (línea 1)  Bus: 10, 14, 24, 32, 37, 54, 57, 141, 26, C1, C2, 102  Renfe: Atocha]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=361cef4d7f71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">JULIAN GAYARRE</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">PACIFICO</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">442012</atributo>
+                <atributo nombre="COORDENADA-Y">4473070</atributo>
+                <atributo nombre="LATITUD">40.40622617519116</atributo>
+                <atributo nombre="LONGITUD">-3.683413041846525</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 548 700 (Información general)</atributo>
+                <atributo nombre="EMAIL">info@patrimonionacional.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">3362</atributo>
+            <atributo nombre="NOMBRE">Parroquia Santa Cruz</atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Sol (líneas 1, 2 y 3), Tirso de Molina (línea 1).  Bus: 50, 26, 32, 6, 65, 18, 23, 17, 002, M1, 31.  Cercanías Renfe: Sol (líneas C3,C4 y Regional).  Bicimad: Estaciones 32 (plaza de la Provincia, 1), 34 (plaza de Jacinto Benavente), 40 (plaza del Conde Romanones, 9).  Aparcamientos: Plaza Mayor (55) y Jacinto Benavente (15) plaza Jacinto Benavente.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=40e0b069a541f010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ATOCHA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">6</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440165</atributo>
+                <atributo nombre="COORDENADA-Y">4474015</atributo>
+                <atributo nombre="LATITUD">40.414608558946085</atributo>
+                <atributo nombre="LONGITUD">-3.705255882048698</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 691 239</atributo>
+                <atributo nombre="EMAIL">santacruz@archimadrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2213</atributo>
+            <atributo nombre="NOMBRE">Planetario de Madrid</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Inaugurado el 29 de septiembre de 1986, es un centro dependiente del Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid. Durante los años 2016/2017 fue sometido a una profunda renovación tanto tecnológica como de las instalaciones y edificio, posible en virtud de un acuerdo de colaboración entre el Ayuntamiento de Madrid y la Obra Social &ldquo;la Caixa&rdquo; &ndash; que incluye dotación de contenidos, renovación de exposiciones y la realización de actividades varias en el campo de la divulgación científica. Siempre con el fin de contribuir a la difusión de la astronomía y de la ciencia en general, tanto entre escolares como entre el público de cualquier edad y condición, posee una variada oferta de proyecciones audiovisuales, exposiciones y actividades (talleres, cursos, conferencias, observaciones públicas...). Las proyecciones que se ofrecen en el Planetario de Madrid se renuevan periódicamente y tienen una duración aproximada de 30 minutos. Existen dos programaciones básicas diferentes: una activa durante el verano y época de vacaciones escolares, y otra durante el curso escolar. Durante el curso escolar, las proyecciones de las mañanas de los días lectivos se reservan a escolares.   Video de presentación del centro   Folleto informativo (PDF)  Planetario en  Google Maps]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Horario del centro (curso escolar 2021-22, adaptación a CoviD-19): De martes a viernes, de (*) 17  a 19:30 h (mañanas reservadas a escolares).   Sábados y domingos, de 10 a 13:30 h y de 17 a 19:30 h. Acceso permitido sólo a público con entradas ya adquiridas. Visita pautada.  Cerrado: Todos los lunes del año. Días 1 y 6 de enero; 1 de mayo; 24, 25 y 31 de diciembre. (*) Viernes, de 17:30 a 19:30 h.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Sala de Proyección. Planta calle. Para acceder a ella es necesario adquirir una entrada.   Cuatro áreas expositivas de acceso gratuito, distribuidas en dos plantas:   Sala de Astrónomos. Planta baja. Vestíbulo de la planta baja. Vestíbulo de la planta calle. Zona Audiovisual con pantalla de retroproyección. Planta calle.      Sala de Video. Planta baja, en donde se desarrollan los talleres ofertados.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Méndez Álvaro (línea 6). Bus: 148, 156. BICIMAD: Estación 177 (Calle Bolívar 3).  Planetario en  Google Maps]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=c9c5b069a541f010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">PLANETARIO</atributo>
+                <atributo nombre="CLASE-VIAL">AVENIDA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">16</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28045</atributo>
+                <atributo nombre="BARRIO">LEGAZPI</atributo>
+                <atributo nombre="DISTRITO">ARGANZUELA</atributo>
+                <atributo nombre="COORDENADA-X">441868</atributo>
+                <atributo nombre="COORDENADA-Y">4471523</atributo>
+                <atributo nombre="LATITUD">40.392279999540044</atributo>
+                <atributo nombre="LONGITUD">-3.684956957448299</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 673 461 (reserva grupos)                                                                                                                                                                                                                                                                                                                                                                                                                                               
+914 673 898 (contestador automático de información)</atributo>
+                <atributo nombre="EMAIL">buzon@planetmad.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Planetarios</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">3359</atributo>
+            <atributo nombre="NOMBRE">Real Basílica San Francisco el Grande</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Conjunto conventual que sustituyó al monasterio franciscano medieval, construido por Francisco de las Cabezas entre 1761 y 1768, que fue relevado por Antonio Polo y que concluye Francisco Sabatini en 1784 donde se exponen colecciones de pinturas de los siglos XVII al XIX.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Visita Guiada Museo:    De martes a viernes de 10:30 a 12:30 y de 16 a 18 horas.  Julio, agosto y septiembre: de martes a viernes de 10:30 a 12:30 y de 17 a 19 horas.   Sábados de 10:30 a 12:30 y de 16 a 18 horas (entrada libre sin guía).]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: La Latina (línea 5) , Puerta de Toledo (línea 5).  Bus: 002, 17, 18, 23, 35, 60.  Bicimad: Estación 37 (Plaza San Francisco, 5).  Aparcamiento: Parking VOT (97), Ventosa.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=ef8d0713fb71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SAN BUENAVENTURA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28005</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439377</atributo>
+                <atributo nombre="COORDENADA-Y">4473603</atributo>
+                <atributo nombre="LATITUD">40.41084005024222</atributo>
+                <atributo nombre="LONGITUD">-3.714503845728281</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 653 800</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">2087</atributo>
+            <atributo nombre="NOMBRE">Real Fábrica de Tapices</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Visitas guiadas: Lunes a viernes a las 10, 11, 12 y 13 horas en castellano. Duración de la visita 40 minutos. Es obligatorio efectuar una reserva previa mediante el correo electrónico visitasmuseo@realfabricadetapices.com.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Menéndez Pelayo (línea 1).  Bus: 10, 14, 26, 32, C1, C2, 141, 24, 37, 54, 57, 152.  Bicimad: Estación 79 (avenida de menéndez Pelayo, 38).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=53cbff632081c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FUENTERRABIA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">2</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28014</atributo>
+                <atributo nombre="BARRIO">PACIFICO</atributo>
+                <atributo nombre="DISTRITO">RETIRO</atributo>
+                <atributo nombre="COORDENADA-X">442087</atributo>
+                <atributo nombre="COORDENADA-Y">4473054</atributo>
+                <atributo nombre="LATITUD">40.406087329011655</atributo>
+                <atributo nombre="LONGITUD">-3.682515969574079</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 340 550</atributo>
+                <atributo nombre="EMAIL">informacion@realfabricadetapices.com</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">4707297</atributo>
+            <atributo nombre="NOMBRE">Real Monasterio de Santa Isabel</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[El Real Monasterio de Santa Isabel está situado en Madrid, dentro de la ciudad histórica, en una gran manzana, próxima a Atocha. Santa Isabel agrupa dos fundaciones, un colegio de niñas, establecido por Felipe II, y un convento de clausura de monjas agustinas recoletas, fundado por la esposa de Felipe III, doña Margarita de Austria. La arquitectura de la iglesia se debe a Gómez de Mora, de mediados del siglo XVIII. En la clausura se conservan numerosas obras pictóricas de los siglos XVII y XVIII.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[El acceso al templo sólo es posible en horario de culto.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Estación del Arte (Atocha) (línea 1)  Bus: 26, 32, 6, 27, 34, C1  Renfe: Atocha]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=545b544a249c6110VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SANTA ISABEL</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">48</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28012</atributo>
+                <atributo nombre="BARRIO">EMBAJADORES</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440655</atributo>
+                <atributo nombre="COORDENADA-Y">4473736</atributo>
+                <atributo nombre="LATITUD">40.41213027498252</atributo>
+                <atributo nombre="LONGITUD">-3.6994547941964946</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 548 700 (Información general)</atributo>
+                <atributo nombre="EMAIL">info@patrimonionacional.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">3349</atributo>
+            <atributo nombre="NOMBRE">Real Monasterio de la Encarnación</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Edificio construído por Juan Gómez de Mora de 1611 a 1616 como monasterio anejo al Alcázar Real, modelo de lo que se ha dado en llamar barroco madrileño. Cuenta con la reliquia de San Pantaleón.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Consultar horarios.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ópera (líneas 2, 5 y Ramal Ópera Príncipe Pío), Plaza de España (líneas 3, 10)  Bus: 3, 25, 39, 148  Bicimad: Estación 25 a y b (Plaza Celenque, 1)]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=72ad0713fb71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ENCARNACION</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">PALACIO</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">439634</atributo>
+                <atributo nombre="COORDENADA-Y">4474582</atributo>
+                <atributo nombre="LATITUD">40.41967800877382</atributo>
+                <atributo nombre="LONGITUD">-3.711567962866152</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 548 700 (Información general)</atributo>
+                <atributo nombre="EMAIL">info@patrimonionacional.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">3348</atributo>
+            <atributo nombre="NOMBRE">Real Monasterio de las Descalzas Reales</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Convento fundado por la Princesa Juana de Austria, transformando un antiguo palacio de su madre Isabel de Portugal.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Consultar la  web  o telefónicamente.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ópera (líneas 2, 5 y Ramal Ópera-Príncipe Pío).  Bus: 3, 25, 39, 148.  Bicimad: Estación 25 a y b (Plaza de Celenque).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=12e113db5b71c010VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">DESCALZAS</atributo>
+                <atributo nombre="CLASE-VIAL">PLAZA</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">3</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28013</atributo>
+                <atributo nombre="BARRIO">SOL</atributo>
+                <atributo nombre="DISTRITO">CENTRO</atributo>
+                <atributo nombre="COORDENADA-X">440087</atributo>
+                <atributo nombre="COORDENADA-Y">4474418</atributo>
+                <atributo nombre="LATITUD">40.418233359889484</atributo>
+                <atributo nombre="LONGITUD">-3.706213134639163</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 548 700</atributo>
+                <atributo nombre="EMAIL">info@patrimonionacional.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">20605</atributo>
+            <atributo nombre="NOMBRE">Templo de Debod</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Templo egipcio dedicado a Amón de Debod y a Isis, construido entre 185 AC y el siglo I de la Era. Fue donado por Egipto a España en 1968, en agradecimiento por la ayuda en el salvamento de los templos de Abu Simbel.  Egyptian temple dedicated to Amun of Debod and Isis. It was built between 185 BC and the 1st century. It was donated by Egypt to Spain in 1968 for its help in the rescue of the temples of Abu Simbel.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Martes a domingo y festivos, de 10 a 20  horas.  Cerrado los lunes y los días 1 y 6 de enero, 1 de mayo, 24, 25 y 31 de diciembre. Último pase de visita 30 minutos antes del cierre. El horario y la apertura de salas pueden sufrir modificaciones. Por favor, confírmelo en el teléfono de información del museo.]]></atributo>
+            <atributo nombre="EQUIPAMIENTO"><![CDATA[Obtención de información sobre sus fondos y colecciones con fines de investigación, enseñanza o difusión.   Se pueden realizar fotografías o grabaciones de vídeo libremente en el exterior o en el interior del templo, siempre y cuando no se utilicen flash o trípode y su fin no sea comercial. Para la obtención de reproducciones de fotografías del archivo del templo de Debod con fines editoriales, de investigación, difusión o comerciales el interesado deberá cumplimentar la solicitud de Reproducciones Fotográficas. La realización de reportajes fotográficos y grabaciones profesionales en el recinto del templo de Debod (estanque delantero, plataformas y edificio) sólo será autorizada cuando los fines para los que se solicita sean la divulgación y difusión cultural del monumento o de las actividades museísticas que en él se desarrollen. Cualquier otra finalidad, gratuita o comercial, será desestimada. El horario de información telefónica y telemática del Templo de Debod es de lunes a viernes de 8 a 15 horas. Fuera de este horario puede utilizar el teléfono gratuito de Línea Madridl 010 (915 298 210, si llama desde fuera de la ciudad de Madrid, con el prefijo 34 si llama desde fuera de España).]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Plaza de España (líneas 3 y 10) y Ventura Rodríguez (línea 3) Bus: 1, 2, 3, 25, 39, 44, 46, 74, 75, 133, 138, 148, C1 y C2 Renfe: Príncipe Pío  Bus turístico: Ruta 1. PARADA 10 - Templo de Debod Otras formas de acceso:   Aparcamiento de coches: dentro del Área de Estacionamiento Regulado de la ciudad de Madrid.  BICIMAD (Servicio público de bicicletas de la ciudad de Madrid): Estación 115 (calle Evaristo San Miguel s/n.,entre Paseo Pintor Rosales y calle Ferraz)]]></atributo>
+            <atributo nombre="DESCRIPCION"><![CDATA[El templo de Debod no cuenta en la actualidad con accesos adaptados a personas con movilidad reducida y la circulación en su interior es igualmente difícil. Puedes consultar en el documento Templo de Debod. Turismo accesible  las características de su accesibilidad.  Debod temple has currently no access adapted for people with reduced mobility.    El templo es un monumento histórico de una antig&uuml;edad de 2.200 años. Su estructura interna, que constituye el espacio de actual de exposición, está formada por distintas salas de dimensiones reducidas, con vanos estrechos y numerosas barreras, que responden a los fines y necesidades de los cultos religiosos que en él tuvieron lugar, pero que imposibilitan la circulación con sillas de ruedas convencionales.  La legislación sobre accesibilidad vigente en nuestra Comunidad (Ley 8/1993 de 22 de Junio de Promoción de la Accesibilidad y Supresión de Barreras Arquitectónicas), en su disposición adicional 7&ordf;, exime de su aplicación en los inmuebles declarados Bien de Interés Cultural o en aquellos edificios de valor histórico-artístico. No obstante, se está trabajando en hacer accesibles las plataformas en las que se levanta el templo y sus dos portales.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">0,6</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=13b432df1d51c010VgnVCM2000000c205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">FERRAZ</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">1</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28008</atributo>
+                <atributo nombre="BARRIO">CASA DE CAMPO</atributo>
+                <atributo nombre="DISTRITO">MONCLOA-ARAVACA</atributo>
+                <atributo nombre="COORDENADA-X">439218</atributo>
+                <atributo nombre="COORDENADA-Y">4475093</atributo>
+                <atributo nombre="LATITUD">40.42425096551599</atributo>
+                <atributo nombre="LONGITUD">-3.716531855540272</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">913 667 415 (Museo de San Isidro / Templo de Debod)</atributo>
+                <atributo nombre="EMAIL">templodebod@madrid.es</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/MonumentosEdificiosArtisticos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7685664</atributo>
+            <atributo nombre="NOMBRE">The Robot Museum (Museo del Robot)</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Viernes:  De 17:15 a 20:15 horas.   Sábados: De 16:15 a 20:15 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Ruben Darío (línea 5), Nuñez de Balboa (líneas 5 y 9).  Bus: 19, 51, 9, 14, 150, 27, 45, 5, 1, 74.  Bicimad: Estación 142 (paseo de la Castellana, 42).]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=e0b7b8dc8f719410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">SERRANO</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">61</atributo>
+                <atributo nombre="PLANTA">BAJA</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28006</atributo>
+                <atributo nombre="BARRIO">CASTELLANA</atributo>
+                <atributo nombre="DISTRITO">SALAMANCA</atributo>
+                <atributo nombre="COORDENADA-X">441732</atributo>
+                <atributo nombre="COORDENADA-Y">4475957</atributo>
+                <atributo nombre="LATITUD">40.43221485554042</atributo>
+                <atributo nombre="LONGITUD">-3.6869551422270077</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS">
+                <atributo nombre="TELEFONO">914 478 808</atributo>
+            </atributo>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">7071384</atributo>
+            <atributo nombre="NOMBRE">Yacimiento paleontológico. Estación de Metro Carpetana</atributo>
+            <atributo nombre="DESCRIPCION-ENTIDAD"><![CDATA[Durante las obras de remodelación de la estación de Carpetana se descubrieron restos paleontológicos con valiosos hallazgos del Mioceno, lo que ha hecho posible una reconstrucción de los paleoambientes en dos yacimientos verticales.]]></atributo>
+            <atributo nombre="HORARIO"><![CDATA[Todos los días durante la apertura de la estación, de 6 a 1:30 horas.]]></atributo>
+            <atributo nombre="TRANSPORTE"><![CDATA[Metro: Carpetana (línea 6).  Bus: 119, 55, 17, 25.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">1</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=05fbb57fd3c70410VgnVCM1000000b205a0aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">VIA CARPETANA</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">141</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28047</atributo>
+                <atributo nombre="BARRIO">VISTA ALEGRE</atributo>
+                <atributo nombre="DISTRITO">CARABANCHEL</atributo>
+                <atributo nombre="COORDENADA-X">437086</atributo>
+                <atributo nombre="COORDENADA-Y">4471590</atributo>
+                <atributo nombre="LATITUD">40.39254099575156</atributo>
+                <atributo nombre="LONGITUD">-3.7413026173286053</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+    <contenido>
+        <tipo>EntidadesYOrganismos</tipo>
+        <atributos idioma="es">
+            <atributo nombre="ID-ENTIDAD">10873287</atributo>
+            <atributo nombre="NOMBRE">Zapadores Ciudad del Arte</atributo>
+            <atributo nombre="HORARIO"><![CDATA[Sábados y domingos de 12 a 18 horas.]]></atributo>
+            <atributo nombre="ACCESIBILIDAD">3</atributo>
+            <atributo nombre="CONTENT-URL">http://www.madrid.es/sites/v/index.jsp?vgnextchannel=bfa48ab43d6bb410VgnVCM100000171f5a0aRCRD&amp;vgnextoid=c30ab3683ea58610VgnVCM2000001f4a900aRCRD</atributo>
+            <atributo nombre="LOCALIZACION">
+                <atributo nombre="NOMBRE-VIA">ANTONIO DE CABEZON</atributo>
+                <atributo nombre="CLASE-VIAL">CALLE</atributo>
+                <atributo nombre="TIPO-NUM">V</atributo>
+                <atributo nombre="NUM">70</atributo>
+                <atributo nombre="LOCALIDAD">MADRID</atributo>
+                <atributo nombre="PROVINCIA">MADRID</atributo>
+                <atributo nombre="CODIGO-POSTAL">28034</atributo>
+                <atributo nombre="BARRIO">VALVERDE</atributo>
+                <atributo nombre="DISTRITO">FUENCARRAL-EL PARDO</atributo>
+                <atributo nombre="COORDENADA-X">442223</atributo>
+                <atributo nombre="COORDENADA-Y">4483003</atributo>
+                <atributo nombre="LATITUD">40.49572804745456</atributo>
+                <atributo nombre="LONGITUD">-3.6818117500732046</atributo>
+            </atributo>
+            <atributo nombre="DATOSCONTACTOS"/>
+            <atributo nombre="TIPO">/contenido/entidadesYorganismos/Museos</atributo>
+        </atributos>
+    </contenido>
+</Contenidos>
+

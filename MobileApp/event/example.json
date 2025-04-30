@@ -1,0 +1,377 @@
+{
+    "user": {
+        "name": "Manuel Herrero",
+        "token": "896886573826080",
+        "password": null,
+        "provider": "FACEBOOK"
+    },
+    "weather": {
+        "coord": {
+            "lon": -0.9,
+            "lat": 41.64
+        },
+        "weather": [
+            {
+                "id": 802,
+                "main": "Clouds",
+                "description": "scattered clouds",
+                "icon": "03d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 294.15,
+            "pressure": 1024,
+            "humidity": 77,
+            "temp_min": 294.15,
+            "temp_max": 294.15
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 0.5
+        },
+        "clouds": {
+            "all": 40
+        },
+        "dt": 1536746400,
+        "sys": {
+            "type": 1,
+            "id": 5510,
+            "message": 0.004,
+            "country": "ES",
+            "sunrise": 1536730862,
+            "sunset": 1536776265
+        },
+        "id": 6615440,
+        "name": "Delicias",
+        "cod": 200
+    },
+    "location": {
+        "mocked": false,
+        "timestamp": 1536748482393,
+        "coords": {
+            "speed": 0,
+            "heading": 0,
+            "accuracy": 19.31999969482422,
+            "longitude": -0.8958052,
+            "altitude": 288.29998779296875,
+            "latitude": 41.6379419
+        }
+    },
+    "calendar": [
+        {
+            "isPrimary": false,
+            "type": "com.xiaomi",
+            "allowsModifications": true,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "calendar_displayname_xiaomi",
+            "source": "1660563013",
+            "id": "1"
+        },
+        {
+            "isPrimary": false,
+            "type": "LOCAL",
+            "allowsModifications": false,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "calendar_displayname_birthday",
+            "source": "account_name_local",
+            "id": "2"
+        },
+        {
+            "isPrimary": true,
+            "type": "com.google",
+            "allowsModifications": true,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "manherrerog@gmail.com",
+            "source": "manherrerog@gmail.com",
+            "id": "3"
+        },
+        {
+            "isPrimary": false,
+            "type": "com.google",
+            "allowsModifications": false,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "Contacts",
+            "source": "manherrerog@gmail.com",
+            "id": "4"
+        },
+        {
+            "isPrimary": false,
+            "type": "com.google",
+            "allowsModifications": false,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "Holidays in Spain",
+            "source": "manherrerog@gmail.com",
+            "id": "5"
+        },
+        {
+            "isPrimary": false,
+            "type": "com.google",
+            "allowsModifications": false,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "Festivos en España",
+            "source": "manherrerog@gmail.com",
+            "id": "6"
+        },
+        {
+            "isPrimary": false,
+            "type": "com.google",
+            "allowsModifications": false,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "Contacts",
+            "source": "manuel.herrero@iecisa.com",
+            "id": "7"
+        },
+        {
+            "isPrimary": false,
+            "type": "com.google",
+            "allowsModifications": false,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "Holidays in Spain",
+            "source": "manuel.herrero@iecisa.com",
+            "id": "8"
+        },
+        {
+            "isPrimary": true,
+            "type": "com.google",
+            "allowsModifications": true,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "manuel.herrero@iecisa.com",
+            "source": "manuel.herrero@iecisa.com",
+            "id": "9"
+        },
+        {
+            "isPrimary": false,
+            "type": "com.google",
+            "allowsModifications": false,
+            "allowedAvailabilities": [
+                "busy",
+                "free"
+            ],
+            "title": "Festivos en España",
+            "source": "manuel.herrero@iecisa.com",
+            "id": "10"
+        }
+    ],
+    "events": [
+        {
+            "id": "211",
+            "description": "Public holiday in: Cantabria",
+            "calendar": {
+                "isPrimary": false,
+                "type": "com.google",
+                "allowsModifications": false,
+                "allowedAvailabilities": [
+                    "busy",
+                    "free"
+                ],
+                "title": "Holidays in Spain",
+                "source": "manherrerog@gmail.com",
+                "id": "5"
+            },
+            "title": "Nuestra Señora de la Bien Aparecida (Cantabria)",
+            "alarms": [],
+            "startDate": "2018-09-15T00:00:00.000Z",
+            "allDay": true,
+            "location": "",
+            "endDate": "2018-09-16T00:00:00.000Z",
+            "attendees": [],
+            "availability": "free"
+        },
+        {
+            "id": "221",
+            "description": "Public holiday in: Melilla",
+            "calendar": {
+                "isPrimary": false,
+                "type": "com.google",
+                "allowsModifications": false,
+                "allowedAvailabilities": [
+                    "busy",
+                    "free"
+                ],
+                "title": "Holidays in Spain",
+                "source": "manherrerog@gmail.com",
+                "id": "5"
+            },
+            "title": "Day of Melilla (Melilla)",
+            "alarms": [],
+            "startDate": "2018-09-17T00:00:00.000Z",
+            "allDay": true,
+            "location": "",
+            "endDate": "2018-09-18T00:00:00.000Z",
+            "attendees": [],
+            "availability": "free"
+        },
+        {
+            "id": "111",
+            "description": "Festivo en: Cantabria",
+            "calendar": {
+                "isPrimary": false,
+                "type": "com.google",
+                "allowsModifications": false,
+                "allowedAvailabilities": [
+                    "busy",
+                    "free"
+                ],
+                "title": "Festivos en España",
+                "source": "manherrerog@gmail.com",
+                "id": "6"
+            },
+            "title": "Nuestra Señora de la Bien Aparecida (Cantabria)",
+            "alarms": [],
+            "startDate": "2018-09-15T00:00:00.000Z",
+            "allDay": true,
+            "location": "",
+            "endDate": "2018-09-16T00:00:00.000Z",
+            "attendees": [],
+            "availability": "free"
+        },
+        {
+            "id": "128",
+            "description": "Festivo en: Melilla",
+            "calendar": {
+                "isPrimary": false,
+                "type": "com.google",
+                "allowsModifications": false,
+                "allowedAvailabilities": [
+                    "busy",
+                    "free"
+                ],
+                "title": "Festivos en España",
+                "source": "manherrerog@gmail.com",
+                "id": "6"
+            },
+            "title": "Día de Melilla (Melilla)",
+            "alarms": [],
+            "startDate": "2018-09-17T00:00:00.000Z",
+            "allDay": true,
+            "location": "",
+            "endDate": "2018-09-18T00:00:00.000Z",
+            "attendees": [],
+            "availability": "free"
+        },
+        {
+            "id": "348",
+            "description": "Public holiday in: Cantabria",
+            "calendar": {
+                "isPrimary": false,
+                "type": "com.google",
+                "allowsModifications": false,
+                "allowedAvailabilities": [
+                    "busy",
+                    "free"
+                ],
+                "title": "Holidays in Spain",
+                "source": "manuel.herrero@iecisa.com",
+                "id": "8"
+            },
+            "title": "Nuestra Señora de la Bien Aparecida (Cantabria)",
+            "alarms": [],
+            "startDate": "2018-09-15T00:00:00.000Z",
+            "allDay": true,
+            "location": "",
+            "endDate": "2018-09-16T00:00:00.000Z",
+            "attendees": [],
+            "availability": "free"
+        },
+        {
+            "id": "356",
+            "description": "Public holiday in: Melilla",
+            "calendar": {
+                "isPrimary": false,
+                "type": "com.google",
+                "allowsModifications": false,
+                "allowedAvailabilities": [
+                    "busy",
+                    "free"
+                ],
+                "title": "Holidays in Spain",
+                "source": "manuel.herrero@iecisa.com",
+                "id": "8"
+            },
+            "title": "Day of Melilla (Melilla)",
+            "alarms": [],
+            "startDate": "2018-09-17T00:00:00.000Z",
+            "allDay": true,
+            "location": "",
+            "endDate": "2018-09-18T00:00:00.000Z",
+            "attendees": [],
+            "availability": "free"
+        },
+        {
+            "id": "478",
+            "description": "Festivo en: Cantabria",
+            "calendar": {
+                "isPrimary": false,
+                "type": "com.google",
+                "allowsModifications": false,
+                "allowedAvailabilities": [
+                    "busy",
+                    "free"
+                ],
+                "title": "Festivos en España",
+                "source": "manuel.herrero@iecisa.com",
+                "id": "10"
+            },
+            "title": "Nuestra Señora de la Bien Aparecida (Cantabria)",
+            "alarms": [],
+            "startDate": "2018-09-15T00:00:00.000Z",
+            "allDay": true,
+            "location": "",
+            "endDate": "2018-09-16T00:00:00.000Z",
+            "attendees": [],
+            "availability": "free"
+        },
+        {
+            "id": "497",
+            "description": "Festivo en: Melilla",
+            "calendar": {
+                "isPrimary": false,
+                "type": "com.google",
+                "allowsModifications": false,
+                "allowedAvailabilities": [
+                    "busy",
+                    "free"
+                ],
+                "title": "Festivos en España",
+                "source": "manuel.herrero@iecisa.com",
+                "id": "10"
+            },
+            "title": "Día de Melilla (Melilla)",
+            "alarms": [],
+            "startDate": "2018-09-17T00:00:00.000Z",
+            "allDay": true,
+            "location": "",
+            "endDate": "2018-09-18T00:00:00.000Z",
+            "attendees": [],
+            "availability": "free"
+        }
+    ]
+}

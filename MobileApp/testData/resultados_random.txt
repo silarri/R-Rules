@@ -1,0 +1,317 @@
+2021-11-15 09:28:07.645 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:28:07.646 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"0","date":"26/11/2021","time":"08:00:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":13.12}},"Location":{"coords":{"longitude":-3.703659143791355,"latitude":40.42501849011055}}}
+2021-11-15 09:28:07.749 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:28:07.749 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"0","date":"26/11/2021","time":"08:00:00"},"Observations":[{"observedProperty":"Weather","optionalField":"13.12","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"0"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"574"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1195"}]}
+2021-11-15 09:28:07.752 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:28:07.752 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:28:14.822 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 0
+2021-11-15 09:28:14.822 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,
+2021-11-15 09:28:14.835 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:28:14.836 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,leisure
+2021-11-15 09:28:18.915 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:28:18.915 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 2
+2021-11-15 09:28:18.915 29108-29172/com.carsproject I/ReactNativeJS: LOG: 269; Dúo Estrada Lobato; Leisure; Musica
+2021-11-15 09:28:18.915 29108-29172/com.carsproject I/ReactNativeJS: LOG: 823; Salvando el planeta; Leisure; CuentacuentosTiteresMarionetas
+2021-11-15 09:29:07.636 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:29:07.637 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"1","date":"26/11/2021","time":"09:00:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":13.12}},"Location":{"coords":{"longitude":-3.703659143791355,"latitude":40.42501849011055}}}
+2021-11-15 09:29:07.733 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:29:07.733 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"1","date":"26/11/2021","time":"09:00:00"},"Observations":[{"observedProperty":"Weather","optionalField":"13.12","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"0"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"574"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1195"}]}
+2021-11-15 09:29:07.736 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:29:07.737 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:29:10.824 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 1
+2021-11-15 09:29:10.824 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,
+2021-11-15 09:29:10.831 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:29:10.832 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,leisure
+2021-11-15 09:29:11.467 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:29:11.467 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 2
+2021-11-15 09:29:11.467 29108-29172/com.carsproject I/ReactNativeJS: LOG: 197; Conferencias de Arte; Leisure; Historia
+2021-11-15 09:29:11.468 29108-29172/com.carsproject I/ReactNativeJS: LOG: 96; Brux el marciano; Leisure; ActividadesDeportivas
+2021-11-15 09:30:07.650 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:30:07.651 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"2","date":"26/11/2021","time":"10:00:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":14.3}},"Location":{"coords":{"longitude":-3.703659143791355,"latitude":40.42501849011055}}}
+2021-11-15 09:30:07.747 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:30:07.748 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"2","date":"26/11/2021","time":"10:00:00"},"Observations":[{"observedProperty":"Weather","optionalField":"14.3","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"0"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"574"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1195"}]}
+2021-11-15 09:30:07.750 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:30:07.750 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:30:13.822 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 2
+2021-11-15 09:30:13.822 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,museums,
+2021-11-15 09:30:13.832 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:30:13.832 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,museums,leisure
+2021-11-15 09:30:14.571 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:30:14.571 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 5
+2021-11-15 09:30:14.571 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2159; Casón del Buen Retiro. Museo Nacional del Prado, Centro de Estudios; Museums; MonumentosEdificiosArtisticos
+2021-11-15 09:30:14.571 29108-29172/com.carsproject I/ReactNativeJS: LOG: 658; Mica Mita - Moncloa - Aravaca; Leisure; 1ciudad21distritos
+2021-11-15 09:30:14.571 29108-29172/com.carsproject I/ReactNativeJS: LOG: 334; Elvira Sastre; Leisure; Musica
+2021-11-15 09:30:14.571 29108-29172/com.carsproject I/ReactNativeJS: LOG: 504; La chica del brazalete; Leisure; CineActividadesAudiovisuales
+2021-11-15 09:30:14.571 29108-29172/com.carsproject I/ReactNativeJS: LOG: 478; Japón. Una historia de amor y guerra; Leisure; ProgramacionDestacadaAgendaCultura
+2021-11-15 09:31:07.646 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:31:07.646 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"3","date":"26/11/2021","time":"10:30:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":15.12}},"Location":{"coords":{"longitude":-3.703659143791355,"latitude":40.42501849011055}}}
+2021-11-15 09:31:07.739 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:31:07.739 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"3","date":"26/11/2021","time":"10:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"15.12","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"0"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"574"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1195"}]}
+2021-11-15 09:31:07.742 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:31:07.742 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:31:14.823 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 3
+2021-11-15 09:31:14.823 29108-29172/com.carsproject I/ReactNativeJS: LOG: museums,
+2021-11-15 09:31:14.831 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:31:14.831 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,museums
+2021-11-15 09:31:15.317 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:31:15.317 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 5
+2021-11-15 09:31:15.317 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2166; Museo Africano Misioneros Combonianos; Museums; Museos
+2021-11-15 09:31:15.317 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2205; Museo del Ferrocarril de Madrid; Museums; MonumentosEdificiosArtisticos
+2021-11-15 09:31:15.318 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2208; Museo del Romanticismo; Museums; Museos
+2021-11-15 09:31:15.318 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2197; Museo de Mineralogía; Museums; Museos
+2021-11-15 09:31:15.318 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2206; Museo del Prado; Museums; Museos
+2021-11-15 09:32:07.652 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:32:07.652 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"4","date":"26/11/2021","time":"13:05:00"},"Weather":{"weather":[{"main":"Clouds"}],"main":{"temp":16.12}},"Location":{"coords":{"longitude":-3.7131030482951135,"latitude":40.417697281874254}}}
+2021-11-15 09:32:07.741 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:32:07.741 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"4","date":"26/11/2021","time":"13:05:00"},"Observations":[{"observedProperty":"Weather","optionalField":"16.12","observationValue":"Clouds"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"1141"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"1414"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"107"}]}
+2021-11-15 09:32:07.744 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:32:07.744 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:32:10.824 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 4
+2021-11-15 09:32:10.824 29108-29172/com.carsproject I/ReactNativeJS: LOG: placesOfInterest,restaurants,
+2021-11-15 09:32:10.835 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:32:10.835 29108-29172/com.carsproject I/ReactNativeJS: LOG: restaurants,
+2021-11-15 09:32:11.608 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:32:11.609 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 9
+2021-11-15 09:32:11.609 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3676; Fuku; Restaurants; Internacional,
+2021-11-15 09:32:11.609 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3343; La Madre&ntilde,a; Restaurants; Española,
+2021-11-15 09:32:11.609 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3219; Lambuzo (Retiro); Restaurants; Tapas,Española,
+2021-11-15 09:32:11.609 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3320; Graciela; Restaurants; Española,
+2021-11-15 09:32:11.609 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3539; Taste Gallery; Restaurants; Tapas,Española,
+2021-11-15 09:32:11.610 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3251; El Buda Feliz 1974; Restaurants; Internacional,
+2021-11-15 09:32:11.610 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3613; La Chula de Chamber&iacute,; Restaurants; Española,
+2021-11-15 09:32:11.610 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3435; El soportal; Restaurants; Española,
+2021-11-15 09:32:11.610 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3240; Lobo 8; Restaurants; Española,
+2021-11-15 09:33:07.645 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:33:07.645 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"5","date":"26/11/2021","time":"15:05:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":16.12}},"Location":{"coords":{"longitude":-3.712985,"latitude":40.415312}}}
+2021-11-15 09:33:07.751 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:33:07.751 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"5","date":"26/11/2021","time":"15:05:00"},"Observations":[{"observedProperty":"Weather","optionalField":"16.12","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"1337"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"1527"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"316"}]}
+2021-11-15 09:33:07.761 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:33:07.761 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:34:07.641 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:34:07.641 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"6","date":"26/11/2021","time":"15:45:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":16.12}},"Location":{"coords":{"longitude":-3.712985,"latitude":40.415312}}}
+2021-11-15 09:34:07.679 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:34:07.679 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"6","date":"26/11/2021","time":"15:45:00"},"Observations":[{"observedProperty":"Weather","optionalField":"16.12","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"1337"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"1527"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"316"}]}
+2021-11-15 09:34:07.681 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:34:07.681 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:34:14.733 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 6
+2021-11-15 09:34:14.733 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,
+2021-11-15 09:34:14.747 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:34:14.747 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,leisure
+2021-11-15 09:34:15.608 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:34:15.609 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 2
+2021-11-15 09:34:15.609 29108-29172/com.carsproject I/ReactNativeJS: LOG: 38; Angry Birds 2; Leisure; CineActividadesAudiovisuales
+2021-11-15 09:34:15.609 29108-29172/com.carsproject I/ReactNativeJS: LOG: 36; Amigos del barrio.; Leisure; Musica
+2021-11-15 09:35:07.644 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:35:07.644 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"7","date":"26/11/2021","time":"17:30:00"},"Weather":{"weather":[{"main":"Clouds"}],"main":{"temp":16.12}},"Location":{"coords":{"longitude":-3.714994171846892,"latitude":40.41683799682713}}}
+2021-11-15 09:35:07.691 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:35:07.691 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"7","date":"26/11/2021","time":"17:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"16.12","observationValue":"Clouds"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"1322"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"1599"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"138"}]}
+2021-11-15 09:35:07.694 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:35:07.694 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:35:10.735 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 7
+2021-11-15 09:35:10.735 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,placesOfInterest,
+2021-11-15 09:35:10.746 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:35:10.746 29108-29172/com.carsproject I/ReactNativeJS: LOG: placesOfInterest,
+2021-11-15 09:35:11.405 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:35:11.405 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 5
+2021-11-15 09:35:11.405 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2985; Puerta del Sol; PlacesOfInterest; Edificios y monumentos,
+2021-11-15 09:35:11.405 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2854; Parroquia San Mill&aacute,n y San Cayetano; PlacesOfInterest; Edificios y monumentos,
+2021-11-15 09:35:11.405 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2636; Roca Madrid Gallery; PlacesOfInterest; Instalaciones culturales,
+2021-11-15 09:35:11.405 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2696; Estadio de Vallecas; PlacesOfInterest; Edificios y monumentos,Instalaciones deportivas,
+2021-11-15 09:35:11.406 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2779; Instituto Internacional en Espa&ntilde,a; PlacesOfInterest; Edificios y monumentos,
+2021-11-15 09:36:07.649 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:36:07.649 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"8","date":"26/11/2021","time":"22:30:00"},"Weather":{"weather":[{"main":"Clouds"}],"main":{"temp":16.12}},"Location":{"coords":{"longitude":-3.6978722221241935,"latitude":40.422494381998476}}}
+2021-11-15 09:36:07.692 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:36:07.692 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"8","date":"26/11/2021","time":"22:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"16.12","observationValue":"Clouds"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"565"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"19"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1480"}]}
+2021-11-15 09:36:07.694 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:36:07.694 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:36:13.735 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 8
+2021-11-15 09:36:13.735 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,entertainmentEstablishments,
+2021-11-15 09:36:13.746 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:36:13.747 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,leisure,entertainmentEstablishments
+2021-11-15 09:36:14.295 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:36:14.295 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 4
+2021-11-15 09:36:14.295 29108-29172/com.carsproject I/ReactNativeJS: LOG: 360; Entre pasos y entremeses; Leisure; TeatroPerformance
+2021-11-15 09:36:14.295 29108-29172/com.carsproject I/ReactNativeJS: LOG: 264; Divorciadas,Evangélicas y Vegetarianas; Leisure; ProgramacionDestacadaAgendaCultura
+2021-11-15 09:36:14.295 29108-29172/com.carsproject I/ReactNativeJS: LOG: 974; Visitas guiadas a CentroCentro; Leisure; None
+2021-11-15 09:36:14.296 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2034; &Aacute,tico 11 (Hotel Iberostar Las Letras Gran Via); EntertainmentEstablishments; Terrazas,
+2021-11-15 09:37:07.643 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:37:07.643 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"9","date":"27/11/2021","time":"09:30:00"},"Weather":{"weather":[{"main":"Clear"}],"main":{"temp":19.5}},"Location":{"coords":{"longitude":-3.703659143791355,"latitude":40.42501849011055}}}
+2021-11-15 09:37:07.697 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:37:07.697 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"9","date":"27/11/2021","time":"09:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"19.5","observationValue":"Clear"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"0"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"574"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1195"}]}
+2021-11-15 09:37:07.701 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:37:07.701 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:37:09.737 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 9
+2021-11-15 09:37:09.737 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,showsHalls,
+2021-11-15 09:37:09.750 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:37:09.750 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,showsHalls
+2021-11-15 09:37:10.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:37:10.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 4
+2021-11-15 09:37:10.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1054; Sala Teatro Exlímite; ShowsHalls; Theatres
+2021-11-15 09:37:10.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1152; Auditorio Municipal Las Trece Rosas; ShowsHalls; Auditoriums/ConcertHalls
+2021-11-15 09:37:10.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1059; Tablao Flamenco Candela; ShowsHalls; Theatres
+2021-11-15 09:37:10.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1182; Tablao Flamenco Cardamomo; ShowsHalls; Auditoriums/ConcertHalls
+2021-11-15 09:38:07.640 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:38:07.640 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"10","date":"27/11/2021","time":"10:00:00"},"Weather":{"weather":[{"main":"Clear"}],"main":{"temp":19.5}},"Location":{"coords":{"longitude":-3.7020176298384286,"latitude":40.42733951266368}}}
+2021-11-15 09:38:07.687 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:38:07.687 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"10","date":"27/11/2021","time":"10:00:00"},"Observations":[{"observedProperty":"Weather","optionalField":"19.5","observationValue":"Clear"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"293"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"644"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1473"}]}
+2021-11-15 09:38:07.690 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:38:07.690 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:38:12.734 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 10
+2021-11-15 09:38:12.735 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,
+2021-11-15 09:38:12.745 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:38:12.746 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,leisure
+2021-11-15 09:38:14.223 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:38:14.223 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 3
+2021-11-15 09:38:14.224 29108-29172/com.carsproject I/ReactNativeJS: LOG: 965; Viaje cultural. Sigüenza; Leisure; ExcursionesItinerariosVisitas
+2021-11-15 09:38:14.224 29108-29172/com.carsproject I/ReactNativeJS: LOG: 990; Willy Monoroe; Leisure; CircoMagia
+2021-11-15 09:38:14.224 29108-29172/com.carsproject I/ReactNativeJS: LOG: 785; Puertas abiertas del huerto del CIN; Leisure; ItinerariosOtrasActividadesAmbientales
+2021-11-15 09:39:07.646 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:39:07.646 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"11","date":"27/11/2021","time":"12:30:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":19.5}},"Location":{"coords":{"longitude":-3.6978722221241935,"latitude":40.422494381998476}}}
+2021-11-15 09:39:07.688 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:39:07.688 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"11","date":"27/11/2021","time":"12:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"19.5","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"565"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"19"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1480"}]}
+2021-11-15 09:39:07.691 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:39:07.691 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:39:08.736 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 11
+2021-11-15 09:39:08.736 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,museums,shops,
+2021-11-15 09:39:08.748 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:39:08.749 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,museums,leisure
+2021-11-15 09:39:09.444 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:39:09.444 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 1
+2021-11-15 09:39:09.444 29108-29172/com.carsproject I/ReactNativeJS: LOG: 635; Martes; Leisure; CuentacuentosTiteresMarionetas
+2021-11-15 09:40:07.645 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:40:07.645 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"12","date":"27/11/2021","time":"13:30:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":19.5}},"Location":{"coords":{"longitude":-3.6978722221241935,"latitude":40.422494381998476}}}
+2021-11-15 09:40:07.686 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:40:07.686 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"12","date":"27/11/2021","time":"13:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"19.5","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"565"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"19"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1480"}]}
+2021-11-15 09:40:07.688 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:40:07.689 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:40:11.735 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 12
+2021-11-15 09:40:11.736 29108-29172/com.carsproject I/ReactNativeJS: LOG: restaurants,shops,
+2021-11-15 09:40:11.747 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:40:11.747 29108-29172/com.carsproject I/ReactNativeJS: LOG: restaurants,shops,
+2021-11-15 09:40:12.809 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:40:12.810 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 6
+2021-11-15 09:40:12.810 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4060; Caf&eacute, Varela Restaurante (Hotel Preciados); Restaurants; Española,
+2021-11-15 09:40:12.810 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4313; Garc&iacute,a Madrid ; Shops; Moda,
+2021-11-15 09:40:12.810 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4228; ERRE &amp, EMME; Shops; Regalo-Hogar-Decoración,
+2021-11-15 09:40:12.810 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3388; Restaurante de la Residencia de Estudiantes; Restaurants; Española,
+2021-11-15 09:40:12.811 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4692; Tununtunumba; Shops; Música,
+2021-11-15 09:40:12.811 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4647; Ainara Floristas; Shops; Floristerías,
+2021-11-15 09:41:07.647 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:41:07.648 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"13","date":"27/11/2021","time":"15:30:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":16.5}},"Location":{"coords":{"longitude":-3.6978722221241935,"latitude":40.422494381998476}}}
+2021-11-15 09:41:07.695 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:41:07.695 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"13","date":"27/11/2021","time":"15:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"16.5","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"565"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"19"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1480"}]}
+2021-11-15 09:41:07.697 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:41:07.698 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:41:14.770 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 13
+2021-11-15 09:41:14.770 29108-29172/com.carsproject I/ReactNativeJS: LOG: shops,
+2021-11-15 09:41:14.777 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:41:14.777 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,shops
+2021-11-15 09:41:15.431 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:41:15.431 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 6
+2021-11-15 09:41:15.431 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4382; Scotch &amp, Soda; Shops; Moda,
+2021-11-15 09:41:15.432 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4320; Alambique; Shops; Regalo-Hogar-Decoración,
+2021-11-15 09:41:15.432 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4095; Tienda del Museo del Prado; Shops; Otros,
+2021-11-15 09:41:15.432 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4265; Gourmet Ib&eacute,rica; Shops; Gourmet,
+2021-11-15 09:41:15.432 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4402; Wolford; Shops; Moda,
+2021-11-15 09:41:15.432 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4345; Sandro Par&iacute,s; Shops; Moda,
+2021-11-15 09:42:07.643 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:42:07.643 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"14","date":"27/11/2021","time":"16:30:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":10.5}},"Location":{"coords":{"longitude":-3.6978722221241935,"latitude":40.422494381998476}}}
+2021-11-15 09:42:07.688 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:42:07.688 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"14","date":"27/11/2021","time":"16:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"10.5","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"565"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"19"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1480"}]}
+2021-11-15 09:42:07.692 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:42:07.692 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoToShow,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:43:07.642 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:43:07.643 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"15","date":"27/11/2021","time":"17:30:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":9.5}},"Location":{"coords":{"longitude":-3.6978722221241935,"latitude":40.422494381998476}}}
+2021-11-15 09:43:07.697 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:43:07.697 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"15","date":"27/11/2021","time":"17:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"9.5","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"565"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"19"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1480"}]}
+2021-11-15 09:43:07.702 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:43:07.702 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoToShow,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:44:07.639 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:44:07.639 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"16","date":"27/11/2021","time":"22:20:00"},"Weather":{"weather":[{"main":"Clouds"}],"main":{"temp":6}},"Location":{"coords":{"longitude":-3.6978722221241935,"latitude":40.422494381998476}}}
+2021-11-15 09:44:07.677 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:44:07.677 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"16","date":"27/11/2021","time":"22:20:00"},"Observations":[{"observedProperty":"Weather","optionalField":"6","observationValue":"Clouds"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"565"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"19"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1480"}]}
+2021-11-15 09:44:07.679 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:44:07.679 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:44:14.746 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 16
+2021-11-15 09:44:14.747 29108-29172/com.carsproject I/ReactNativeJS: LOG: entertainmentEstablishments,shops,
+2021-11-15 09:44:14.753 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:44:14.754 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,shops,entertainmentEstablishments
+2021-11-15 09:44:15.280 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:44:15.280 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 2
+2021-11-15 09:44:15.280 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4512; Pomellato; Shops; Joyerías,
+2021-11-15 09:44:15.280 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4226; Centro Comercial Plaza Aluche; Shops; Centros comerciales,
+2021-11-15 09:45:07.640 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:45:07.640 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"17","date":"28/11/2021","time":"09:30:00"},"Weather":{"weather":[{"main":"Clouds"}],"main":{"temp":12}},"Location":{"coords":{"longitude":-3.703659143791355,"latitude":40.42501849011055}}}
+2021-11-15 09:45:07.684 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:45:07.684 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"17","date":"28/11/2021","time":"09:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"12","observationValue":"Clouds"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"0"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"574"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1195"}]}
+2021-11-15 09:45:07.687 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:45:07.687 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:45:14.742 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 17
+2021-11-15 09:45:14.743 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,museums,
+2021-11-15 09:45:14.753 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:45:14.753 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,museums,leisure
+2021-11-15 09:45:15.342 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:45:15.343 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 5
+2021-11-15 09:45:15.343 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4; 50 años en 50 Fotos; Leisure; Exposiciones
+2021-11-15 09:45:15.343 29108-29172/com.carsproject I/ReactNativeJS: LOG: 187; Concierto de música eslava; Leisure; Musica
+2021-11-15 09:45:15.343 29108-29172/com.carsproject I/ReactNativeJS: LOG: 414; Flamenco en estado puro; Leisure; None
+2021-11-15 09:45:15.343 29108-29172/com.carsproject I/ReactNativeJS: LOG: 381; Exposición 25N Sanando en red; Leisure; Exposiciones
+2021-11-15 09:45:15.343 29108-29172/com.carsproject I/ReactNativeJS: LOG: 941; Un lago de jade verde. Visita guiada; Leisure; ProgramacionDestacadaAgendaCultura
+2021-11-15 09:46:07.625 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:46:07.625 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"18","date":"28/11/2021","time":"11:30:00"},"Weather":{"weather":[{"main":"Clouds"}],"main":{"temp":12}},"Location":{"coords":{"longitude":-3.714994171846892,"latitude":40.41683799682713}}}
+2021-11-15 09:46:07.682 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:46:07.683 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"18","date":"28/11/2021","time":"11:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"12","observationValue":"Clouds"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"1322"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"1599"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"138"}]}
+2021-11-15 09:46:07.685 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:46:07.685 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:46:10.742 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 18
+2021-11-15 09:46:10.743 29108-29172/com.carsproject I/ReactNativeJS: LOG: leisure,museums,placesOfInterest,
+2021-11-15 09:46:10.753 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:46:10.753 29108-29172/com.carsproject I/ReactNativeJS: LOG: placesOfInterest,museums,leisure,
+2021-11-15 09:46:11.250 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:46:11.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 3
+2021-11-15 09:46:11.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2922; Teatro Amaya; PlacesOfInterest; Instalaciones culturales,
+2021-11-15 09:46:11.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: 601; Madrid 1862-1920: Galdós, relato de un nuevo paisaje urbano. Prorrogada hasta el 14 de noviembre.; Leisure; Exposiciones
+2021-11-15 09:46:11.251 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2405; Galer&iacute,a &Eacute,boli; PlacesOfInterest; Instalaciones culturales,
+2021-11-15 09:47:07.635 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:47:07.636 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"19","date":"28/11/2021","time":"14:30:00"},"Weather":{"weather":[{"main":"Clouds"}],"main":{"temp":12}},"Location":{"coords":{"longitude":-3.714994171846892,"latitude":40.41683799682713}}}
+2021-11-15 09:47:07.674 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:47:07.674 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"19","date":"28/11/2021","time":"14:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"12","observationValue":"Clouds"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"1322"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"1599"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"138"}]}
+2021-11-15 09:47:07.676 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:47:07.676 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoParty,GoShopping,GoToShow,LeisureActivities,LunchOutside,VisitMuseums,VisitPlacesOfInterest
+2021-11-15 09:47:13.742 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 19
+2021-11-15 09:47:13.742 29108-29172/com.carsproject I/ReactNativeJS: LOG: placesOfInterest,restaurants,
+2021-11-15 09:47:13.751 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:47:13.751 29108-29172/com.carsproject I/ReactNativeJS: LOG: restaurants,
+2021-11-15 09:47:14.160 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:47:14.160 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 1
+2021-11-15 09:47:14.160 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3693; La Montader&iacute,a; Restaurants; Española,Tapas,
+2021-11-15 09:48:08.160 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:48:08.160 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"20","date":"28/11/2021","time":"17:30:00"},"Weather":{"weather":[{"main":"Clouds"}],"main":{"temp":12}},"Location":{"coords":{"longitude":-3.6978722221241935,"latitude":40.422494381998476}}}
+2021-11-15 09:48:08.179 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:48:08.179 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"20","date":"28/11/2021","time":"17:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"12","observationValue":"Clouds"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"565"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"19"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1480"}]}
+2021-11-15 09:48:08.180 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:48:08.180 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoShopping
+2021-11-15 09:49:07.638 29108-29172/com.carsproject I/ReactNativeJS: LOG: 1- Contexto de prueba
+2021-11-15 09:49:07.638 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"21","date":"28/11/2021","time":"18:30:00"},"Weather":{"weather":[{"main":"Rain"}],"main":{"temp":10}},"Location":{"coords":{"longitude":-3.6978722221241935,"latitude":40.422494381998476}}}
+2021-11-15 09:49:07.679 29108-29172/com.carsproject I/ReactNativeJS: LOG: 2-Contexto enviado a Siddhi
+2021-11-15 09:49:07.679 29108-29172/com.carsproject I/ReactNativeJS: LOG: {"UserContext":{"contextId":"21","date":"28/11/2021","time":"18:30:00"},"Observations":[{"observedProperty":"Weather","optionalField":"10","observationValue":"Rain"},{"observedProperty":"Location","optionalField":"AtApartment","observationValue":"565"},{"observedProperty":"Location","optionalField":"AtChueca","observationValue":"19"},{"observedProperty":"Location","optionalField":"AtPalacioReal","observationValue":"1480"}]}
+2021-11-15 09:49:07.681 29108-29172/com.carsproject I/ReactNativeJS: LOG: 3-Triggering rules activas
+2021-11-15 09:49:07.681 29108-29172/com.carsproject I/ReactNativeJS: LOG: GoShopping
+2021-11-15 09:49:14.742 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4- Tipos de recomendación activadas por Siddhi para el contexto: 21
+2021-11-15 09:49:14.743 29108-29172/com.carsproject I/ReactNativeJS: LOG: shops,
+2021-11-15 09:49:14.752 29108-29172/com.carsproject I/ReactNativeJS: LOG: 5- Tipos de recomendación activadas filtradas por los EXCLUSION SETS: 
+2021-11-15 09:49:14.752 29108-29172/com.carsproject I/ReactNativeJS: LOG: ,shops
+2021-11-15 09:49:15.267 29108-29172/com.carsproject I/ReactNativeJS: LOG: 6- Items recomendados por el gestor de entorno:
+2021-11-15 09:49:15.267 29108-29172/com.carsproject I/ReactNativeJS: LOG: Number of recommended items: 9
+2021-11-15 09:49:15.267 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4212; Mercado de la Cebada; Shops; Mercados,
+2021-11-15 09:49:15.267 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4124; Toni Pons (Mayor); Shops; Artesanía,Zapaterías,
+2021-11-15 09:49:15.267 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4550; Sephora (Alberto Aguilera); Shops; Perfumerías-Belleza,
+2021-11-15 09:49:15.267 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4229; Primark; Shops; Moda,
+2021-11-15 09:49:15.268 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4863; La Maragata; Shops; Gourmet,
+2021-11-15 09:49:15.268 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4305; La Santiaguesa (El Horno de San Onofre); Shops; Gourmet,
+2021-11-15 09:49:15.268 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4192; Atl&eacute,tico de Madrid Store (Gran V&iacute,a); Shops; Deporte,
+2021-11-15 09:49:15.268 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4461; Nac; Shops; Moda,
+2021-11-15 09:49:15.268 29108-29172/com.carsproject I/ReactNativeJS: LOG: 4359; Curtidos Villaverde; Shops; Compras tradicionales,
+2021-11-15 09:53:11.371 29108-29172/com.carsproject I/ReactNativeJS: LOG: INFO: Siddhi app is STOPPED -> no active triggering rules
+2021-11-15 09:53:21.019 29108-29172/com.carsproject I/ReactNativeJS: LOG: INFO: Siddhi app is STOPPED -> no active triggering rules
+2021-11-15 09:53:26.043 29108-29172/com.carsproject I/ReactNativeJS: LOG: INFO: Siddhi app is STOPPED -> no active triggering rules

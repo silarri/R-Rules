@@ -1,0 +1,7 @@
+[
+    {"key": "User profile", "value": true},
+    {"key": "Location", "value": true},
+    {"key": "Accurate Location", "value": true},
+    {"key": "Weather", "value": true},
+    {"key": "Calendar events", "value": true}
+]

@@ -1,0 +1,23 @@
+RESTAURANTS -> 979 items:
+{'Internacional': 364, 'Española': 553, 'Tapas': 238, 'De autor': 106, 'Especiales': 14, 'Bares': 10, 'Vegano': 25, 'Vegetariano': 24, 'Multiespacio': 8, 'Tabernas': 28}
+
+PLACESOFINTEREST -> 862 items:
+{'Otros': 29, 'Edificios y monumentos': 305, 'Instalaciones culturales': 377, 'Escuelas de cocina y catas de vinos y aceites': 9, 'Parques y jardines': 56, 'Empresas de guías turísticos': 35, 'Espacios para eventos': 16, 'Servicios': 22, 'Parques y centros de ocio': 28, 'Consignas': 4, 'Instalaciones deportivas': 11}
+
+ENTERTAINMENTESTABLISHMENTS -> 319 items:
+{'Coctelerías': 49, 'Discoteca': 61, 'Musica directo': 70, 'Cafés': 54, 'Otros': 7, 'Terrazas': 28, 'Flamenco': 15, 'Bar de copas': 98, 'Bingos - Casinos': 4, 'Karaokes': 9, 'Bares': 3, 'Chocolaterías': 12}
+
+SHOPS -> 863 items:
+{'Zapaterías': 30, 'Otros': 30, 'Artesanía': 14, 'Joyerías': 45, 'Deporte': 44, 'Compras tradicionales': 67, 'Gourmet': 119, 'Moda': 192, 'Regalo-Hogar-Decoración': 63, 'Librería': 59, 'Centros comerciales': 29, 'Complementos': 46, 'Moda infantil': 17, 'Grandes Almacenes': 4, 'Música': 35, 'Tecnología': 5, 'Heladerías': 11, 'Pastelerías': 9, 'Jugueterías': 18, 'Mercados': 31, 'Floristerías': 19, 'Anticuarios': 18, 'Perfumerías-Belleza': 22}
+
+ACCOMODATION -> 648 items:
+{'Hoteles': 296, 'Hostales': 216, 'Apartahoteles': 33, 'Albergues': 9, 'Camping': 2, 'Pensiones': 18, 'Residencias universitarias': 72}
+
+MUSEUMS -> 69 items:
+{'Museos': 44, 'MonumentosEdificiosArtisticos': 22, 'FundacionesCulturales': 1, 'OrganismosEmpresasMunicipales': 1, 'Planetarios': 1}
+
+SHOWSHALLS -> 189 items:
+{'Cinemas': 34, 'Theatres': 93, 'Auditoriums/ConcertHalls': 62}
+
+LEISURE -> 1000 items:
+{'ConferenciasColoquios': 67, 'DanzaBaile': 26, 'Musica': 96, 'Exposiciones': 75, '1ciudad21distritos': 33, 'Flamenco': 29, 'None': 58, 'CircoMagia': 15, 'EnLinea': 36, 'CursosTalleres': 175, 'ActividadesDeportivas': 5, 'TeatroPerformance': 84, 'ActividadesCalleArteUrbano': 6, 'ProgramacionDestacadaAgendaCultura': 112, 'CineActividadesAudiovisuales': 38, 'CuentacuentosTiteresMarionetas': 29, 'Fotografia': 3, 'JazzSoulFunkySwingReagge': 11, 'ComemoracionesHomenajes': 7, 'Campamentos': 4, 'FiestasNavidadesReyes': 2, 'RecitalesPresentacionesActosLiterarios': 22, 'Historia': 9, 'ExcursionesItinerariosVisitas': 13, 'FolcloreEtnica': 1, 'Literatura': 2, 'ClubesLectura': 2, 'Tenis': 1, 'LatinaEspanola': 1, 'Zarzuela': 3, 'ContemporaneaBreakdanceHipHop': 1, 'ItinerariosOtrasActividadesAmbientales': 19, 'ComediaMonologo': 3, 'ClasicaEspanola': 1, 'CantautorFolkCountry': 2, 'CoroGospel': 1, 'CongresosJornadas': 2, 'RockPop': 2, 'ActividadesEscolares': 1, 'Opera': 1, 'Fiestas': 1, 'ConcursosCertamenes': 1}

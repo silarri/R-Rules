@@ -1,0 +1,11 @@
+[
+    {"key": "Restaurants", "value": true},
+    {"key": "Shops", "value": true},
+    {"key": "Museums", "value": true},
+    {"key": "Places Of Interest", "value": true},
+    {"key": "Accommodation", "value": true}, 
+    {"key": "ShowsHalls", "value": true},
+    {"key": "EntertainmentEstablishments", "value": true},
+    {"key": "Leisure", "value": true},
+    {"key": "ChangeRoom", "value": true}
+]

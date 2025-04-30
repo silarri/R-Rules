@@ -1,0 +1,422 @@
+#%RAML 1.0
+---
+title: CARS
+baseUri: http://localhost:8080/{version}
+version: 1.0.1
+documentation:
+  - title: Resumen
+    content: |
+      CARS API presenta la interfaz mínima recomendada que debe implementar un
+      Environment Manager para trabajar adecuadamente con la aplicación móvil.
+      Además,considera diferentes métodos que deberían utilizarse para gestionar
+      y conocer el contenido del servidor para ofrecer una experiencia adecuada
+      a los usuarios del mismo
+mediaType: [ application/json ]
+securitySchemes:
+  passthrough:
+    description: Autorización necesaria para el acceso a ciertas operaciones de la API
+    type: Pass Through
+    describedBy:
+      headers:
+        api_key:
+          description: Utilizada para enviar un token de acceso válido
+          type: string
+      responses:
+        401:
+          description: Token inválido o expirado. Es necesario reautenticar el usuario
+        403:
+          description: Petición denegada
+types:
+  DeviceToken:
+    type: string
+    description: Identificador utilizado por Google Firebase Cloud Messaging
+      para enviar notificaciones exclusivamente al terminal indicado
+  UserId:
+    type: string
+    description: Identificador de usuario
+  ActivityId:
+    type: integer
+    description: Identificador de actividad
+  Img:
+    type: string
+    description: URL de la imagen
+  Begin:
+    type: date-only
+    description: Fecha de inicio
+  End:
+    type: date-only
+    description: Fecha de finalización
+  Genre:
+    type: string
+    description: Género
+  Birth:
+    type: date-only
+    description: Fecha de nacimiento
+  Title:
+    type: string
+    description: Título
+  Description:
+    type: string
+    description: Descripción
+  AuthorId:
+    type: string
+    description: Identificador del EM emisor
+  Author:
+    type: string
+    description: Descripción del EM emisor
+  Category:
+    type: string
+    description: Categoría de la actividad
+  Mocked:
+    type: boolean
+    description: Localización simulada
+  Temperature:
+    type: integer
+    description: Temperatura en grados Kelvin
+  Temp_min:
+    type: integer
+    description: Temperatura mínima en grados Kelvin
+  Temp_max:
+    type: integer
+    description: Temperatura máxima en grados Kelvin
+  Wind:
+    type: integer
+    description: Velocidad del viento en m/s
+  Clouds:
+    type: integer
+    description: Porcentaje de cielo cubierto de nubes
+  AllDay:
+    type: integer
+    description: ¿El evento abarca todo el día?
+  Address:
+    type: string
+    description: Localización (dirección) del evento
+  Availability:
+    type: string
+    description: Disponibilidad
+  Calendar:
+    type: string
+    description: Nombre del calendario que incluye el evento
+  Longitude:
+    type: number
+    format: double
+    description: Longitud
+  Latitude:
+    type: number
+    format: double
+    description: Latitud
+  Altitude:
+    type: number
+    format: double
+    description: Altitud
+  Speed:
+    type: number
+    format: double
+    description: Velocidad en m/s
+  Pressure:
+    type: number
+    format: double
+    description: Presión atmosférica en hPa
+  Humidity:
+    type: integer
+    description: Porcentaje de humedad
+  Clicked:
+    type: boolean
+    description: Actividad visitada
+  Saved:
+    type: boolean
+    description: Actividad marcada como favorita
+  Discarded:
+    type: boolean
+    description: Actividad descartada
+  Value:
+    type: number
+    minimum: 0
+    maximum: 5
+    description: Valoración de la actividad, si es 0 la actividad no ha sido
+      valorada
+  Token:
+    type: string
+    description: Token de acceso de sesión
+  Password:
+    type: string
+    description: Constraseña
+  UserSetting:
+    type: boolean
+    description: Indicada si los datos del perfil serán compartidos
+  LocationSetting:
+    type: boolean
+    description: Indica si la localización será compartida
+  LocationAccurate:
+    type: boolean
+    description: Indica si la localización es exacta (true) o incorpora ruido
+      (false)
+  WeatherSetting:
+    type: boolean
+    description: Indica si la información meteorológica será compartida
+  CalendarSetting:
+    type: boolean
+    description: Indica si la información del calendario del usuario será
+      compartida
+  Cause:
+    type: string
+    description: Reason to exclude user
+  Admitted:
+    type: boolean
+    description: Indica si el usuario ha sido admitido (true) o denegado (false)
+  User:
+    properties:
+      id: UserId
+      genre?: Genre
+      birth?: Birth
+  Activity:
+    properties:
+      id?: ActivityId
+      title: Title
+      description: Description
+      authorid: AuthorId
+      author: Author
+      img?: Img
+      category: Category
+      begin?: Begin
+      end?: End
+      longitude?: Longitude
+      latitude?: Latitude
+
+  Location:
+    properties:
+      mocked?: Mocked
+      longitude: Longitude
+      latitude: Latitude
+      altitude?: Altitude
+      speed?: Speed
+
+  Weather:
+    properties:
+      temperature: Temperature
+      pressure?: Pressure
+      humidity: Humidity
+      temp_min?: Temp_min
+      temp_max?: Temp_max
+      description?: Description
+      wind?: Wind
+      clouds?: Clouds
+  Event:
+    properties:
+      title: Title
+      description: Description
+      begin?: Begin
+      end?: End
+      allDay?: AllDay
+      location?: Address
+      availability?: Availability
+      calendar?: Calendar
+  Context:
+    properties:
+      weather?: Weather
+      location?: Location
+      events?: Event[]
+      timestamp: datetime
+  Feedback:
+    properties:
+      user: UserId
+      activity: ActivityId
+      clicked: Clicked
+      saved: Saved
+      discarded: Discarded
+      rate: Value
+      context: Context
+  LocationProfile:
+    properties:
+      setting: LocationSetting
+      accuracy: LocationAccurate
+  Settings:
+    properties:
+      user: UserSetting
+      location: LocationProfile
+      weather: WeatherSetting
+      calendar: CalendarSetting
+  HelloAnswer:
+    properties:
+      result: Admitted
+      reson?: Cause
+  SQL:
+    type: file
+    fileTypes: ['*/*']
+    description: Fichero con el contenido la base de datoss
+/session:
+  /login:
+    post:
+      body:
+        application/json:
+          type: object
+          properties:
+            user: UserId
+            pass: Password
+      description: Inicio de sesión. Devuelve el token de acceso válido
+      responses:
+        200:
+          body: Token
+  /logout:
+    get:
+      securedBy: [passthrough]
+      description: Devuelve true en caso de cerrar la sesión del usuario, false
+        en otro caso
+      responses:
+        200:
+          body:
+            type: boolean
+/activity:
+  /retrieve:
+    /{id}:
+      uriParameters:
+        id: ActivityId
+      get:
+        description: Devuelve el objeto actividad asociado al identificador
+          especificado
+        responses:
+          200:
+            body: Activity
+    /active:
+      get:
+        description: Devuelve una lista de las actividades almacenadas cuya
+          fecha de finalización sea igual a posterior a la actual
+        responses:
+          200:
+            body: Activity[]
+    /all:
+      get:
+        description: Devuelve una lista de todas las actividades almacenadas
+        responses:
+          200:
+            body: Activity[]
+  /store:
+    /{id}:
+      uriParameters:
+        id: ActivityId
+      post:
+        body: Activity
+        securedBy: [passthrough]
+        description: Si existe un usuario con el id especificado en el objeto
+          User actualiza la información del mismo y devuelve el mismo valor de
+          su clave, en caso contrario crea un nuevo usuario en la base de datos
+          y devuelve el valor de la nueva clave del usuario
+        responses:
+          200:
+            body: string
+  /delete:
+    /{id}:
+      uriParameters:
+        id: ActivityId
+      post:
+        securedBy: [passthrough]
+        description: Elimina la actividad cuyo identificador sea igual al
+          indicado y su feedback asociado. Devuelve true si es eliminado, false
+          en caso contrario
+        responses:
+          200:
+            body: boolean
+    /all:
+      post:
+        securedBy: [passthrough]
+        description: Elimina todas las actividades almacenadas y su feedback.
+          Devuelve true si se elimina algún dato, false en caso contrario
+        responses:
+          200:
+            body: boolean
+/schema:
+  /import:
+    post:
+      body: SQL
+      securedBy: [passthrough]
+      description: Incorpora toda la información indicada a la base de datos
+      responses:
+        200:
+          body: boolean
+   /export:
+    get:
+      securedBy: [passthrough]
+      description: Exporta toda la información almacenada en la base datos
+      responses:
+        200:
+          body: SQL
+/users:
+  /retrieve:
+    /{id}:
+      uriParameters:
+        id: UserId
+      get:
+        securedBy: [passthrough]
+        description: Devuelve la información asociada a un usuario con el
+          identificador especificado
+        responses:
+          200:
+            body: User
+    /all:
+      get:
+        securedBy: [passthrough]
+        description: Devuelve una lista con la información asociada a los
+          usuarios almacenados en la base de datos
+        responses:
+          200:
+            body: User[]
+/delete:
+  /{id}:
+    uriParameters:
+      id: UserId
+    post:
+      securedBy: [passthrough]
+      description: Elimina la información asociada al usuario con el
+        identificador indicado. Devuelve true si elimina al usuario indicado, false en caso contrario
+      responses:
+        200:
+          body: boolean
+  /all:
+    post:
+      securedBy: [passthrough]
+      description: Devuelve una lista con la información asociada a los
+        usuarios almacenados en la base de datos. Devuelve true si elimina
+        datos, false en caso contrario
+      responses:
+        200:
+          body: User[]
+/app:
+  /hello:
+    post:
+      body:
+        application/json:
+          type: object
+          properties:
+            user: User
+            settings: Settings
+      description: Recibe la información de ajustes de un nuevo usuario,en
+        caso de que sea apto para el EM devuelve true, en caso contrario false
+      responses:
+        200:
+          body: HelloAnswer
+  /context:
+    post:
+      body:
+        application/json:
+          type: object
+          properties:
+            user: UserId
+            context: Context
+      description: Actualiza el estado del usuario con el contexto especificado.
+        Devuelve una lista con todas las actividades recomendadas para el usuario
+        en dicho contexto, se recomienda no reenviar la misma actividad a menos
+        que su contenido haya sido actualizado
+      responses:
+        200:
+          body: Activity[]
+    /feedback:
+      post:
+        body:
+          application/json:
+            type: Feedback
+        description: Almacena o actualiza el feedback indicado en la base de datos.
+          En caso de almacenar o modificar algún dato devuelve true, false en caso
+          contrario
+        responses:
+          200:
+            body: boolean

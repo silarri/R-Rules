@@ -1,0 +1,112 @@
+{
+    "CR" : [
+        {
+            "id": 1,
+            "type": "Location",
+            "name": "AtApartment",
+            "gpsLatitude": 40.42501849011055, 
+            "gpsLongitude": -3.703659143791355,
+            "locationError": 100
+        },
+        {
+            "id": 2,
+            "type": "Location",
+            "name": "AtChueca",
+            "gpsLatitude": 40.42257911971905,
+            "gpsLongitude":  -3.6976774252212334, 
+            "locationError": 200
+        },
+        {
+            "id": 3,
+            "type": "Location",
+            "name": "AtPalacioReal",
+            "gpsLatitude": 40.41796570102247,  
+            "gpsLongitude": -3.7143110918401496,  
+            "locationError": 160
+        },
+        {
+            "id": 4,
+            "type": "Time-Based",
+            "name": "Time4Lunch",
+            "startTime": "13:00",
+            "endTime": "15:00"
+        },
+        {
+            "id": 5,
+            "type": "Time-Based",
+            "name": "Time4Dinner",
+            "startTime": "21:00",
+            "endTime": "22:30"
+        },
+        {
+            "id": 6,
+            "type": "Time-Based",
+            "name": "Time4Party",
+            "startTime": "22:00",
+            "endTime": "23:59"
+        },
+        {
+            "id": 7,
+            "type": "Time-Based",
+            "name": "InTheMorning",
+            "startTime": "09:30",
+            "endTime": "14:00"
+        },
+        {
+            "id": 8,
+            "type": "Calendar-Based",
+            "name" : "IsMadridWeekend",
+            "startDate": "27/11/2021",
+            "endDate": "28/11/2021",
+            "daysOfWeek": [{"key": "Monday", "checked": false}, 
+                {"key": "Tuesday","checked": false}, 
+                {"key": "Wednesday", "checked": false}, 
+                {"key": "Thursday", "checked": false}, 
+                {"key": "Friday", "checked": false}, 
+                {"key": "Saturday", "checked": true}, 
+                {"key": "Sunday", "checked": true}]
+        },
+        {
+            "id": 9,
+            "type": "Calendar-Based",
+            "name" : "ShowDay",
+            "startDate": "__/__/__",
+            "endDate": "__/__/__",
+            "daysOfWeek": [{"key": "Monday", "checked": false}, 
+                {"key": "Tuesday","checked": false}, 
+                {"key": "Wednesday", "checked": false}, 
+                {"key": "Thursday", "checked": false}, 
+                {"key": "Friday", "checked": false}, 
+                {"key": "Saturday", "checked": true}, 
+                {"key": "Sunday", "checked": false}]
+        },
+        {
+            "id": 10,
+            "type": "Weather",
+            "name" : "Good4Tourism",
+            "weatherStatus": [{"key": "Clear", "checked": true}, 
+                {"key": "Clouds","checked": true}, 
+                {"key": "Drizzle", "checked": false}, 
+                {"key": "Fog", "checked": true}, 
+                {"key": "Rain", "checked": false}, 
+                {"key": "Snow", "checked": false}, 
+                {"key": "Thunderstorm", "checked": false}],
+            "minTemp": 8,
+            "maxTemp": 30
+        },
+        {
+            "id": 11,
+            "type": "Weather",
+            "name" : "Good4Museums",
+            "weatherStatus": [{"key": "Clear", "checked": false}, 
+                {"key": "Clouds","checked": false}, 
+                {"key": "Drizzle", "checked": true}, 
+                {"key": "Fog", "checked": false}, 
+                {"key": "Rain", "checked": true}, 
+                {"key": "Snow", "checked": false}, 
+                {"key": "Thunderstorm", "checked": true}],
+            "minTemp": 8,
+            "maxTemp": 30
+        }
+    ]
+}
